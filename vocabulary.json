@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "word": "Dégat",
     "mnemonic": "On a bright sunny DAY, a bizarre GOAT—yes, a goat—appears out of nowhere and goes on an absolute rampage, knocking over chairs, smashing windows, and tripping over everything. When you hear dégât (damage), think “day goat” causing outrageous destruction everywhere. This absurd image of a goat wrecking a place will remind you that dégât is all about damage. Enjoy the madness!",
@@ -144,22 +144,10 @@
     "image": "images\\eclater de rire.JPG"
   },
   {
-    "word": "la fac",
-    "mnemonic": "üniversite'de seks döndüğünü düşün",
-    "translation": "üniversite",
-    "image": ""
-  },
-  {
     "word": "cultivé",
     "mnemonic": "bahçede yeşermiş kitap okuyan adam",
     "translation": "kültürlü",
     "image": "images\\cultivé.PNG"
-  },
-  {
-    "word": "queue",
-    "mnemonic": "sıra boyunca uzanan upuzun bi yarak düşün",
-    "translation": "yarak",
-    "image": ""
   },
   {
     "word": "se gondoler",
@@ -180,46 +168,16 @@
     "image": "images\\pub.PNG"
   },
   {
-    "word": "trou de balle",
-    "mnemonic": "topun göt deliği olduğunu düşün",
-    "translation": "göt deliği",
-    "image": ""
-  },
-  {
     "word": "taper",
     "mnemonic": "elinde bant bağlı olan birinin yumruk attığını düşün",
     "translation": "to hit",
     "image": "images\\taper.PNG"
   },
   {
-    "word": "ici même",
-    "mnemonic": "tam memenin üstü",
-    "translation": "tam burası",
-    "image": ""
-  },
-  {
-    "word": "branler",
-    "mnemonic": "baranın birine handjob yaptığını düşün",
-    "translation": "giving a handjob",
-    "image": ""
-  },
-  {
-    "word": "se branler",
-    "mnemonic": "branler'in self hali",
-    "translation": "masturbating",
-    "image": ""
-  },
-  {
     "word": "se precipiter",
     "mnemonic": "yağmur damlalarının aşırı aceleyle yağdığını düşün (precipitation yağış demek)",
     "translation": "to rush",
     "image": "images\\se précipiter.PNG"
-  },
-  {
-    "word": "s'éloigner de",
-    "mnemonic": "'c'est loin' gibi düşün",
-    "translation": "-dan uzaklaşmak",
-    "image": ""
   },
   {
     "word": "en revanche",
@@ -300,12 +258,6 @@
     "image": "images\\blessant.PNG"
   },
   {
-    "word": "têtu",
-    "mnemonic": "imane sol meme ucunun daha inatçı olduğunu söylemişti. Rus TaTu grubunda bunu düşün. têtu téton'a benziyo.'",
-    "translation": "inatçı, stubborn",
-    "image": ""
-  },
-  {
     "word": "avertir",
     "mnemonic": "avenir'e benziyo. Bilimadamları gelecek konusunda bizi uyarıp duruyolar.",
     "translation": "uyarmak",
@@ -322,12 +274,6 @@
     "mnemonic": "centre aider gibi düşün. Bi çemberin merkezinde iki kişi birbirine yardım ediyo",
     "translation": "to help each other",
     "image": "images\\s'entraider.PNG"
-  },
-  {
-    "word": "chatouiller",
-    "mnemonic": "ratatuy filminde fare yerine bi kedi olduğunu düşün. Kafanın üstünde daha ağır olduğu için adamı gıdıklıyo.",
-    "translation": "to tickle",
-    "image": "images\\chatouille.PNG"
   },
   {
     "word": "chatouiller",
@@ -443,9 +389,6 @@
     "translation": "getirmek (to bring) /götürmek (to take) / geri getirmek an object (rapporter'i boşver, ramener objeler içinde kullanılıyo)'",
     "image": "images\\apporter.PNG"
   },
-
-
-
   {
     "word": "Râler",
     "mnemonic": "",
@@ -885,12 +828,6 @@
     "image": "images\\il s'est enfui.PNG"
   },
   {
-    "word": "ils se sont enfuis",
-    "mnemonic": "",
-    "translation": "kaçtılar, they ran away",
-    "image": "images\\ils se sont enfuis.PNG"
-  },
-  {
     "word": "je me suis enfui de prison",
     "mnemonic": "",
     "translation": "hapisten kaçtım",
@@ -985,12 +922,6 @@
     "mnemonic": "",
     "translation": "around",
     "image": "images\\autour.PNG"
-  },
-  {
-    "word": "autour de",
-    "mnemonic": "",
-    "translation": "-ın etrafında, around (of)",
-    "image": "images\\autour de.PNG"
   },
   {
     "word": "autour de",
@@ -2277,12 +2208,6 @@
     "image": "images\\quand même.PNG"
   },
   {
-    "word": "quand même",
-    "mnemonic": "",
-    "translation": "harbiden (konuşma dilinde cümle sonuna eklenir çok bi anlamı yok)",
-    "image": "images\\quand même.PNG"
-  },
-  {
     "word": "je suis à l'aise",
     "mnemonic": "",
     "translation": "i am comfortable",
@@ -2949,12 +2874,6 @@
     "image": "images\\à tout jamais.PNG"
   },
   {
-    "word": "lâche",
-    "mnemonic": "",
-    "translation": "coward",
-    "image": "images\\lâche.PNG"
-  },
-  {
     "word": "salle de sport",
     "mnemonic": "",
     "translation": "gym",
@@ -2977,12 +2896,6 @@
     "mnemonic": "",
     "translation": "bunu yapmaya ne dersiniz?",
     "image": "images\\Ça vous dit de faire ça ?.PNG"
-  },
-  {
-    "word": "quand même",
-    "mnemonic": "",
-    "translation": "still",
-    "image": "images\\quand même.PNG"
   },
   {
     "word": "il était si heureux qu'il a sauté",
@@ -3871,12 +3784,6 @@
     "mnemonic": "",
     "translation": "saying stupid things",
     "image": "images\\dire des bêtises.PNG"
-  },
-  {
-    "word": "nique ta mère",
-    "mnemonic": "",
-    "translation": "ananı sikiyim",
-    "image": "images\\nique ta mère.PNG"
   },
   {
     "word": "tomber en panne",
@@ -4833,12 +4740,6 @@
     "image": "images\\cultivé.PNG"
   },
   {
-    "word": "yarak",
-    "mnemonic": "sıra boyunca uzanan upuzun bi yarak düşün",
-    "translation": "queue",
-    "image": ""
-  },
-  {
     "word": "kikirdemek",
     "mnemonic": "gondol üstünde kikirdeyen kızlar düşün",
     "translation": "se gondoler",
@@ -4857,34 +4758,10 @@
     "image": "images\\pub.PNG"
   },
   {
-    "word": "göt deliği",
-    "mnemonic": "topun göt deliği olduğunu düşün",
-    "translation": "trou de balle",
-    "image": ""
-  },
-  {
     "word": "to hit",
     "mnemonic": "elinde bant bağlı olan birinin yumruk attığını düşün",
     "translation": "taper",
     "image": "images\\taper.PNG"
-  },
-  {
-    "word": "tam burası",
-    "mnemonic": "tam memenin üstü",
-    "translation": "ici même",
-    "image": ""
-  },
-  {
-    "word": "giving a handjob",
-    "mnemonic": "baranın birine handjob yaptığını düşün",
-    "translation": "branler",
-    "image": ""
-  },
-  {
-    "word": "masturbating",
-    "mnemonic": "branler'in self hali",
-    "translation": "se branler",
-    "image": ""
   },
   {
     "word": "to rush",
@@ -4977,12 +4854,6 @@
     "image": "images\\blessant.PNG"
   },
   {
-    "word": "inatçı, stubborn",
-    "mnemonic": "imane sol meme ucunun daha inatçı olduğunu söylemişti. Rus TaTu grubunda bunu düşün. têtu téton'a benziyo.'",
-    "translation": "têtu",
-    "image": ""
-  },
-  {
     "word": "uyarmak",
     "mnemonic": "avenir'e benziyo. Bilimadamları gelecek konusunda bizi uyarıp duruyolar.",
     "translation": "avertir",
@@ -4999,12 +4870,6 @@
     "mnemonic": "centre aider gibi düşün. Bi çemberin merkezinde iki kişi birbirine yardım ediyo",
     "translation": "s'entraider",
     "image": "images\\s'entraider.PNG"
-  },
-  {
-    "word": "to tickle",
-    "mnemonic": "ratatuy filminde fare yerine bi kedi olduğunu düşün. Kafanın üstünde daha ağır olduğu için adamı gıdıklıyo.",
-    "translation": "chatouiller",
-    "image": "images\\chatouille.PNG"
   },
   {
     "word": "to tickle",
@@ -5259,12 +5124,6 @@
     "image": "images\\ils en ont marre.PNG"
   },
   {
-    "word": "I'm fed up",
-    "mnemonic": "",
-    "translation": "j'en ai ras-le-bol",
-    "image": "images\\j'en ai ras-le-bol.PNG"
-  },
-  {
     "word": "they're fed up",
     "mnemonic": "",
     "translation": "ils en ont ras-le-bol",
@@ -5463,12 +5322,6 @@
     "image": "images\\des choses pareils.PNG"
   },
   {
-    "word": "you'd better leave",
-    "mnemonic": "",
-    "translation": "y voudrait mieux que tu partes",
-    "image": "images\\y voudrait mieux que tu partes.PNG"
-  },
-  {
     "word": "vuruldum",
     "mnemonic": "",
     "translation": "on m'a tiré dessus",
@@ -5541,12 +5394,6 @@
     "image": "images\\fuguer.PNG"
   },
   {
-    "word": "kaçmak, to run away",
-    "mnemonic": "",
-    "translation": "s'enfuir",
-    "image": "images\\s'enfuir.PNG"
-  },
-  {
     "word": "kaçtılar, they ran away",
     "mnemonic": "",
     "translation": "ils se sont enfuis",
@@ -5557,12 +5404,6 @@
     "mnemonic": "",
     "translation": " il s'est enfui",
     "image": "images\\il s'est enfui.PNG"
-  },
-  {
-    "word": "kaçtılar, they ran away",
-    "mnemonic": "",
-    "translation": "ils se sont enfuis",
-    "image": "images\\ils se sont enfuis.PNG"
   },
   {
     "word": "hapisten kaçtım",
@@ -5659,12 +5500,6 @@
     "mnemonic": "",
     "translation": "autour",
     "image": "images\\autour.PNG"
-  },
-  {
-    "word": "-ın etrafında, around (of)",
-    "mnemonic": "",
-    "translation": "autour de",
-    "image": "images\\autour de.PNG"
   },
   {
     "word": "-ın etrafında, around (of)",
@@ -5973,12 +5808,6 @@
     "image": "images\\BG.PNG"
   },
   {
-    "word": "to hang out",
-    "mnemonic": "",
-    "translation": "zoner",
-    "image": "images\\zoner.PNG"
-  },
-  {
     "word": "he is in a good mood",
     "mnemonic": "",
     "translation": "Il est de bonne humeur",
@@ -5989,12 +5818,6 @@
     "mnemonic": "",
     "translation": "fermer à clé",
     "image": "images\\fermer à clé.PNG"
-  },
-  {
-    "word": "from now on",
-    "mnemonic": "",
-    "translation": "à partir de maintenant",
-    "image": "images\\à partir de maintenant.PNG"
   },
   {
     "word": "to have fun",
@@ -7395,12 +7218,6 @@
     "image": "images\\je ne sais pas comment le faire.PNG"
   },
   {
-    "word": "i don't know what to do",
-    "mnemonic": "",
-    "translation": "Je ne sais pas quoi faire",
-    "image": "images\\Je ne sais pas quoi faire.PNG"
-  },
-  {
     "word": "show me how to do it",
     "mnemonic": "",
     "translation": "montre-moi comment le faire",
@@ -7615,18 +7432,6 @@
     "mnemonic": "",
     "translation": "je me suis mis à cuisiner",
     "image": "images\\je me suis mis à cuisiner.PNG"
-  },
-  {
-    "word": "forever",
-    "mnemonic": "",
-    "translation": "à tout jamais",
-    "image": "images\\à tout jamais.PNG"
-  },
-  {
-    "word": "coward",
-    "mnemonic": "",
-    "translation": "lâche",
-    "image": "images\\lâche.PNG"
   },
   {
     "word": "gym",
@@ -8547,12 +8352,6 @@
     "image": "images\\dire des bêtises.PNG"
   },
   {
-    "word": "ananı sikiyim",
-    "mnemonic": "",
-    "translation": "nique ta mère",
-    "image": "images\\nique ta mère.PNG"
-  },
-  {
     "word": "to break down (arıza yapmak)",
     "mnemonic": "",
     "translation": "tomber en panne",
@@ -9027,12 +8826,6 @@
     "image": "images\\j'ai trois amis, dont Lucie et Eddy.PNG"
   },
   {
-    "word": "get out of here",
-    "mnemonic": "",
-    "translation": "sors d'ici",
-    "image": "images\\sors d'ici.PNG"
-  },
-  {
     "word": "i recommend you this book",
     "mnemonic": "",
     "translation": "je te recommande ce livre",
@@ -9362,5 +9155,4 @@
     "translation": "craigner",
     "image": "images\\to worry, to fear.PNG"
   }
-
 ]
