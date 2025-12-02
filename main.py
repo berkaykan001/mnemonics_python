@@ -6,6 +6,9 @@ from datetime import datetime, timedelta
 import os
 import random
 
+# Spaced repetition constants
+MAX_INTERVAL_DAYS = 30  # Maximum days between reviews (ensures monthly review minimum)
+
 class MnemonicApp:
     def __init__(self, master):
         self.master = master
@@ -66,7 +69,7 @@ class MnemonicApp:
                     "difficulty_level": 1,
                     "times_correct": 0,
                     "times_wrong": 0,
-                    "ease_factor": 2.5
+                    "ease_factor": 2.0  # Reduced from 2.5 for gentler interval growth
                 }
         
         return True
@@ -94,9 +97,9 @@ class MnemonicApp:
 
         # Word label (always visible) - larger and more prominent
         self.word_label = tk.Label(
-            main_frame, 
-            text="Loading...", 
-            font=("Arial", 32, "bold"),
+            main_frame,
+            text="Loading...",
+            font=("Arial", 16, "bold"),
             bg="#f0f0f0",
             fg="#2c3e50",
             wraplength=700,
@@ -108,7 +111,7 @@ class MnemonicApp:
         self.translation_label = tk.Label(
             main_frame,
             text="",
-            font=("Arial", 18),
+            font=("Arial", 12),
             bg="#f0f0f0",
             fg="#27ae60",
             wraplength=700,
@@ -120,7 +123,7 @@ class MnemonicApp:
         self.mnemonic_label = tk.Label(
             main_frame,
             text="",
-            font=("Arial", 14),
+            font=("Arial", 12),
             bg="#f0f0f0",
             fg="#8e44ad",
             wraplength=700,
@@ -141,7 +144,7 @@ class MnemonicApp:
         self.instruction_label = tk.Label(
             main_frame,
             text="Click anywhere to reveal translation, mnemonic, and image",
-            font=("Arial", 12, "italic"),
+            font=("Arial", 8, "italic"),
             bg="#f0f0f0",
             fg="#7f8c8d",
             height=2
@@ -157,7 +160,7 @@ class MnemonicApp:
             button_frame,
             text="✓ CORRECT",
             command=self.correct_answer,
-            font=("Arial", 16, "bold"),
+            font=("Arial", 12, "bold"),
             bg="#27ae60",
             fg="white",
             padx=40,
@@ -173,7 +176,7 @@ class MnemonicApp:
             button_frame,
             text="✗ WRONG",
             command=self.wrong_answer,
-            font=("Arial", 16, "bold"),
+            font=("Arial", 12, "bold"),
             bg="#e74c3c",
             fg="white",
             padx=40,
@@ -188,7 +191,7 @@ class MnemonicApp:
         self.progress_label = tk.Label(
             main_frame,
             text="Progress will appear here",
-            font=("Arial", 10),
+            font=("Arial", 12),
             bg="#f0f0f0",
             fg="#7f8c8d",
             height=2
@@ -316,7 +319,9 @@ class MnemonicApp:
                 progress["interval_days"] = 6
             else:
                 progress["interval_days"] = int(progress["interval_days"] * progress["ease_factor"])
-            progress["ease_factor"] = min(progress["ease_factor"] + 0.1, 3.0)
+            # Cap interval at maximum to ensure regular review
+            progress["interval_days"] = min(progress["interval_days"], MAX_INTERVAL_DAYS)
+            progress["ease_factor"] = min(progress["ease_factor"] + 0.1, 2.0)  # Reduced cap from 3.0
         else:
             progress["times_wrong"] += 1
             progress["interval_days"] = 1

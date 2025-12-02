@@ -218,11 +218,11 @@
   {
     "word": "à dire vrai / à vrai dire",
     "mnemonic": "Kadir Vre diye bi lavuk var hep doğruyu söyler asla yalan söylemez",
-    "translation": "'doğruyu söylemek gerekirse'",
+    "translation": "doğruyu söylemek gerekirse-to be honest",
     "image": "images\\à dire vrai.PNG"
   },
   {
-    "word": "s'en sortir",
+    "word": "s'en sortir (je m'en suis sorti, tu t'en es sorti, ils s'en sont sortis)",
     "mnemonic": "iki kişi bi yere sıkışmış. biri diğerine diyo ki 'sen sors, ben hellederim'",
     "translation": "to get out of it (mecaz da oluyo. Mesela bu durumdan kurtulmak gibi. Ama s'en sortir de' olmuyo. En var zaten)",
     "image": "images\\s'en sortir.PNG"
@@ -318,9 +318,9 @@
     "image": "images\\soulager.PNG"
   },
   {
-    "word": "confondre",
+    "word": "confondre (tu m'as confondu avec quelqu'un d'autre)",
     "mnemonic": "aptal bi fondü peyniri düşün (con fondre). Kafası çok karışmış.",
-    "translation": "to confuse",
+    "translation": "biriyle karıştırmak (sen beni karıştırdın)",
     "image": "images\\confondre.PNG"
   },
   {
@@ -332,7 +332,7 @@
   {
     "word": "perturber",
     "mnemonic": "türbe'ye okey per'i yaparak ve üstüne Disruptor koyarak bozduğunu düşün",
-    "translation": "to disrupt (bozmak)",
+    "translation": "to disrupt (bozmak), birini rahatsız etmek",
     "image": "images\\perturber.PNG"
   },
   {
@@ -391,13 +391,13 @@
   },
   {
     "word": "Râler",
-    "mnemonic": "",
+    "mnemonic": "sürekli söylenen bi rallici düşün",
     "translation": "To complain",
     "image": "images\\râler.PNG"
   },
   {
     "word": "Avaler",
-    "mnemonic": "",
+    "mnemonic": "trakyalı bi dayının bi şeyi yutup havale geçirdiğini düşün",
     "translation": "To swallow",
     "image": "images\\avaler.PNG"
   },
@@ -414,33 +414,33 @@
     "image": "images\\à la place.PNG"
   },
   {
-    "word": "Tabasse",
-    "mnemonic": "",
+    "word": "Tabasser",
+    "mnemonic": "bunu ilk duyduğunda peaky blinders'taki arthur'dan duydun. Onun birini dövdüğünü düşün",
     "translation": "dövmek",
-    "image": "images\\tabasse.PNG"
+    "image": "images\\tabasser.PNG"
   },
   {
     "word": "S'effondre",
-    "mnemonic": "",
+    "mnemonic": "sefanın binasının çöktüğünü ve altında kaldığını düşün",
     "translation": "To collapse",
-    "image": "images\\s'effondre.PNG"
+    "image": "images\\s'effondre.jpg"
   },
   {
     "word": "Fais gaffe",
-    "mnemonic": "",
+    "mnemonic": "gaf yapman konusunda uyarıldığını düşün",
     "translation": "Be careful",
-    "image": "images\\fais gaffe.PNG"
+    "image": "images\\fais gaffe.jpg"
   },
   {
     "word": "Je saute du coq à l'âne",
-    "mnemonic": "",
+    "mnemonic": "birinin koutu değiştirmek için horozdan eşeğe atladığını düşün",
     "translation": "I change the topic",
-    "image": "images\\je saute du coq à l'âne.PNG"
+    "image": "images\\je saute du coq à l'âne.jpg"
   },
   {
     "word": "Je suis à la bourre",
-    "mnemonic": "",
-    "translation": "I'm late",
+    "mnemonic": "şu an BURdayım ama acelem var.",
+    "translation": "I'm running late, acelem var",
     "image": "images\\je suis à la bourre.PNG"
   },
   {
@@ -451,31 +451,31 @@
   },
   {
     "word": "Autrefois",
-    "mnemonic": "",
-    "translation": "Once upon a time, bir zamanlar",
+    "mnemonic": "other time diye çevriliyo, gelecek olamıycağına göre geçmiş",
+    "translation": "bir zamanlar/bir aralar",
     "image": "images\\autrefois.PNG"
   },
   {
     "word": "Dénicher",
-    "mnemonic": "",
+    "mnemonic": "niş bişeyi gün yüzüne çıkararak artık niş olmadığını düşün (denişlendi yani)",
     "translation": "To unearth, to find, günyüzüne çıkarmak",
-    "image": "images\\dénicher.PNG"
+    "image": "images\\dénicher.jpg"
   },
   {
     "word": "traîner",
-    "mnemonic": "",
+    "mnemonic": "arkadaşlarınla trende takıldığını düşün",
     "translation": "To hang out",
-    "image": "images\\traîner.PNG"
+    "image": "images\\traîner.jpg"
   },
   {
     "word": "lâche",
-    "mnemonic": "",
+    "mnemonic": "bırak anlamına da geliyo. Bunu sadece korkak insanlar söyler. Mesela JP lâche diye bağırıp duruyo ama vuramıyo çünkü korkak.",
     "translation": "coward",
     "image": "images\\lâche.PNG"
   },
   {
     "word": "je t'en supplie",
-    "mnemonic": "",
+    "mnemonic": "i will supply it to you diye çevriliyo. Peaky blinders'taki lizzi'den duydun ilk. Onun 'ben sana bunu sağlarım yalvarırım dediğini düşün'",
     "translation": "I beg you",
     "image": "images\\je t'en supplie.PNG"
   },
@@ -487,13 +487,13 @@
   },
   {
     "word": "saisir",
-    "mnemonic": "",
-    "translation": "to understand",
+    "mnemonic": "julius sezar'ın bi kızın belini kavrarken, bilgisayara veri girdikten sonra bişey kavradığnı düşün",
+    "translation": "veri girmek, kavramak (hem fiziksel hem anlamak olarak)",
     "image": "images\\saisir.PNG"
   },
   {
     "word": "se reconcilier",
-    "mnemonic": "",
+    "mnemonic": "muse diyo ki i want to reconcile the violence in yourt heart. Kalbindeki şiddeti uzlaştırmak istiyorum. İki kişi olunca da barışma oluyo.",
     "translation": "to reconcile, barışmak, uzlaşmak",
     "image": "images\\se reconcilier.PNG"
   },
@@ -511,14 +511,14 @@
   },
   {
     "word": "un jour ou l'autre",
-    "mnemonic": "",
+    "mnemonic": "one day or another şarkısını un jour ou l'autre diye söylendiğini düşün. Bu arada eninde sonunda demek bu'",
     "translation": "one day or another, er ya da geç",
     "image": "images\\un jour ou l'autre.PNG"
   },
   {
     "word": "dis donc",
     "mnemonic": "",
-    "translation": "söyle bakalım",
+    "translation": "söyle bakalım veya wow",
     "image": "images\\dis donc.PNG"
   },
   {
@@ -529,7 +529,7 @@
   },
   {
     "word": "j'en ai ras-le-bol",
-    "mnemonic": "",
+    "mnemonic": "bende de o bowl'lardan var bıktım",
     "translation": "I'm fed up",
     "image": "images\\j'en ai ras-le-bol.PNG"
   },
@@ -571,13 +571,13 @@
   },
   {
     "word": "subir",
-    "mnemonic": "",
+    "mnemonic": "subinin acı çektiğini düşün",
     "translation": "to suffer, souffrir",
     "image": "images\\subir.PNG"
   },
   {
     "word": "les heures de pointe",
-    "mnemonic": "",
+    "mnemonic": "nokta saatleri. Akşam metro çıkışı bir sürü noktanın olduğunu düşün",
     "translation": "rush hours, yoğun saatler",
     "image": "images\\les heures de pointe.PNG"
   },
@@ -589,7 +589,7 @@
   },
   {
     "word": "se serrer",
-    "mnemonic": "",
+    "mnemonic": "gabriel sara'nın kemerini sıktığını düşün",
     "translation": "to tighten, sıkmak",
     "image": "images\\se serrer.PNG"
   },
@@ -685,7 +685,7 @@
   },
   {
     "word": "bouleverser",
-    "mnemonic": "",
+    "mnemonic": "bi bulvar düşün gördükçe eski sevgilini hatırlıyon",
     "translation": "duygusal olarak etkilenmek",
     "image": "images\\bouleverser.PNG"
   },
@@ -805,13 +805,13 @@
   },
   {
     "word": "fuguer",
-    "mnemonic": "",
+    "mnemonic": "fugitive kaçak demek mesela aynı kök belli ki. (resimde harrison ford kaçıyo)",
     "translation": "kaçmak, to run away",
-    "image": "images\\fuguer.PNG"
+    "image": "images\\fuguer.jpg"
   },
   {
     "word": "s'enfuir",
-    "mnemonic": "",
+    "mnemonic": "antoine böceklerden bahsederken bu kelimeyi kullanmıştı",
     "translation": "kaçmak, to run away",
     "image": "images\\s'enfuir.PNG"
   },
@@ -841,49 +841,49 @@
   },
   {
     "word": "au-dessus de",
-    "mnemonic": "",
+    "mnemonic": "ü ile okunanlar yukarda oluyo, u'lar aşağıda (ü'nün üst gibi düşün). 'de' varsa bişeyin biyerinde olduğunu anlıyosun. en-dessous 'under gibi okunuyo'",
     "translation": "-in yukarısında, above of",
-    "image": "images\\au-dessus de.PNG"
+    "image": "images\\sur-sous-etc.png"
   },
   {
     "word": "sous",
     "mnemonic": "",
     "translation": "-in altında, under",
-    "image": "images\\sous.PNG"
+    "image": "images\\sur-sous-etc.png"
   },
   {
     "word": "sur",
-    "mnemonic": "",
+    "mnemonic": "masanın üstünde bi sur düşün",
     "translation": "-in hemen üstünde, on",
-    "image": "images\\sur.PNG"
+    "image": "images\\sur-sous-etc.png"
   },
   {
     "word": "dessus",
     "mnemonic": "",
     "translation": "onun üstünde, on it (en, y gibi)",
-    "image": "images\\dessus.PNG"
+    "image": "images\\sur-sous-etc.png"
   },
   {
     "word": "en-dessous / dessous",
     "mnemonic": "",
     "translation": "onun altında, under it (en, y gibi)",
-    "image": "images\\en dessous.PNG"
+    "image": "images\\sur-sous-etc.png"
   },
   {
     "word": "en-dessous de / au-dessous de",
     "mnemonic": "",
     "translation": "-in altında, under (of)",
-    "image": "images\\en dessous de.PNG"
+    "image": "images\\sur-sous-etc.png"
   },
   {
     "word": "par-dessus",
-    "mnemonic": "",
-    "translation": "üstünden (Il a sauté **par-dessus** la barrière.)",
+    "mnemonic": "pardesünün üstünden atladığını düşün",
+    "translation": "üstünden (Il a sauté **par-dessus** le pardessus.)",
     "image": "images\\par-dessus.PNG"
   },
   {
     "word": "par-dessous",
-    "mnemonic": "",
+    "mnemonic": "pardesünün üstünden atladığını düşün",
     "translation": "altından (Il a rampé **par-desous** la porte.)",
     "image": "images\\par-dessous.PNG"
   },
@@ -931,32 +931,32 @@
   },
   {
     "word": "prêter",
-    "mnemonic": "",
+    "mnemonic": "vermeye hazır (prête gibi) olduğunu düşün (bu kelimeyi duyduğun o gece océane vermeye hazırdı)",
     "translation": "ödünç vermek, to lend",
     "image": "images\\prêter.PNG"
   },
   {
     "word": "emprunter",
-    "mnemonic": "",
+    "mnemonic": "printerı kucağına aldığını düşün",
     "translation": "ödünç almak, to borrow",
-    "image": "images\\emprunter.PNG"
+    "image": "images\\emprunter.jpg"
   },
   {
     "word": "rejoindre",
-    "mnemonic": "",
-    "translation": "katılmak, to join",
+    "mnemonic": "gruba rejoice şampuanının katıldığını düşün",
+    "translation": "katılmak (hem fiziksel hem fikirsel olarak), to join",
     "image": "images\\rejoindre.PNG"
   },
   {
     "word": "joindre",
-    "mnemonic": "",
+    "mnemonic": "mail'e Juan diye birini attach ettiğini düşün. ",
     "translation": "bağlamak, to link / eklemek, to attach",
     "image": "images\\joindre.PNG"
   },
   {
     "word": "quelle que soit la position",
     "mnemonic": "",
-    "translation": "mevki ayırmeksizin",
+    "translation": "mevki ayırmeksizin (no matter what position)",
     "image": "images\\quelle que soit la position.PNG"
   },
   {
@@ -969,6 +969,18 @@
     "word": "accoucher",
     "mnemonic": "",
     "translation": "doğum yapmak, to give birth",
+    "image": "images\\accoucher.PNG"
+  },
+  {
+    "word": "certains d'entre eux",
+    "mnemonic": "",
+    "translation": "some of them",
+    "image": "images\\accoucher.PNG"
+  },
+  {
+    "word": "some of them",
+    "mnemonic": "",
+    "translation": "certains d'entre eux",
     "image": "images\\accoucher.PNG"
   },
   {
@@ -997,7 +1009,7 @@
   },
   {
     "word": "la baraque",
-    "mnemonic": "",
+    "mnemonic": "baraka düşün",
     "translation": "the house",
     "image": "images\\la baraque.PNG"
   },
@@ -1009,15 +1021,15 @@
   },
   {
     "word": "j'ai la trouille",
-    "mnemonic": "",
+    "mnemonic": "tüyden korkan birini düşün",
     "translation": "i'm scared",
-    "image": "images\\j'ai la trouille.PNG"
+    "image": "images\\j'ai la trouille.jpg"
   },
   {
-    "word": "je suis crevée",
-    "mnemonic": "",
+    "word": "je suis crevé",
+    "mnemonic": "Carving yaparken aşırı yorulan birini düşün. (crever ölmek demek ama bu şekilde kullanılınca hep yorulmak oluyo)",
     "translation": "i'm tired",
-    "image": "images\\je suis crevée.PNG"
+    "image": "images\\je suis crevé.jpg"
   },
   {
     "word": "il pète les plombs",
@@ -1027,14 +1039,14 @@
   },
   {
     "word": "au courant",
-    "mnemonic": "",
+    "mnemonic": "Arnaud bunu sana sormuştu are you aware anlamında. O aklına gelsin.",
     "translation": "aware",
     "image": "images\\au courant.PNG"
   },
   {
     "word": "ça craint",
     "mnemonic": "",
-    "translation": "it's risky",
+    "translation": "that's bad-that sucks",
     "image": "images\\ça craint.PNG"
   },
   {
@@ -1045,27 +1057,27 @@
   },
   {
     "word": "canon",
-    "mnemonic": "",
+    "mnemonic": "aşırı güzel bi top düşün",
     "translation": "gorgeous",
     "image": "images\\canon.PNG"
   },
   {
     "word": "chelou",
-    "mnemonic": "",
+    "mnemonic": "şule ablanın garip garip davrandığını düşün",
     "translation": "weird",
     "image": "images\\chelou.PNG"
   },
   {
     "word": "friqué(e)",
-    "mnemonic": "",
+    "mnemonic": "frikik çeken zengin birini düşün",
     "translation": "rich",
-    "image": "images\\friqué(e).PNG"
+    "image": "images\\friqué.jpg"
   },
   {
     "word": "fauché(e)",
-    "mnemonic": "",
+    "mnemonic": "faşistler fakir olmaya mahkumdur",
     "translation": "broke",
-    "image": "images\\fauché(e).PNG"
+    "image": "images\\fauché.jpg"
   },
   {
     "word": "dingue",
@@ -1076,7 +1088,7 @@
   {
     "word": "bourré(e)",
     "mnemonic": "",
-    "translation": "drunk (wasted)",
+    "translation": "drunk",
     "image": "images\\bourré(e).PNG"
   },
   {
@@ -1087,19 +1099,19 @@
   },
   {
     "word": "chiant(e), relou",
-    "mnemonic": "",
+    "mnemonic": "yerde yuvarlanan uyuz bi köpek düşün (chien who is rolling)",
     "translation": "annoying",
-    "image": "images\\chiant(e), relou.PNG"
+    "image": "images\\chiant(e), relou.png"
   },
   {
     "word": "chouette",
-    "mnemonic": "",
+    "mnemonic": "cool tipli bi baykuş düşün",
     "translation": "cool",
-    "image": "images\\chouette.PNG"
+    "image": "images\\chouette.jpg"
   },
   {
     "word": "le bordel",
-    "mnemonic": "",
+    "mnemonic": "çok dağınık bi kerhane düşün",
     "translation": "the mess",
     "image": "images\\le bordel.PNG"
   },
@@ -1111,9 +1123,9 @@
   },
   {
     "word": "j'ai la flemme",
-    "mnemonic": "",
-    "translation": "I'm lazy",
-    "image": "images\\j'ai la flemme.PNG"
+    "mnemonic": "flemme flame'e benziyo. Havanın çok sıcak olduğunu ve bişey yapmaya üşendiğini düşün",
+    "translation": "I'm lazy, üşeniyom",
+    "image": "images\\j'ai la flemme.jpg"
   },
   {
     "word": "n'importe quoi",
@@ -1129,21 +1141,21 @@
   },
   {
     "word": "c'est nul",
-    "mnemonic": "",
+    "mnemonic": "aurelie mikel'e demişti oyun kötü olunca (this game sucks)",
     "translation": "that sucks",
     "image": "images\\c'est nul.PNG"
   },
   {
     "word": "nickel",
-    "mnemonic": "",
+    "mnemonic": "nickelback'in how you remind me şarkısı mükemmel.",
     "translation": "perfect",
     "image": "images\\nickel.PNG"
   },
   {
     "word": "piquer",
-    "mnemonic": "",
+    "mnemonic": "gerard piquenin iğne çaldığını düşün",
     "translation": "steal, sting",
-    "image": "images\\piquer.PNG"
+    "image": "images\\piquer.jpg"
   },
   {
     "word": "le blé, le fric, le pognon, la thune",
@@ -1242,9 +1254,21 @@
     "image": "images\\Il est de bonne humeur.PNG"
   },
   {
-    "word": "fermer à clé",
+    "word": "ferme la porte à clé",
     "mnemonic": "",
-    "translation": "to lock",
+    "translation": "lock the door",
+    "image": "images\\fermer à clé.PNG"
+  },
+  {
+    "word": "verrouiller la porte",
+    "mnemonic": "",
+    "translation": "lock the door",
+    "image": "images\\fermer à clé.PNG"
+  },
+  {
+    "word": "lock the door",
+    "mnemonic": "",
+    "translation": "verrouiller la porte",
     "image": "images\\fermer à clé.PNG"
   },
   {
@@ -1472,7 +1496,7 @@
   {
     "word": "à peine",
     "mnemonic": "",
-    "translation": "hardly",
+    "translation": "hardly, barely",
     "image": "images\\à peine.PNG"
   },
   {
@@ -1518,10 +1542,10 @@
     "image": "images\\je plaisante avec toi.PNG"
   },
   {
-    "word": "plutot",
+    "word": "plutôt",
     "mnemonic": "",
-    "translation": "rather, more likely, instead",
-    "image": "images\\plutot.PNG"
+    "translation": "rather, more likely, instead, pretty much, quite",
+    "image": "images\\plutôt.PNG"
   },
   {
     "word": "Je suis en danger",
@@ -1777,13 +1801,13 @@
   },
   {
     "word": "s'approcher",
-    "mnemonic": "",
+    "mnemonic": "katil vidyosunda t'approche pas diyolardı",
     "translation": "to approach (fiziksel olarak)",
     "image": "images\\s'approcher.PNG"
   },
   {
     "word": "je m'approche de toi",
-    "mnemonic": "",
+    "mnemonic": "katil vidyosunda t'approche pas diyolardı",
     "translation": "i approach you (fiziksel olarak)",
     "image": "images\\je m'approche de toi.PNG"
   },
@@ -2232,25 +2256,25 @@
     "image": "images\\tu es à l'aise là?.PNG"
   },
   {
-    "word": "j'ai entendu parler de ce film",
+    "word": "j'ai 'entendu parler de' ce film",
     "mnemonic": "",
     "translation": "i heard this movie",
     "image": "images\\j'ai entendu parler de ce film.PNG"
   },
   {
-    "word": "J'ai entendu dire que le match était annulé",
+    "word": "J'ai 'entendu dire que' le match était annulé",
     "mnemonic": "",
     "translation": "i heard that the match was canceled",
     "image": "images\\J'ai entendu dire que le match était annulé.PNG"
   },
   {
-    "word": "J'ai entendu dire que tu allais mourir",
+    "word": "J'ai 'entendu dire que' tu allais mourir",
     "mnemonic": "",
     "translation": "i heard that you were going to die",
     "image": "images\\J'ai entendu dire que tu allais mourir.PNG"
   },
   {
-    "word": "j'ai entendu parler de lui",
+    "word": "j'ai 'entendu parler de' lui",
     "mnemonic": "",
     "translation": "i heard about him",
     "image": "images\\j'ai entendu parler de lui.PNG"
@@ -3402,13 +3426,13 @@
     "image": "images\\Il y a un parking en haut.PNG"
   },
   {
-    "word": "à part ça",
-    "mnemonic": "",
-    "translation": "bunun dışında",
+    "word": "à part (ça) / hormis (ça) (bi tık daha formal)",
+    "mnemonic": "à part direkt apart zaten aynı köken büyük ihtimal. Hormis de hors gibi",
+    "translation": "(bunun) dışında",
     "image": "images\\à part ça.PNG"
   },
   {
-    "word": "à part ce problème",
+    "word": "à part /hormis ce problème",
     "mnemonic": "",
     "translation": "bu problemin dışında",
     "image": "images\\à part ce problème.PNG"
@@ -4200,8 +4224,8 @@
     "image": "images\\à la limite.PNG"
   },
   {
-    "word": "à la rigueur",
-    "mnemonic": "",
+    "word": "à la rigueur (formal, rare)",
+    "mnemonic": "ala rigör si neseser diye beraber bi kalıpmış gibi düşün",
     "translation": "gerekirse",
     "image": "images\\à la rigueur.PNG"
   },
@@ -4326,10 +4350,10 @@
     "image": "images\\un peu d'alcool.PNG"
   },
   {
-    "word": "cette livre est facile à lire",
+    "word": "ce livre est facile à lire",
     "mnemonic": "",
     "translation": "this book is easy to read (il est ile başlamayan kalıpta à ile devam)",
-    "image": "images\\cette livre est facile à lire.PNG"
+    "image": "images\\ce livre est facile à lire.PNG"
   },
   {
     "word": "il est facile de lire",
@@ -4812,7 +4836,7 @@
     "image": ""
   },
   {
-    "word": "'doğruyu söylemek gerekirse'",
+    "word": "doğruyu söylemek gerekirse-to be honest",
     "mnemonic": "Kadir Vre diye bi lavuk var hep doğruyu söyler asla yalan söylemez",
     "translation": "à dire vrai / à vrai dire",
     "image": "images\\à dire vrai.PNG"
@@ -4820,7 +4844,7 @@
   {
     "word": "to get out of it (mecaz da oluyo. Mesela bu durumdan kurtulmak gibi. Ama s'en sortir de' olmuyo. En var zaten)",
     "mnemonic": "iki kişi bi yere sıkışmış. biri diğerine diyo ki 'sen sors, ben hellederim'",
-    "translation": "s'en sortir",
+    "translation": "s'en sortir (je m'en suis sorti, tu t'en es sorti, ils s'en sont sortis)",
     "image": "images\\s'en sortir.PNG"
   },
   {
@@ -4914,9 +4938,9 @@
     "image": "images\\soulager.PNG"
   },
   {
-    "word": "to confuse",
+    "word": "biriyle karıştırmak (sen beni karıştırdın)",
     "mnemonic": "aptal bi fondü peyniri düşün (con fondre). Kafası çok karışmış.",
-    "translation": "confondre",
+    "translation": "confondre (tu m'as confondu avec quelqu'un d'autre)",
     "image": "images\\confondre.PNG"
   },
   {
@@ -4926,7 +4950,7 @@
     "image": ""
   },
   {
-    "word": "to disrupt (bozmak)",
+    "word": "to disrupt (bozmak), birini rahatsız etmek",
     "mnemonic": "türbe'ye okey per'i yaparak ve üstüne Disruptor koyarak bozduğunu düşün",
     "translation": "perturber",
     "image": "images\\perturber.PNG"
@@ -5520,7 +5544,7 @@
     "image": "images\\emprunter.PNG"
   },
   {
-    "word": "katılmak, to join",
+    "word": "katılmak (hem fiziksel hem fikirsel olarak), to join",
     "mnemonic": "",
     "translation": "rejoindre",
     "image": "images\\rejoindre.PNG"
@@ -5532,7 +5556,7 @@
     "image": "images\\joindre.PNG"
   },
   {
-    "word": "mevki ayırmeksizin",
+    "word": "mevki ayırmeksizin (no matter what position)",
     "mnemonic": "",
     "translation": "quelle que soit la position",
     "image": "images\\quelle que soit la position.PNG"
@@ -5610,7 +5634,7 @@
     "image": "images\\au courant.PNG"
   },
   {
-    "word": "it's risky",
+    "word": "that's bad-that sucks",
     "mnemonic": "",
     "translation": "ça craint",
     "image": "images\\ça craint.PNG"
@@ -5652,7 +5676,7 @@
     "image": "images\\dingue.PNG"
   },
   {
-    "word": "drunk (wasted)",
+    "word": "drunk",
     "mnemonic": "",
     "translation": "bourré(e)",
     "image": "images\\bourré(e).PNG"
@@ -6036,7 +6060,7 @@
     "image": "images\\du coup.PNG"
   },
   {
-    "word": "hardly",
+    "word": "hardly, barely",
     "mnemonic": "",
     "translation": "à peine",
     "image": "images\\à peine.PNG"
@@ -6084,9 +6108,9 @@
     "image": "images\\je plaisante avec toi.PNG"
   },
   {
-    "word": "rather, more likely, instead",
+    "word": "rather, more likely, instead, pretty much, quite",
     "mnemonic": "",
-    "translation": "plutot",
+    "translation": "plutôt",
     "image": "images\\plutot.PNG"
   },
   {
@@ -7968,15 +7992,15 @@
     "image": "images\\Il y a un parking en haut.PNG"
   },
   {
-    "word": "bunun dışında",
-    "mnemonic": "",
-    "translation": "à part ça",
+    "word": "(bunun) dışında",
+    "mnemonic": "à part direkt apart zaten aynı köken büyük ihtimal. Hormis de hors gibi",
+    "translation": "à part (ça) / hormis (ça) (bi tık daha formal)",
     "image": "images\\à part ça.PNG"
   },
   {
     "word": "bu problemin dışında",
     "mnemonic": "",
-    "translation": "à part ce problème",
+    "translation": "à part / hormis ce problème",
     "image": "images\\à part ce problème.PNG"
   },
   {
@@ -8766,8 +8790,8 @@
     "image": "images\\à la limite.PNG"
   },
   {
-    "word": "gerekirse",
-    "mnemonic": "",
+    "word": "gerekirse (formal, rare)",
+    "mnemonic": "ala rigör si neseser diye beraber bi kalıpmış gibi düşün",
     "translation": "à la rigueur",
     "image": "images\\à la rigueur.PNG"
   },
@@ -8888,8 +8912,8 @@
   {
     "word": "this book is easy to read (il est ile başlamayan kalıpta à ile devam)",
     "mnemonic": "",
-    "translation": "cette livre est facile à lire",
-    "image": "images\\cette livre est facile à lire.PNG"
+    "translation": "ce livre est facile à lire",
+    "image": "images\\ce livre est facile à lire.PNG"
   },
   {
     "word": "it is easy to read (il est ile başlayan kalıpta de ile devam)",
@@ -9145,14 +9169,2961 @@
   },
   {
     "word": "craigner",
-    "mnemonic": "",
-    "translation": "to worry, to fear",
+    "mnemonic": "cranium yani kafatası gibi. Kafatasının açılmasından korktuğunu düşün",
+    "translation": "to worry about, to fear about (about kısmını unutma, mesela Je crains la pluie demain i'm worried about a rain demek. Fiil gelcekse 'de' koyuyon araya. Je crains de faire gibi. ama Je crains de toi diyemiyon.)",
     "image": "images\\craignent.PNG"
   },
   {
     "word": "to worry, to fear",
     "mnemonic": "",
-    "translation": "craigner",
+    "translation": "craigner (about kısmını unutma, mesela Je crains la pluie demain i'm worried about a rain demek. Fiil gelcekse 'de' koyuyon araya. Je crains de faire gibi. ama Je crains de toi diyemiyon.)",
     "image": "images\\to worry, to fear.PNG"
+  },
+  {
+    "word": "qui vir par l'épée périra par l'épée",
+    "mnemonic": "",
+    "translation": "su testisi su yolunda kırılır, who lives by the sword dies by it",
+    "image": ""
+  },
+  {
+    "word": "su testisi su yolunda kırılır, who lives by the sword dies by it",
+    "mnemonic": "",
+    "translation": "qui vir par l'épée périra par l'épée",
+    "image": ""
+  },
+  {
+    "word": "mon nez me démange",
+    "mnemonic": "démanger yemenin zıttı gibi düşün mesela boğazın kaşınıyo diye yediklerini çıkarıyon",
+    "translation": "burnum kaşınıyo",
+    "image": ""
+  },
+  {
+    "word": "burnum kaşınıyo",
+    "mnemonic": "démanger yemenin zıttı gibi düşün mesela boğazın kaşınıyo diye yediklerini çıkarıyon",
+    "translation": "mon nez me démange",
+    "image": ""
+  },
+  {
+    "word": "démangeaison",
+    "mnemonic": "kaşınan Gedson fernandes düşün (deman jezon)",
+    "translation": "kaşıntı",
+    "image": ""
+  },
+  {
+    "word": "kaşıntı",
+    "mnemonic": "kaşınan Gedson fernandes düşün (deman jezon)",
+    "translation": "démangeaison",
+    "image": ""
+  },
+  {
+    "word": "cicatrice",
+    "mnemonic": "scarface gibi oknuyo",
+    "translation": "scar, yara",
+    "image": ""
+  },
+  {
+    "word": "scar, yara",
+    "mnemonic": "scarface gibi oknuyo",
+    "translation": "cicatrice",
+    "image": ""
+  },
+  {
+    "word": "everything makes sense",
+    "mnemonic": "",
+    "translation": "tout a du sens",
+    "image": ""
+  },
+  {
+    "word": "tout a du sens",
+    "mnemonic": "",
+    "translation": "everything makes sense",
+    "image": ""
+  },
+  {
+    "word": "it makes sense",
+    "mnemonic": "",
+    "translation": "ça a du sens",
+    "image": ""
+  },
+  {
+    "word": "ça a du sens",
+    "mnemonic": "",
+    "translation": "it makes sense",
+    "image": ""
+  },
+  {
+    "word": "il m'a gavé'",
+    "mnemonic": "gavi prensesle takılmayarak herkesi annoy etti",
+    "translation": "he annoyed me",
+    "image": ""
+  },
+  {
+    "word": "he annoyed me",
+    "mnemonic": "gavi prensesle takılmayarak herkesi annoy etti",
+    "translation": "il m'a gavé'",
+    "image": ""
+  },
+  {
+    "word": "divertissement",
+    "mnemonic": "diverse insanların eğlendiğini düşün (resim orgy partisine benzedi)",
+    "translation": "entertainment",
+    "image": "divertissement.jpg"
+  },
+  {
+    "word": "entertainment",
+    "mnemonic": "diverse insanların eğlendiğini düşün (resim orgy partisine benzedi)",
+    "translation": "divertissement",
+    "image": "divertissement.jpg"
+  },
+  {
+    "word": "et les autres?",
+    "mnemonic": "et direkt how about demek. Et moi how about me demek",
+    "translation": "how about the other ones?",
+    "image": ""
+  },
+  {
+    "word": "how about the other ones?",
+    "mnemonic": "et direkt how about demek. Et moi how about me demek",
+    "translation": "et les autres?",
+    "image": ""
+  },
+  {
+    "word": "je m'en bats les couilles",
+    "mnemonic": "",
+    "translation": "idgaf",
+    "image": ""
+  },
+  {
+    "word": "ne me fais pas de mal (de'yü yutuyon)",
+    "mnemonic": "",
+    "translation": "don't hurt me",
+    "image": ""
+  },
+  {
+    "word": "don't hurt me",
+    "mnemonic": "",
+    "translation": "ne me fais pas de mal (de'yü yutuyon)",
+    "image": ""
+  },
+  {
+    "word": "what's written?",
+    "mnemonic": "",
+    "translation": "qu'est-ce qui est écrit ?",
+    "image": ""
+  },
+  {
+    "word": "qu'est-ce qui est écrit ?",
+    "mnemonic": "",
+    "translation": "what's written?",
+    "image": ""
+  },
+  {
+    "word": "there mustn't be",
+    "mnemonic": "",
+    "translation": "il doit y avoir pas",
+    "image": "images\\il doit y avoir.PNG"
+  },
+  {
+    "word": "there shouldn't be",
+    "mnemonic": "",
+    "translation": "il devrait pas y avoir",
+    "image": "images\\il devrait y avoir.PNG"
+  },
+  {
+    "word": "on se dirige vers la porte",
+    "mnemonic": "",
+    "translation": "we're heading towards the door",
+    "image": ""
+  },
+  {
+    "word": "we're heading towards the door",
+    "mnemonic": "",
+    "translation": "on se dirige vers la porte",
+    "image": ""
+  },
+  {
+    "word": "qu'est-ce qui lui est arrivé?",
+    "mnemonic": "",
+    "translation": "what happened to him?",
+    "image": ""
+  },
+  {
+    "word": "what happened to him?",
+    "mnemonic": "",
+    "translation": "qu'est-ce qui lui est arrivé?",
+    "image": ""
+  },
+  {
+    "word": "qu'est-ce qui t'es arrive?",
+    "mnemonic": "",
+    "translation": "what happened to you?",
+    "image": ""
+  },
+  {
+    "word": "what happened to you?",
+    "mnemonic": "",
+    "translation": "qu'est-ce qui t'es arrive?",
+    "image": ""
+  },
+  {
+    "word": "Tu peux partir, j'en ai fini avec toi",
+    "mnemonic": "",
+    "translation": "you can leave, i'm done with you ",
+    "image": ""
+  },
+  {
+    "word": "you can leave, i'm done with you",
+    "mnemonic": "",
+    "translation": "Tu peux partir, j'en ai fini avec toi",
+    "image": ""
+  },
+  {
+    "word": "je peux partir si tu en as fini avec moi",
+    "mnemonic": "",
+    "translation": "i can leave if you're done with me",
+    "image": ""
+  },
+  {
+    "word": "i can leave if you're done with me",
+    "mnemonic": "",
+    "translation": "je peux partir si tu en as fini avec moi",
+    "image": ""
+  },
+  {
+    "word": "laisse-le parler",
+    "mnemonic": "",
+    "translation": "let him talk",
+    "image": ""
+  },
+  {
+    "word": "let him talk",
+    "mnemonic": "",
+    "translation": "laisse-le parler",
+    "image": ""
+  },
+  {
+    "word": "il chie dans son froc",
+    "mnemonic": "",
+    "translation": "korkudan altına sıçıyo",
+    "image": ""
+  },
+  {
+    "word": "korkudan altına sıçıyo",
+    "mnemonic": "",
+    "translation": "il chie dans son froc",
+    "image": ""
+  },
+  {
+    "word": "j'ai chie dans mon froc",
+    "mnemonic": "",
+    "translation": "korkudan altıma sıçtım",
+    "image": ""
+  },
+  {
+    "word": "korkudan altıma sıçtım",
+    "mnemonic": "",
+    "translation": "j'ai chie dans mon froc",
+    "image": ""
+  },
+  {
+    "word": "c'est bien que tu sois là",
+    "mnemonic": "",
+    "translation": "it's good that you are here",
+    "image": ""
+  },
+  {
+    "word": "it's good that you are here",
+    "mnemonic": "",
+    "translation": "c'est bien que tu sois là",
+    "image": ""
+  },
+  {
+    "word": "jokes aside-şaka bi yana",
+    "mnemonic": "",
+    "translation": "blague à part",
+    "image": ""
+  },
+  {
+    "word": "blague à part",
+    "mnemonic": "",
+    "translation": "jokes aside-şaka bi yana",
+    "image": ""
+  },
+  {
+    "word": "Je n'en ai pas la moindre idée",
+    "mnemonic": "",
+    "translation": "hiç bi fikrim yok",
+    "image": ""
+  },
+  {
+    "word": "hiç bi fikrim yok",
+    "mnemonic": "",
+    "translation": "Je n'en ai pas la moindre idée",
+    "image": ""
+  },
+  {
+    "word": "ça me gave",
+    "mnemonic": "gay gibi duruyo gayler insanı gıcık eder.",
+    "translation": "it annoys me",
+    "image": ""
+  },
+  {
+    "word": "it annoys me",
+    "mnemonic": "gay gibi duruyo gayler insanı gıcık eder.",
+    "translation": "ça me gave",
+    "image": ""
+  },
+  {
+    "word": "génie",
+    "mnemonic": "genius gibi zaten adı üstünde.",
+    "translation": "genius",
+    "image": ""
+  },
+  {
+    "word": "genius",
+    "mnemonic": "genius gibi zaten adı üstünde.",
+    "translation": "génie",
+    "image": ""
+  },
+  {
+    "word": "je suis emu",
+    "mnemonic": "ben emoyum gibi söyleniyo. Emolar duygusal olarak etkilenir hep.",
+    "translation": "duygusal olarak etkilenmek (b ve t ile başlayan değil)",
+    "image": "je suis emu.PNG"
+  },
+  {
+    "word": "duygusal olarak etkilenmek (b ve t ile başlayan değil)",
+    "mnemonic": "ben emoyum gibi söyleniyo. Emolar duygusal olarak etkilenir hep.",
+    "translation": "je suis emu",
+    "image": "je suis emu.PNG"
+  },
+  {
+    "word": "tenter (j'ai tenté ma chance)",
+    "mnemonic": "tenemek gibi düşün",
+    "translation": "to try (şansımı denemek istiyorum derken hep bu kullanılır",
+    "image": ""
+  },
+  {
+    "word": "to try (şansımı denemek istiyorum derken hep bu kullanılır",
+    "mnemonic": "tenemek gibi düşün",
+    "translation": "tenter (j'ai tenté ma chance)",
+    "image": ""
+  },
+  {
+    "word": "se taper",
+    "mnemonic": "gömdüğün şeyin aşırı lezzetli olduğunu bu yüzden kendine vura vura yediğini düşün",
+    "translation": "argo yemek, gömmek gibi düşün",
+    "image": "se taper.PNG"
+  },
+  {
+    "word": "argo yemek, gömmek gibi düşün",
+    "mnemonic": "gömdüğün şeyin aşırı lezzetli olduğunu bu yüzden kendine vura vura yediğini düşün",
+    "translation": "se taper",
+    "image": "se taper.PNG"
+  },
+  {
+    "word": "mettre en place",
+    "mnemonic": "place yani meydana bişey koyup düzenek kurduğunu düşün",
+    "translation": "set up (ayarlamak kurmak) Shaq düştüğü zaman you set me up diyodu, o anlamda",
+    "image": "mettre en place.jpg"
+  },
+  {
+    "word": "set up (ayarlamak kurmak) Shaq düştüğü zaman you set me up diyodu, o anlamda",
+    "mnemonic": "place yani meydana bişey koyup düzenek kurduğunu düşün",
+    "translation": "mettre en place",
+    "image": "mettre en place.jpg"
+  },
+  {
+    "word": "agaçant/agaçante",
+    "mnemonic": "agalar birbiriyle annoying olurlar",
+    "translation": "annoying",
+    "image": "agaçant.PNG"
+  },
+  {
+    "word": "annoying",
+    "mnemonic": "agalar birbiriyle annoying olurlar",
+    "translation": "agaçant/agaçante",
+    "image": "agaçant.PNG"
+  },
+  {
+    "word": "je vous le demande aux génoux",
+    "mnemonic": "diz üstü çöküp yalvardığını düşün",
+    "translation": "size yalvarıyorum",
+    "image": ""
+  },
+  {
+    "word": "size yalvarıyorum",
+    "mnemonic": "diz üstü çöküp yalvardığını düşün",
+    "translation": "je vous le demande aux génoux",
+    "image": ""
+  },
+  {
+    "word": "j'abandonne pas",
+    "mnemonic": "adı üstünde",
+    "translation": "i'm not giving up",
+    "image": ""
+  },
+  {
+    "word": "i'm not giving up",
+    "mnemonic": "adı üstünde",
+    "translation": "j'abandonne pas",
+    "image": ""
+  },
+  {
+    "word": "On le tient par les couilles!",
+    "mnemonic": "birinin taşaklarını yakaladığını hayal et, eline düşmüştür",
+    "translation": "elimize düştü",
+    "image": ""
+  },
+  {
+    "word": "elimize düştü",
+    "mnemonic": "birinin taşaklarını yakaladığını hayal et, eline düşmüştür",
+    "translation": "On le tient par les couilles!",
+    "image": ""
+  },
+  {
+    "word": "on va lui faire cracher le morceau",
+    "mnemonic": "we'll make him spit out the 'parça'",
+    "translation": "ağzındaki baklayı çıkarttırıcaz",
+    "image": ""
+  },
+  {
+    "word": "ağzındaki baklayı çıkarttırıcaz",
+    "mnemonic": "we'll make him spit out the 'parça'",
+    "translation": "on va lui faire cracher le morceau",
+    "image": ""
+  },
+  {
+    "word": "Crache le morceau",
+    "mnemonic": "spit out the 'parça'",
+    "translation": "çıkar ağzındaki baklayı",
+    "image": ""
+  },
+  {
+    "word": "çıkar ağzındaki baklayı",
+    "mnemonic": "spit out the 'parça'",
+    "translation": "Crache le morceau",
+    "image": ""
+  },
+  {
+    "word": "cette person est béton armé",
+    "mnemonic": "",
+    "translation": "this person is tough (informal)",
+    "image": ""
+  },
+  {
+    "word": "this person is tough (informal)",
+    "mnemonic": "",
+    "translation": "cette person est béton armé",
+    "image": ""
+  },
+  {
+    "word": "tout d'abord'",
+    "mnemonic": "",
+    "translation": "first of all",
+    "image": ""
+  },
+  {
+    "word": "first of all",
+    "mnemonic": "",
+    "translation": "tout d'abord'",
+    "image": ""
+  },
+  {
+    "word": "ash",
+    "mnemonic": "cendriller'nin küllük olduğunu biliyodun, ordan aklına gelsin",
+    "translation": "cendre",
+    "image": ""
+  },
+  {
+    "word": "cendre",
+    "mnemonic": "cendriller'nin küllük olduğunu biliyodun, ordan aklına gelsin",
+    "translation": "ash",
+    "image": ""
+  },
+  {
+    "word": "cramer",
+    "mnemonic": "yanan yeri kremlediğini düşün",
+    "translation": "to burn (slang)",
+    "image": "cramer.PNG"
+  },
+  {
+    "word": "to burn (slang)",
+    "mnemonic": "yanan yeri kremlediğini düşün",
+    "translation": "cramer",
+    "image": "cramer.PNG"
+  },
+  {
+    "word": "rougir les oreilles",
+    "mnemonic": "fransızlar yüzsüz olduğu için yüzleri değil kulakları kızarar",
+    "translation": "yüzünü kızartmak (utandırmak - to blush)",
+    "image": "rougir les oreilles.PNG"
+  },
+  {
+    "word": "yüzünü kızartmak (utandırmak - to blush)",
+    "mnemonic": "fransızlar yüzsüz olduğu için yüzleri değil kulakları kızarar",
+    "translation": "rougir les oreilles",
+    "image": "rougir les oreilles.PNG"
+  },
+  {
+    "word": "taquiner",
+    "mnemonic": "can chaplin'in 'şaka taquiniyom ha' dediğini düşün",
+    "translation": "to tease (takılmak)",
+    "image": "taquiner.PNG"
+  },
+  {
+    "word": "to tease (takılmak)",
+    "mnemonic": "can chaplin'in 'şaka taquiniyom ha' dediğini düşün",
+    "translation": "taquiner",
+    "image": "taquiner.PNG"
+  },
+  {
+    "word": "viser",
+    "mnemonic": "birinin vizeyle nişan aldığını düşün",
+    "translation": "to aim",
+    "image": "viser.PNG"
+  },
+  {
+    "word": "to aim",
+    "mnemonic": "birinin vizeyle nişan aldığını düşün",
+    "translation": "viser",
+    "image": "viser.PNG"
+  },
+  {
+    "word": "tarder",
+    "mnemonic": "zaten en retard gecikme demek. Ordan bulursun",
+    "translation": "to delay, geciktirmek",
+    "image": ""
+  },
+  {
+    "word": "to delay, geciktirmek",
+    "mnemonic": "zaten en retard gecikme demek. Ordan bulursun",
+    "translation": "tarder",
+    "image": ""
+  },
+  {
+    "word": "s'affoler, paniquer",
+    "mnemonic": "",
+    "translation": "to panic",
+    "image": ""
+  },
+  {
+    "word": "to panic",
+    "mnemonic": "",
+    "translation": "s'affoler, paniquer",
+    "image": ""
+  },
+  {
+    "word": "soucie, exit",
+    "mnemonic": "susi ile issue benziyo aslında. Exit için de bi kere restoran tuvaletinde görmüştün",
+    "translation": "issue (bu kelime ingilizce)",
+    "image": ""
+  },
+  {
+    "word": "issue (bu kelime ingilizce)",
+    "mnemonic": "susi ile issue benziyo aslında. Exit için de bi kere restoran tuvaletinde görmüştün",
+    "translation": "soucie",
+    "image": ""
+  },
+  {
+    "word": "adapté",
+    "mnemonic": "burası sana uygun değil çünkü adapte olamadın",
+    "translation": "suitable-uygun",
+    "image": ""
+  },
+  {
+    "word": "suitable-uygun",
+    "mnemonic": "burası sana uygun değil çünkü adapte olamadın",
+    "translation": "adapté",
+    "image": ""
+  },
+  {
+    "word": "sueur",
+    "mnemonic": "roll on 'sür', terlemişsin",
+    "translation": "ter",
+    "image": "sueur.PNG"
+  },
+  {
+    "word": "ter",
+    "mnemonic": "roll on 'sür', terlemişsin",
+    "translation": "sueur",
+    "image": "sueur.PNG"
+  },
+  {
+    "word": "cracher",
+    "mnemonic": "crash derken boğazdan söylüyon ya, yanlışlıkla tükürdüğünü düşün",
+    "translation": "to spit",
+    "image": "cracher.PNG"
+  },
+  {
+    "word": "to spit",
+    "mnemonic": "crash derken boğazdan söylüyon ya, yanlışlıkla tükürdüğünü düşün",
+    "translation": "cracher",
+    "image": "cracher.PNG"
+  },
+  {
+    "word": "défoncer",
+    "mnemonic": "khabib conor'a diyo ki 'seni smesh edicem defans yourself' conor'da diyo ki 'defons ey?'",
+    "translation": "to smash (informal)",
+    "image": "défoncer.PNG"
+  },
+  {
+    "word": "to smash",
+    "mnemonic": "khabib conor'a diyo ki 'seni smesh edicem defans yourself' conor'da diyo ki 'defons ey?'",
+    "translation": "défoncer (informal)",
+    "image": "défoncer.PNG"
+  },
+  {
+    "word": "c'est du gâteau",
+    "mnemonic": "",
+    "translation": "it's a piece of cake",
+    "image": ""
+  },
+  {
+    "word": "it's a piece of cake",
+    "mnemonic": "",
+    "translation": "c'est du gâteau",
+    "image": ""
+  },
+  {
+    "word": "Elle s'est prise les pieds dans le tapis",
+    "mnemonic": "ayağını halıya takıldırttı. Bu bi hatadır",
+    "translation": "she made a mistake/blunder",
+    "image": "Elle s'est prise les pieds dans le tapis.PNG"
+  },
+  {
+    "word": "she made a mistake/blunder",
+    "mnemonic": "ayağını halıya takıldırttı. Bu bi hatadır",
+    "translation": "Elle s'est prise les pieds dans le tapis",
+    "image": "Elle s'est prise les pieds dans le tapis.PNG"
+  },
+  {
+    "word": "Elle se prend les pieds dans le tapis.",
+    "mnemonic": "ayağını halıya takıldırttı. Bu bi hatadır",
+    "translation": "she is making a mistake/blunder",
+    "image": "Elle s'est prise les pieds dans le tapis.PNG"
+  },
+  {
+    "word": "she is making a mistake/blunder",
+    "mnemonic": "ayağını halıya takıldırttı. Bu bi hatadır",
+    "translation": "Elle se prend les pieds dans le tapis.",
+    "image": "Elle s'est prise les pieds dans le tapis.PNG"
+  },
+  {
+    "word": "Elle se prend les pieds dans le tapis.",
+    "mnemonic": "ayağını halıya takıldırttı. Bu bi hatadır",
+    "translation": "she is making a mistake/blunder",
+    "image": "Elle s'est prise les pieds dans le tapis.PNG"
+  },
+  {
+    "word": "she is making a mistake/blunder",
+    "mnemonic": "ayağını halıya takıldırttı. Bu bi hatadır",
+    "translation": "Elle se prend les pieds dans le tapis.",
+    "image": "Elle s'est prise les pieds dans le tapis.PNG"
+  },
+  {
+    "word": "ça en est une",
+    "mnemonic": "",
+    "translation": "this is one of them",
+    "image": ""
+  },
+  {
+    "word": "this is one of them",
+    "mnemonic": "",
+    "translation": "ça en est une",
+    "image": ""
+  },
+  {
+    "word": "c'est pour rire",
+    "mnemonic": "",
+    "translation": "it's for fun",
+    "image": ""
+  },
+  {
+    "word": "it's for fun",
+    "mnemonic": "",
+    "translation": "c'est pour rire",
+    "image": ""
+  },
+  {
+    "word": "quoi que ce soit",
+    "mnemonic": "",
+    "translation": "whatever it is",
+    "image": ""
+  },
+  {
+    "word": "whatever it is",
+    "mnemonic": "",
+    "translation": "quoi que ce soit",
+    "image": ""
+  },
+  {
+    "word": "que puis-je pour vous",
+    "mnemonic": "",
+    "translation": "siye nasıl yardımcı olabilirim (kürtmüş)",
+    "image": ""
+  },
+  {
+    "word": "siye nasıl yardımcı olabilirim (kürtmüş)",
+    "mnemonic": "",
+    "translation": "que puis-je pour vous",
+    "image": ""
+  },
+  {
+    "word": "j'ai zappé",
+    "mnemonic": "elektroşok yiyip bi an herşeyi unuttuğunu düşün",
+    "translation": "i forgot",
+    "image": ""
+  },
+  {
+    "word": "i forgot",
+    "mnemonic": "elektroşok yiyip bi an herşeyi unuttuğunu düşün",
+    "translation": "j'ai zappé",
+    "image": ""
+  },
+  {
+    "word": "tu veux rire?",
+    "mnemonic": "",
+    "translation": "are you kidding?",
+    "image": ""
+  },
+  {
+    "word": "are you kidding?",
+    "mnemonic": "",
+    "translation": "tu veux rire?",
+    "image": ""
+  },
+  {
+    "word": "je m'en tape",
+    "mnemonic": "",
+    "translation": "i don't care (t'li olan)",
+    "image": ""
+  },
+  {
+    "word": "i don't care (t'li olan)",
+    "mnemonic": "",
+    "translation": "je m'en tape",
+    "image": ""
+  },
+  {
+    "word": "malin",
+    "mnemonic": "MALİ zeki ve informal bi adam",
+    "translation": "zeki (hafif informal)",
+    "image": "malin.PNG"
+  },
+  {
+    "word": "zeki (hafif informal)",
+    "mnemonic": "MALİ zeki ve informal bi adam",
+    "translation": "malin",
+    "image": "malin.PNG"
+  },
+  {
+    "word": "déchanter",
+    "mnemonic": "bok gibi şarkı söyleyip milleti hayal kırıklığına uğrattığını düşün",
+    "translation": "hayal kırıklığına uğramak",
+    "image": "déchanter.PNG"
+  },
+  {
+    "word": "hayal kırıklığına uğramak",
+    "mnemonic": "bok gibi şarkı söyleyip milleti hayal kırıklığına uğrattığını düşün",
+    "translation": "déchanter",
+    "image": "déchanter.PNG"
+  },
+  {
+    "word": "for scientific purposes",
+    "mnemonic": "pur-po-ses , a-de-fans",
+    "translation": "à des fins scientifiques",
+    "image": ""
+  },
+  {
+    "word": "à des fins scientifiques",
+    "mnemonic": "pur-po-ses , a-de-fans",
+    "translation": "for scientific purposes",
+    "image": ""
+  },
+  {
+    "word": "y compris",
+    "mnemonic": "y i diye okunuyo kompris de kluding'e benziyo ordan aklına gelsin",
+    "translation": "including (cümle içinde virgülden sonra including diye devam ettiğin)",
+    "image": ""
+  },
+  {
+    "word": "including (cümle içinde virgülden sonra including diye devam ettiğin)",
+    "mnemonic": "y i diye okunuyo kompris de kluding'e benziyo ordan aklına gelsin",
+    "translation": "y compris",
+    "image": ""
+  },
+  {
+    "word": "se débrouiller",
+    "mnemonic": "ebrunun herşeyi hallettiğini düşün (hallederiz karşim dediğini düşün)",
+    "translation": "to figure out, halletmek",
+    "image": ""
+  },
+  {
+    "word": "including (cümle içinde virgülden sonra including diye devam ettiğin)",
+    "mnemonic": "ebrunun herşeyi hallettiğini düşün (hallederiz karşim dediğini düşün)",
+    "translation": "y compris",
+    "image": ""
+  },
+  {
+    "word": "parier",
+    "mnemonic": "parier 'para ye' gibi okunuyo ordan aklına gelsin",
+    "translation": "to bet",
+    "image": "parier.PNG"
+  },
+  {
+    "word": "to bet",
+    "mnemonic": "parier 'para ye' gibi okunuyo ordan aklına gelsin.",
+    "translation": "parier",
+    "image": "parier.PNG"
+  },
+  {
+    "word": "draguer",
+    "mnemonic": "yürüdüğün kızı date olarak drag yarışlarına götürdüğünü düşün",
+    "translation": "bi kişiye yürümek",
+    "image": "draguer.PNG"
+  },
+  {
+    "word": "bi kişiye yürümek",
+    "mnemonic": "yürüdüğün kızı date olarak drag yarışlarına götürdüğünü düşün",
+    "translation": "draguer",
+    "image": "draguer.PNG"
+  },
+  {
+    "word": "renseigner",
+    "mnemonic": "enseigner öğretmek, bu da bi türevi ordan aklına gelsin",
+    "translation": "to inform, bilgilendirmek",
+    "image": ""
+  },
+  {
+    "word": "to inform, bilgilendirmek",
+    "mnemonic": "enseigner öğretmek, bu da bi türevi ordan aklına gelsin",
+    "translation": "renseigner",
+    "image": ""
+  },
+  {
+    "word": "exiger (c'est exigé)",
+    "mnemonic": "-J'ye ihtiyaç duyan bi adam düşün",
+    "translation": "to require (it's required)",
+    "image": "exiger.png"
+  },
+  {
+    "word": "to require (it's required)",
+    "mnemonic": "-J'ye ihtiyaç duyan bi adam düşün",
+    "translation": "exiger (c'est exigé)",
+    "image": "exiger.png"
+  },
+  {
+    "word": "tu te fou de ma gueule?",
+    "mnemonic": "",
+    "translation": "Are you fucking kidding me?",
+    "image": ""
+  },
+  {
+    "word": "Are you fucking kidding me?",
+    "mnemonic": "",
+    "translation": "tu te fou de ma gueule?",
+    "image": ""
+  },
+  {
+    "word": "casser la gueule",
+    "mnemonic": "ağzını kırmak açık ve net",
+    "translation": "argo dövmek (kick ass)",
+    "image": ""
+  },
+  {
+    "word": "argo dövmek (kick ass)",
+    "mnemonic": "ağzını kırmak açık ve net",
+    "translation": "casser la gueule",
+    "image": ""
+  },
+  {
+    "word": "pourri (c'est pourri, ils sont pourris etc)",
+    "mnemonic": "çürümüş kokuşmuş",
+    "translation": "it sucks (informal)",
+    "image": ""
+  },
+  {
+    "word": "it sucks (informal)",
+    "mnemonic": "çürümüş kokuşmuş",
+    "translation": "pourri (c'est pourri, ils sont pourris etc)",
+    "image": ""
+  },
+  {
+    "word": "ça fait un bail",
+    "mnemonic": "Gs'nin BAY geçtiği haftadan sonra takımı görünce kankine bunu diyon",
+    "translation": "it's been a while (informal)",
+    "image": ""
+  },
+  {
+    "word": "it's been a while (informal)",
+    "mnemonic": "Gs'nin BAY geçtiği haftadan sonra takımı görünce kankine bunu diyon",
+    "translation": "ça fait un bail",
+    "image": ""
+  },
+  {
+    "word": "il paraît que",
+    "mnemonic": "",
+    "translation": "apparently-apparement",
+    "image": ""
+  },
+  {
+    "word": "apparently-apparement",
+    "mnemonic": "",
+    "translation": "il paraît que",
+    "image": ""
+  },
+  {
+    "word": "aldatmak",
+    "mnemonic": "",
+    "translation": "avoir une aventure",
+    "image": ""
+  },
+  {
+    "word": "avoir une aventure",
+    "mnemonic": "",
+    "translation": "aldatmak",
+    "image": ""
+  },
+  {
+    "word": "ça te regarde pas, ça me regarde pas",
+    "mnemonic": "",
+    "translation": "it's not your business, it's none of my business",
+    "image": ""
+  },
+  {
+    "word": "it's not your business, it's none of my business",
+    "mnemonic": "",
+    "translation": "ça te regarde pas, ça me regarde pas",
+    "image": ""
+  },
+  {
+    "word": "retourner le cerveau",
+    "mnemonic": "",
+    "translation": "kafayı allak bullak etmek, deli etmek (çok confusing veya çok overwhelming durumlarda)",
+    "image": ""
+  },
+  {
+    "word": "kafayı allak bullak etmek, deli etmek (çok confusing veya çok overwhelming durumlarda)",
+    "mnemonic": "",
+    "translation": "retourner le cerveau",
+    "image": ""
+  },
+  {
+    "word": "j'en reviens pas",
+    "mnemonic": "",
+    "translation": "i can't believe it",
+    "image": ""
+  },
+  {
+    "word": "i can't believe it",
+    "mnemonic": "",
+    "translation": "j'en reviens pas",
+    "image": ""
+  },
+  {
+    "word": "personne d'autre",
+    "mnemonic": "",
+    "translation": "no one else",
+    "image": ""
+  },
+  {
+    "word": "no one else",
+    "mnemonic": "",
+    "translation": "personne d'autre",
+    "image": ""
+  },
+  {
+    "word": "en rapport avec ça",
+    "mnemonic": "",
+    "translation": "related to that",
+    "image": ""
+  },
+  {
+    "word": "related to that",
+    "mnemonic": "",
+    "translation": "en rapport avec ça",
+    "image": ""
+  },
+  {
+    "word": "se défoncer la gueule",
+    "mnemonic": "ağzını dağıtmak",
+    "translation": "to get wasted (hem içki hem dayak anlamında)",
+    "image": ""
+  },
+  {
+    "word": "to get wasted (hem içki hem dayak anlamında)",
+    "mnemonic": "ağzını dağıtmak",
+    "translation": "se défoncer la gueule",
+    "image": ""
+  },
+  {
+    "word": "i'm doing my best/i'm trying my best",
+    "mnemonic": "",
+    "translation": "je fais de mon mieux",
+    "image": ""
+  },
+  {
+    "word": "je fais de mon mieux",
+    "mnemonic": "",
+    "translation": "i'm doing my best/i'm trying my best",
+    "image": ""
+  },
+  {
+    "word": "Je rejoins Alex",
+    "mnemonic": "",
+    "translation": "Alex'e katılıyorum (fikirsel açıdan)",
+    "image": ""
+  },
+  {
+    "word": "Alex'e katılıyorum (fikirsel açıdan)",
+    "mnemonic": "",
+    "translation": "Je rejoins Alex",
+    "image": ""
+  },
+  {
+    "word": "bel et bien",
+    "mnemonic": "",
+    "translation": "harbiden, cidden",
+    "image": ""
+  },
+  {
+    "word": "harbiden, cidden",
+    "mnemonic": "",
+    "translation": "bel et bien",
+    "image": ""
+  },
+  {
+    "word": "qu'est-ce qui te prend?",
+    "mnemonic": "",
+    "translation": "senin neyin var? (agresif değilde endişelenme gibi, iyi misin gibi)",
+    "image": ""
+  },
+  {
+    "word": "senin neyin var? (agresif değilde endişelenme gibi, iyi misin gibi)",
+    "mnemonic": "",
+    "translation": "qu'est-ce qui te prend?",
+    "image": ""
+  },
+  {
+    "word": "rompre avec Ajax",
+    "mnemonic": "",
+    "translation": "to break up with ajax",
+    "image": ""
+  },
+  {
+    "word": "to break up with ajax",
+    "mnemonic": "",
+    "translation": "rompre avec Ajax",
+    "image": ""
+  },
+  {
+    "word": "à coup sûr",
+    "mnemonic": "",
+    "translation": "for sure",
+    "image": ""
+  },
+  {
+    "word": "for sure",
+    "mnemonic": "",
+    "translation": "à coup sûr",
+    "image": ""
+  },
+  {
+    "word": "c'est lié à toi",
+    "mnemonic": "",
+    "translation": "it's related to you",
+    "image": ""
+  },
+  {
+    "word": "it's related to you",
+    "mnemonic": "",
+    "translation": "c'est lié à toi",
+    "image": ""
+  },
+  {
+    "word": "frangin",
+    "mnemonic": "",
+    "translation": "bro",
+    "image": ""
+  },
+  {
+    "word": "bro",
+    "mnemonic": "",
+    "translation": "frangin",
+    "image": ""
+  },
+  {
+    "word": "avoir du culot, avoir des couilles",
+    "mnemonic": "",
+    "translation": "to have balls",
+    "image": ""
+  },
+  {
+    "word": "to have balls",
+    "mnemonic": "",
+    "translation": "avoir du culot, avoir des couilles",
+    "image": ""
+  },
+  {
+    "word": "si ça te chante (informal)",
+    "mnemonic": "",
+    "translation": "if you want",
+    "image": ""
+  },
+  {
+    "word": "if you want",
+    "mnemonic": "",
+    "translation": "si ça te chante (informal)",
+    "image": ""
+  },
+  {
+    "word": "si ça te chante (informal)",
+    "mnemonic": "",
+    "translation": "if you want",
+    "image": ""
+  },
+  {
+    "word": "if you want",
+    "mnemonic": "",
+    "translation": "si ça te chante (informal)",
+    "image": ""
+  },
+  {
+    "word": "tu m'étonnes",
+    "mnemonic": "",
+    "translation": "you don't say (yemin et)",
+    "image": ""
+  },
+  {
+    "word": "you don't say (yemin et)",
+    "mnemonic": "",
+    "translation": "tu m'étonnes",
+    "image": ""
+  },
+  {
+    "word": "compter",
+    "mnemonic": "konte efsane bi filozof olmaya niyetlenmiş ama olamamış heralde çünkü ne iş yaptığını bilmiyorum",
+    "translation": "niyetlenmek",
+    "image": ""
+  },
+  {
+    "word": "niyetlenmek",
+    "mnemonic": "konte efsane bi filozof olmaya niyetlenmiş ama olamamış heralde çünkü ne iş yaptığını bilmiyorum",
+    "translation": "compter",
+    "image": ""
+  },
+  {
+    "word": "balancer",
+    "mnemonic": "",
+    "translation": "ispiyonlamak",
+    "image": ""
+  },
+  {
+    "word": "ispiyonlamak",
+    "mnemonic": "",
+    "translation": "balancer",
+    "image": ""
+  },
+  {
+    "word": "tu m'as mis un vent",
+    "mnemonic": "beni rüzgarın içine koydun çünkü sikinde bile değildim",
+    "translation": "beni siklemedin",
+    "image": ""
+  },
+  {
+    "word": "beni siklemedin",
+    "mnemonic": "beni rüzgarın içine koydun çünkü sikinde bile değildim",
+    "translation": "tu m'as mis un vent",
+    "image": ""
+  },
+  {
+    "word": "ça me rend barjot",
+    "mnemonic": "",
+    "translation": "it drives me crazy (informal)",
+    "image": ""
+  },
+  {
+    "word": "it drives me crazy (informal)",
+    "mnemonic": "",
+    "translation": "ça me rend barjot",
+    "image": ""
+  },
+  {
+    "word": "haïr (direkt e diye okunuyo, hais, hait, il l'a haïe (il la ai diye okunuyo))",
+    "mnemonic": "",
+    "translation": "to hate (bi tık daha formal)",
+    "image": ""
+  },
+  {
+    "word": "to hate (bi tık daha formal)",
+    "mnemonic": "",
+    "translation": "haïr (direkt e diye okunuyo, hais, hait, il l'a haïe (il la ai diye okunuyo)",
+    "image": ""
+  },
+  {
+    "word": "porter la poisse",
+    "mnemonic": "",
+    "translation": "kötü şans getirmek (informal)",
+    "image": ""
+  },
+  {
+    "word": "kötü şans getirmek (informal)",
+    "mnemonic": "",
+    "translation": "porter la poisse",
+    "image": ""
+  },
+  {
+    "word": "se barrer (barre toi)",
+    "mnemonic": "",
+    "translation": "uzamak, uza",
+    "image": ""
+  },
+  {
+    "word": "uzamak, uza",
+    "mnemonic": "",
+    "translation": "se barrer (barre toi)",
+    "image": ""
+  },
+  {
+    "word": "ragot",
+    "mnemonic": "raga oktayın başka repçilerin dedikodusunu yaptığını düşün",
+    "translation": "gossip",
+    "image": ""
+  },
+  {
+    "word": "gossip",
+    "mnemonic": "raga oktayın başka repçilerin dedikodusunu yaptığını düşün",
+    "translation": "ragot",
+    "image": ""
+  },
+  {
+    "word": "tu te mêles des affaires des autres (se mêler)",
+    "mnemonic": "temel sümelanın şifresinde herşeye karışıyo",
+    "translation": "başkalarının işine karışıyorsun (to be involved, to interfere)",
+    "image": ""
+  },
+  {
+    "word": "başkalarının işine karışıyorsun (to be involved, to interfere)",
+    "mnemonic": "temel sümelanın şifresinde herşeye karışıyo",
+    "translation": "tu te mêles des affaires des autres (se mêler)",
+    "image": ""
+  },
+  {
+    "word": "tout le monde est resté bouche bée en voyant ça",
+    "mnemonic": "literally ağzının açık kalması. Bée wide open demekmiş",
+    "translation": "bunu görünce herkesin ağzı açık kaldı",
+    "image": ""
+  },
+  {
+    "word": "bunu görünce herkesin ağzı açık kaldı",
+    "mnemonic": "literally ağzının açık kalması. Bée wide open demekmiş",
+    "translation": "tout le monde est resté bouche bée en voyant ça",
+    "image": ""
+  },
+  {
+    "word": "best person ever",
+    "mnemonic": "",
+    "translation": "la meilleure person qui soit",
+    "image": ""
+  },
+  {
+    "word": "la meilleure person qui soit",
+    "mnemonic": "",
+    "translation": "best person ever",
+    "image": ""
+  },
+  {
+    "word": "qui que ce soit, quoi que ce soit",
+    "mnemonic": "i'll suck anyone - je sucerai qui que ce soit",
+    "translation": "anyone, anything (ama fark etmeksizin anlamında)",
+    "image": ""
+  },
+  {
+    "word": "anyone, anything (ama fark etmeksizin anlamında)",
+    "mnemonic": "i'll suck anyone - je sucerai qui que ce soit",
+    "translation": "qui que ce soit, quoi que ce soit",
+    "image": ""
+  },
+  {
+    "word": "foutre (qu'est ce que tu fous, vous foutez quoi?)",
+    "mnemonic": "",
+    "translation": "yapmak ama kaba, wtf are you doing gibi",
+    "image": ""
+  },
+  {
+    "word": "yapmak ama kaba, wtf are you doing gibi",
+    "mnemonic": "",
+    "translation": "foutre (qu'est ce que tu fous, vous foutez quoi?)",
+    "image": ""
+  },
+  {
+    "word": "je n'ai trouvé que dalle d'une pomme",
+    "mnemonic": "",
+    "translation": "sadece bi elma buldum amk",
+    "image": ""
+  },
+  {
+    "word": "sadece bi elma buldum amk",
+    "mnemonic": "",
+    "translation": "je n'ai trouvé que dalle d'une pomme",
+    "image": ""
+  },
+  {
+    "word": "la caisse",
+    "mnemonic": "LA KES! BİN ŞU ARABAYA",
+    "translation": "araba (argo)",
+    "image": ""
+  },
+  {
+    "word": "araba (argo)",
+    "mnemonic": "LA KES! BİN ŞU ARABAYA",
+    "translation": "la caisse",
+    "image": ""
+  },
+  {
+    "word": "raffoler de",
+    "mnemonic": "ruffles'ı çok sevdiğini düşün",
+    "translation": "çok sevmek, bayılmak (biraz informal)",
+    "image": ""
+  },
+  {
+    "word": "çok sevmek, bayılmak (biraz informal)",
+    "mnemonic": "ruffles'ı çok sevdiğini düşün",
+    "translation": "raffoler de",
+    "image": ""
+  },
+  {
+    "word": "éclater (informal)",
+    "mnemonic": "30 reasons why'da kız j'éclatais grave demişti",
+    "translation": "aşırı eğlenmek",
+    "image": ""
+  },
+  {
+    "word": "aşırı eğlenmek",
+    "mnemonic": "30 reasons why'da kız j'éclatais grave demişti",
+    "translation": "éclater (informal)",
+    "image": ""
+  },
+  {
+    "word": "il a essayé de 'faire porter le chapeau' à son ami",
+    "mnemonic": "suçun şapka olduğunu düşün ve o şapkayı birine zorla giydirmeye çalıştığını",
+    "translation": "suç atmak, to blame (bi tık informal), blâmer",
+    "image": ""
+  },
+  {
+    "word": "suç atmak, to blame (bi tık informal), blâmer",
+    "mnemonic": "suçun şapka olduğunu düşün ve o şapkayı birine zorla giydirmeye çalıştığını",
+    "translation": "il a essayé de faire porter le chapeau à son ami",
+    "image": ""
+  },
+  {
+    "word": "tandis que",
+    "mnemonic": "patronla tandır yer iken, while eating tandi with boss",
+    "translation": "while (bi tık formal)",
+    "image": ""
+  },
+  {
+    "word": "while (bi tık formal)",
+    "mnemonic": "patronla tandır yer iken, while eating tandi with boss",
+    "translation": "tandis que",
+    "image": ""
+  },
+  {
+    "word": "elle est 'fort' belle",
+    "mnemonic": "",
+    "translation": "she's 'very' beautiful (bi tık formal)",
+    "image": ""
+  },
+  {
+    "word": "she's 'very' beautiful (bi tık formal)",
+    "mnemonic": "",
+    "translation": "elle est 'fort' belle",
+    "image": ""
+  },
+  {
+    "word": "en gros",
+    "mnemonic": "",
+    "translation": "in short, kıscası",
+    "image": ""
+  },
+  {
+    "word": "in short, kıscası",
+    "mnemonic": "",
+    "translation": "en gros",
+    "image": ""
+  },
+  {
+    "word": "pédale",
+    "mnemonic": "korkak bi bisiklet pedalı düşün",
+    "translation": "pussy, pısırık",
+    "image": ""
+  },
+  {
+    "word": "pussy, pısırık",
+    "mnemonic": "korkak bi bisiklet pedalı düşün",
+    "translation": "pédale",
+    "image": ""
+  },
+  {
+    "word": "rassurer",
+    "mnemonic": "rasmus höjlund iyi forvet insanın içini rahatlatıyo",
+    "translation": "içini rahatlatmak, to reassure",
+    "image": ""
+  },
+  {
+    "word": "içini rahatlatmak, to reassure",
+    "mnemonic": "rasmus höjlund iyi forvet insanın içini rahatlatıyo",
+    "translation": "rassurer",
+    "image": ""
+  },
+  {
+    "word": "rassurer",
+    "mnemonic": "rasmus höjlund iyi forvet insanın içini rahatlatıyo",
+    "translation": "içini rahatlatmak, to reassure",
+    "image": ""
+  },
+  {
+    "word": "içini rahatlatmak, to reassure",
+    "mnemonic": "rasmus höjlund iyi forvet insanın içini rahatlatıyo",
+    "translation": "rassurer",
+    "image": ""
+  },
+  {
+    "word": "c'est flippant",
+    "mnemonic": "creepy bi adamın coin flip yaptığını düşün",
+    "translation": "it's creepy",
+    "image": ""
+  },
+  {
+    "word": "it's creepy",
+    "mnemonic": "creepy bi adamın coin flip yaptığını düşün",
+    "translation": "c'est flippant",
+    "image": ""
+  },
+  {
+    "word": "faire une montagne(normal)/des caisses(informal) d'un rien",
+    "mnemonic": "hiç bişey'den dağ yapmak",
+    "translation": "pireyi deve yapmak",
+    "image": ""
+  },
+  {
+    "word": "pireyi deve yapmak",
+    "mnemonic": "hiç bişey'den dağ yapmak",
+    "translation": "faire une montagne(normal)/des caisses(informal) d'un rien",
+    "image": ""
+  },
+  {
+    "word": "texto",
+    "mnemonic": "texto taylan mesaj atıyo sana",
+    "translation": "mesaj (SMS, WP etc)",
+    "image": ""
+  },
+  {
+    "word": "mesaj (SMS, WP etc)",
+    "mnemonic": "texto taylan mesaj atıyo sana",
+    "translation": "texto",
+    "image": ""
+  },
+  {
+    "word": "fixer",
+    "mnemonic": "gözünü birine fikslediğini düşün. Alex jessicayla hannah'yı kesiyodu (on t'a vu nous fixer)",
+    "translation": "kesmek (izlemek anlamında) (informal)",
+    "image": ""
+  },
+  {
+    "word": "kesmek (izlemek anlamında) (informal)",
+    "mnemonic": "gözünü birine fikslediğini düşün. Alex jessicayla hannah'yı kesiyodu (on t'a vu nous fixer)",
+    "translation": "fixer",
+    "image": ""
+  },
+  {
+    "word": "fixer",
+    "mnemonic": "gözünü birine fikslediğini düşün. Alex jessicayla hannah'yı kesiyodu (on t'a vu nous fixer)",
+    "translation": "kesmek (izlemek anlamında) (informal)",
+    "image": ""
+  },
+  {
+    "word": "kesmek (izlemek anlamında) (informal)",
+    "mnemonic": "gözünü birine fikslediğini düşün. Alex jessicayla hannah'yı kesiyodu (on t'a vu nous fixer)",
+    "translation": "fixer",
+    "image": ""
+  },
+  {
+    "word": "fixer",
+    "mnemonic": "gözünü birine fikslediğini düşün. Alex jessicayla hannah'yı kesiyodu (on t'a vu nous fixer)",
+    "translation": "kesmek (izlemek anlamında) (informal)",
+    "image": ""
+  },
+  {
+    "word": "kesmek (izlemek anlamında) (informal)",
+    "mnemonic": "gözünü birine fikslediğini düşün. Alex jessicayla hannah'yı kesiyodu (on t'a vu nous fixer)",
+    "translation": "fixer",
+    "image": ""
+  },
+  {
+    "word": "se lasser de (elle ne se lasse jamais de voyager)",
+    "mnemonic": "lasso ile birilerini yakalamaktan sıkılan bi kovboy, yıllardır aynı şey",
+    "translation": "sıkılmak olan baymak kelimesini 'baymak from' gibi düşün.",
+    "image": ""
+  },
+  {
+    "word": "sıkılmak olan baymak kelimesini 'baymak from' gibi düşün.",
+    "mnemonic": "lasso ile birilerini yakalamaktan sıkılan bi kovboy, yıllardır aynı şey",
+    "translation": "se lasser de (elle ne se lasse jamais de voyager)",
+    "image": ""
+  },
+  {
+    "word": "se lasser de (elle ne se lasse jamais de voyager)",
+    "mnemonic": "lasso ile birilerini yakalamaktan sıkılan bi kovboy, yıllardır aynı şey",
+    "translation": "sıkılmak olan baymak kelimesini 'baymak from' gibi düşün.",
+    "image": ""
+  },
+  {
+    "word": "sıkılmak olan baymak kelimesini 'baymak from' gibi düşün.",
+    "mnemonic": "lasso ile birilerini yakalamaktan sıkılan bi kovboy, yıllardır aynı şey",
+    "translation": "se lasser de (elle ne se lasse jamais de voyager)",
+    "image": ""
+  },
+  {
+    "word": "à priori (AI'lar formal diyo ama Mikel de demişti Tiktok'ta da dendi)",
+    "mnemonic": "teori kelimesi hafif priori'ye benziyo",
+    "translation": "teorik olarak (theoretically)",
+    "image": ""
+  },
+  {
+    "word": "teorik olarak (theoretically)",
+    "mnemonic": "teori kelimesi hafif priori'ye benziyo",
+    "translation": "à priori (AI'lar formal diyo ama Mikel de demişti Tiktok'ta da dendi)",
+    "image": ""
+  },
+  {
+    "word": "fait entrer Sarah, fait-la entrer (fait Sarah entrer yanlış)",
+    "mnemonic": "",
+    "translation": "make Sarah enter",
+    "image": ""
+  },
+  {
+    "word": "make Sarah enter",
+    "mnemonic": "",
+    "translation": "fait entrer Sarah, fait-la entrer (fait Sarah entrer yanlış)",
+    "image": ""
+  },
+  {
+    "word": "tu te fous de ma gueule?",
+    "mnemonic": "",
+    "translation": "are you fucking with me?",
+    "image": ""
+  },
+  {
+    "word": "are you fucking with me?",
+    "mnemonic": "",
+    "translation": "tu te fous de ma gueule?",
+    "image": ""
+  },
+  {
+    "word": "tu te fous de ma gueule?",
+    "mnemonic": "",
+    "translation": "are you fucking with me?",
+    "image": ""
+  },
+  {
+    "word": "are you fucking with me?",
+    "mnemonic": "",
+    "translation": "tu te fous de ma gueule?",
+    "image": ""
+  },
+  {
+    "word": "ça pue à ce point?",
+    "mnemonic": "",
+    "translation": "o kadar mı kokuyo? / it smells to this extent?",
+    "image": ""
+  },
+  {
+    "word": "o kadar mı kokuyo? / it smells to this extent?",
+    "mnemonic": "",
+    "translation": "ça pue à ce point?",
+    "image": ""
+  },
+  {
+    "word": "il caille / ça caille",
+    "mnemonic": "ilkay çok SOĞUKkanlı top oynuyo",
+    "translation": "it's freezing",
+    "image": ""
+  },
+  {
+    "word": "it's freezing",
+    "mnemonic": "ilkay çok SOĞUKkanlı top oynuyo",
+    "translation": "il caille / ça caille",
+    "image": ""
+  },
+  {
+    "word": "c'est du foutage de gueule",
+    "mnemonic": "",
+    "translation": "this is bullshit",
+    "image": ""
+  },
+  {
+    "word": "this is bullshit",
+    "mnemonic": "",
+    "translation": "c'est du foutage de gueule",
+    "image": ""
+  },
+  {
+    "word": "ramasser",
+    "mnemonic": "",
+    "translation": "to pick up, yerden almak, kaldırmak",
+    "image": ""
+  },
+  {
+    "word": "to pick up, yerden almak, kaldırmak",
+    "mnemonic": "",
+    "translation": "ramasser",
+    "image": ""
+  },
+  {
+    "word": "les flics, les condés",
+    "mnemonic": "appelle les flics / bouge pas c'est les condés",
+    "translation": "polis (informal)",
+    "image": ""
+  },
+  {
+    "word": "polis (informal)",
+    "mnemonic": "appelle les flics / bouge pas c'est les condés",
+    "translation": "les flics, les condés",
+    "image": ""
+  },
+  {
+    "word": "fâcher",
+    "mnemonic": "faşo'lar kızgındır hep kürtlere söverler",
+    "translation": "to get mad/angry",
+    "image": ""
+  },
+  {
+    "word": "to get mad/angry",
+    "mnemonic": "faşo'lar kızgındır hep kürtlere söverler",
+    "translation": "fâcher",
+    "image": ""
+  },
+  {
+    "word": "compagne/compagnon",
+    "mnemonic": "kampanya varmış gidip partner alıyomuşun",
+    "translation": "partner",
+    "image": ""
+  },
+  {
+    "word": "partner",
+    "mnemonic": "kampanya varmış gidip partner alıyomuşun",
+    "translation": "compagne/compagnon",
+    "image": ""
+  },
+  {
+    "word": "emménager",
+    "mnemonic": "",
+    "translation": "to move in (buraya taşındım)",
+    "image": ""
+  },
+  {
+    "word": "to move in (buraya taşındım)",
+    "mnemonic": "",
+    "translation": "emménager",
+    "image": ""
+  },
+  {
+    "word": "comme il est beau",
+    "mnemonic": "",
+    "translation": "how beautiful he is",
+    "image": ""
+  },
+  {
+    "word": "how beautiful he is",
+    "mnemonic": "",
+    "translation": "comme il est beau",
+    "image": ""
+  },
+  {
+    "word": "tu me confonds avec une fille",
+    "mnemonic": "",
+    "translation": "beni bi başkasıyla karıştırıyon",
+    "image": ""
+  },
+  {
+    "word": "beni bi başkasıyla karıştırıyon",
+    "mnemonic": "",
+    "translation": "tu me confonds avec une fille",
+    "image": ""
+  },
+  {
+    "word": "fiable",
+    "mnemonic": "",
+    "translation": "reliable",
+    "image": ""
+  },
+  {
+    "word": "reliable",
+    "mnemonic": "",
+    "translation": "fiable",
+    "image": ""
+  },
+  {
+    "word": "matériel (informatique)",
+    "mnemonic": "",
+    "translation": "(computer) hardware",
+    "image": ""
+  },
+  {
+    "word": "(computer) hardware",
+    "mnemonic": "",
+    "translation": "matériel (informatique)",
+    "image": ""
+  },
+  {
+    "word": "disque dur",
+    "mnemonic": "",
+    "translation": "hard drive",
+    "image": ""
+  },
+  {
+    "word": "(computer) hardware",
+    "mnemonic": "",
+    "translation": "disque dur",
+    "image": ""
+  },
+  {
+    "word": "se pointer",
+    "mnemonic": "",
+    "translation": "to show up (informal)",
+    "image": ""
+  },
+  {
+    "word": "to show up (informal)",
+    "mnemonic": "",
+    "translation": "se pointer",
+    "image": ""
+  },
+  {
+    "word": "se serrer les coudes",
+    "mnemonic": "literally dirseklerle el sıkışmak",
+    "translation": "ele ele vermek / omuz omuza vermek",
+    "image": ""
+  },
+  {
+    "word": "ele ele vermek / omuz omuza vermek",
+    "mnemonic": "literally dirseklerle el sıkışmak",
+    "translation": "se serrer les coudes",
+    "image": ""
+  },
+  {
+    "word": "odieux",
+    "mnemonic": "oh mon dieux",
+    "translation": "horrible (formal)",
+    "image": ""
+  },
+  {
+    "word": "horrible (formal)",
+    "mnemonic": "oh mon dieux",
+    "translation": "odieux",
+    "image": ""
+  },
+  {
+    "word": "naze",
+    "mnemonic": "nazlı diye bi kız var çok lame hareketleri var ve hep yorgun",
+    "translation": "lame veya exhausted (informal)",
+    "image": ""
+  },
+  {
+    "word": "lame veya exhausted (informal)",
+    "mnemonic": "nazlı diye bi kız var çok lame hareketleri var ve hep yorgun",
+    "translation": "naze",
+    "image": ""
+  },
+  {
+    "word": "diriger, diriger vers",
+    "mnemonic": "",
+    "translation": "to lead, directly towards",
+    "image": ""
+  },
+  {
+    "word": "to lead, directly towards",
+    "mnemonic": "",
+    "translation": "diriger, diriger vers",
+    "image": ""
+  },
+  {
+    "word": "diriger, diriger vers",
+    "mnemonic": "",
+    "translation": "to lead, directly towards",
+    "image": ""
+  },
+  {
+    "word": "to lead, directly towards",
+    "mnemonic": "",
+    "translation": "diriger, diriger vers",
+    "image": ""
+  },
+  {
+    "word": "n'aie crainte",
+    "mnemonic": "",
+    "translation": "fear not (formal, poetic)",
+    "image": ""
+  },
+  {
+    "word": "fear not (formal, poetic)",
+    "mnemonic": "",
+    "translation": "n'aie crainte",
+    "image": ""
+  },
+  {
+    "word": "de façon à ce que (sobjonctif)",
+    "mnemonic": "",
+    "translation": "pour que, so that (formal)",
+    "image": ""
+  },
+  {
+    "word": "pour que, so that (formal)",
+    "mnemonic": "",
+    "translation": "de façon à ce que (sobjonctif)",
+    "image": ""
+  },
+  {
+    "word": "exiger",
+    "mnemonic": "",
+    "translation": "to require",
+    "image": ""
+  },
+  {
+    "word": "to require",
+    "mnemonic": "",
+    "translation": "exiger",
+    "image": ""
+  },
+  {
+    "word": "surmonter",
+    "mnemonic": "literally üstüne çıkmak",
+    "translation": "overcome, üstesinden gelmek",
+    "image": ""
+  },
+  {
+    "word": "overcome, üstesinden gelmek",
+    "mnemonic": "literally üstüne çıkmak",
+    "translation": "surmonter",
+    "image": ""
+  },
+  {
+    "word": "rejeter la faute sur moi",
+    "mnemonic": "rejeter aslında reject demek ama sen bunu jeter diye düşünürsen tam olarak suçu bana atmak oluyo. Belki de kökeni bu",
+    "translation": "suçu bana atmak, blame me",
+    "image": ""
+  },
+  {
+    "word": "suçu bana atmak, blame me",
+    "mnemonic": "rejeter aslında reject demek ama sen bunu jeter diye düşünürsen tam olarak suçu bana atmak oluyo. Belki de kökeni bu",
+    "translation": "rejeter la faute sur moi",
+    "image": ""
+  },
+  {
+    "word": "précieux",
+    "mnemonic": "precious adı üstünde. Gollum mon precieuxxxx diyo",
+    "translation": "değerli, valuable, precious",
+    "image": ""
+  },
+  {
+    "word": "değerli, valuable, precious",
+    "mnemonic": "precious adı üstünde. Gollum mon precieuxxxx diyo",
+    "translation": "précieux",
+    "image": ""
+  },
+  {
+    "word": "soutenir, je soutiens...",
+    "mnemonic": "soutien gorge fikir olarak boğazı desteklemek demek (?)",
+    "translation": "desteklemek (fiziksel değil fikir olarak)",
+    "image": ""
+  },
+  {
+    "word": "desteklemek (fiziksel değil fikir olarak)",
+    "mnemonic": "soutien gorge fikir olarak boğazı desteklemek demek (?)",
+    "translation": "soutenir, je soutiens...",
+    "image": ""
+  },
+  {
+    "word": "on the spot, oracıkta",
+    "mnemonic": "beetle juice diyodu ki i'll fuck you right on the spot, sur place da restoranlarda var",
+    "translation": "sur place",
+    "image": ""
+  },
+  {
+    "word": "sur place",
+    "mnemonic": "beetle juice diyodu ki i'll fuck you right on the spot, sur place da restoranlarda var",
+    "translation": "on the spot, oracıkta",
+    "image": ""
+  },
+  {
+    "word": "c'est ce qui compte / C'est ça qui compte",
+    "mnemonic": "",
+    "translation": "that's what matters",
+    "image": ""
+  },
+  {
+    "word": "that's what matters",
+    "mnemonic": "",
+    "translation": "c'est ce qui compte / C'est ça qui compte",
+    "image": ""
+  },
+  {
+    "word": "demonter ta gueule",
+    "mnemonic": "",
+    "translation": "smash your face",
+    "image": ""
+  },
+  {
+    "word": "smash your face",
+    "mnemonic": "",
+    "translation": "demonter ta gueule",
+    "image": ""
+  },
+  {
+    "word": "gueuler",
+    "mnemonic": "",
+    "translation": "to shout (informal, vulgar), çığırmak gibi",
+    "image": ""
+  },
+  {
+    "word": "to shout (informal, vulgar), çığırmak gibi",
+    "mnemonic": "",
+    "translation": "gueuler",
+    "image": ""
+  },
+  {
+    "word": "la touffe",
+    "mnemonic": "",
+    "translation": "pubic hair (vulgar)",
+    "image": ""
+  },
+  {
+    "word": "pubic hair (vulgar)",
+    "mnemonic": "",
+    "translation": "la touffe",
+    "image": ""
+  },
+  {
+    "word": "un coup de fil",
+    "mnemonic": "",
+    "translation": "a phone call",
+    "image": ""
+  },
+  {
+    "word": "a phone call",
+    "mnemonic": "",
+    "translation": "un coup de fil",
+    "image": ""
+  },
+  {
+    "word": "ça arrive H24 (aş van katr)",
+    "mnemonic": "",
+    "translation": "it happens 24/7",
+    "image": ""
+  },
+  {
+    "word": "it happens 24/7",
+    "mnemonic": "",
+    "translation": "ça arrive H24 (aş van katr)",
+    "image": ""
+  },
+  {
+    "word": "pour de bon",
+    "mnemonic": "",
+    "translation": "for good, kalıcı olarak",
+    "image": ""
+  },
+  {
+    "word": "for good, kalıcı olarak",
+    "mnemonic": "",
+    "translation": "pour de bon",
+    "image": ""
+  },
+  {
+    "word": "c'est pas de bol",
+    "mnemonic": "kaseler hep şanslıdır (nazar boncuklu kase falan var) diyosun ki aynen ya bi kase değil",
+    "translation": "oh, that's unlucky (informal)",
+    "image": ""
+  },
+  {
+    "word": "oh, that's unlucky (informal)",
+    "mnemonic": "kaseler hep şanslıdır (nazar boncuklu kase falan var) diyosun ki aynen ya bi kase değil",
+    "translation": "c'est pas de bol",
+    "image": ""
+  },
+  {
+    "word": "se taper quelqu'un",
+    "mnemonic": "",
+    "translation": "birine vurmak (sikiş anlamında)",
+    "image": ""
+  },
+  {
+    "word": "birine vurmak (sikiş anlamında)",
+    "mnemonic": "",
+    "translation": "se taper quelqu'un",
+    "image": ""
+  },
+  {
+    "word": "se taper une pizza",
+    "mnemonic": "",
+    "translation": "bi pizza gömmek",
+    "image": ""
+  },
+  {
+    "word": "bi pizza gömmek",
+    "mnemonic": "",
+    "translation": "se taper une pizza",
+    "image": ""
+  },
+  {
+    "word": "somehow",
+    "mnemonic": "",
+    "translation": "d'une manière ou d'une autre",
+    "image": ""
+  },
+  {
+    "word": "d'une manière ou d'une autre",
+    "mnemonic": "",
+    "translation": "somehow",
+    "image": ""
+  },
+  {
+    "word": "paperasse",
+    "mnemonic": "",
+    "translation": "paperwork",
+    "image": ""
+  },
+  {
+    "word": "paperwork",
+    "mnemonic": "",
+    "translation": "paperasse",
+    "image": ""
+  },
+  {
+    "word": "déballer",
+    "mnemonic": "amballer paketlemek ya, onun tersi işte",
+    "translation": "to unpack",
+    "image": ""
+  },
+  {
+    "word": "to unpack",
+    "mnemonic": "amballer paketlemek ya, onun tersi işte",
+    "translation": "déballer",
+    "image": ""
+  },
+  {
+    "word": "déballer",
+    "mnemonic": "amballer paketlemek ya, onun tersi işte",
+    "translation": "to unpack",
+    "image": ""
+  },
+  {
+    "word": "to unpack",
+    "mnemonic": "amballer paketlemek ya, onun tersi işte",
+    "translation": "déballer",
+    "image": ""
+  },
+  {
+    "word": "il est sûr que ça s'arrange (on va s'arranger, on va arranger ça)",
+    "mnemonic": "müziklerde aranjör vardır halledici yani",
+    "translation": "he is sure that this works out (halletmek gibi)",
+    "image": ""
+  },
+  {
+    "word": "he is sure that this works out (halletmek gibi)",
+    "mnemonic": "müziklerde aranjör vardır halledici yani",
+    "translation": "il est sûr que ça s'arrange (on va s'arranger, on va arranger ça)",
+    "image": ""
+  },
+  {
+    "word": "elle fait en sorte que (faire en sorte)",
+    "mnemonic": "kendinden emin bi şekilde çıkış yapıyo",
+    "translation": "she is making sure that",
+    "image": ""
+  },
+  {
+    "word": "she is making sure that",
+    "mnemonic": "kendinden emin bi şekilde çıkış yapıyo",
+    "translation": "elle fait en sorte que (faire en sorte)",
+    "image": ""
+  },
+  {
+    "word": "elle se fait du souci",
+    "mnemonic": "she made herself an issue",
+    "translation": "she is worried",
+    "image": ""
+  },
+  {
+    "word": "she is worried",
+    "mnemonic": "she made herself an issue",
+    "translation": "elle se fait du souci",
+    "image": ""
+  },
+  {
+    "word": "y arriver",
+    "mnemonic": "",
+    "translation": "physically reaching there, managing it (onu başarmak)",
+    "image": ""
+  },
+  {
+    "word": "physically reaching there, managing it (onu başarmak)",
+    "mnemonic": "",
+    "translation": "y arriver",
+    "image": ""
+  },
+  {
+    "word": "je n'ai pas le moral aujourd'hui",
+    "mnemonic": "",
+    "translation": "bugün moralim bozuk",
+    "image": ""
+  },
+  {
+    "word": "bugün moralim bozuk",
+    "mnemonic": "",
+    "translation": "je n'ai pas le moral aujourd'hui",
+    "image": ""
+  },
+  {
+    "word": "il a du chagrin",
+    "mnemonic": "",
+    "translation": "he is sad",
+    "image": ""
+  },
+  {
+    "word": "he is sad",
+    "mnemonic": "",
+    "translation": "il a du chagrin",
+    "image": ""
+  },
+  {
+    "word": "Quant à la piscine, elle est déjà fermée",
+    "mnemonic": "",
+    "translation": "regarding the pool, it's already closed",
+    "image": ""
+  },
+  {
+    "word": "regarding the pool, it's already closed",
+    "mnemonic": "",
+    "translation": "Quant à la piscine, elle est déjà fermée",
+    "image": ""
+  },
+  {
+    "word": "je galère à comprendre ce truc, je galère avec ma main cassée",
+    "mnemonic": "",
+    "translation": "I'm struggling to understand this thing, i'm struggling with my broken hand",
+    "image": ""
+  },
+  {
+    "word": "I'm struggling to understand this thing, i'm struggling with my broken hand",
+    "mnemonic": "",
+    "translation": "je galère à comprendre ce truc, je galère avec ma main cassée",
+    "image": ""
+  },
+  {
+    "word": "fais pas le con",
+    "mnemonic": "squizee'nin katil vidyosunda 3lü grup tek adamla karşılaşınca bıçağın yok dont be stupid demişti",
+    "translation": "don't be stupid",
+    "image": ""
+  },
+  {
+    "word": "I'm struggling to understand this thing, i'm struggling with my broken hand",
+    "mnemonic": "squizee'nin katil vidyosunda 3lü grup tek adamla karşılaşınca bıçağın yok dont be stupid demişti",
+    "translation": "je galère à comprendre ce truc, je galère avec ma main cassée",
+    "image": ""
+  },
+  {
+    "word": "j'ai égaré mes clés",
+    "mnemonic": "",
+    "translation": "i lost my keys (formal)",
+    "image": ""
+  },
+  {
+    "word": "i lost my keys (formal)",
+    "mnemonic": "",
+    "translation": "j'ai égaré mes clés",
+    "image": ""
+  },
+  {
+    "word": "tu dois t'excuser",
+    "mnemonic": "",
+    "translation": "you have to apologize",
+    "image": ""
+  },
+  {
+    "word": "you have to apologize",
+    "mnemonic": "",
+    "translation": "tu dois t'excuser",
+    "image": ""
+  },
+  {
+    "word": "enlève tes chaussures",
+    "mnemonic": "",
+    "translation": "take off your shoes",
+    "image": ""
+  },
+  {
+    "word": "take off your shoes",
+    "mnemonic": "",
+    "translation": "enlève tes chaussures",
+    "image": ""
+  },
+  {
+    "word": "ce n'est pas la mer à boire",
+    "mnemonic": "yani denizi içicek kadar zor değil",
+    "translation": "it's not that hard",
+    "image": ""
+  },
+  {
+    "word": "it's not that hard",
+    "mnemonic": "yani denizi içicek kadar zor değil",
+    "translation": "ce n'est pas la mer à boire",
+    "image": ""
+  },
+  {
+    "word": "épuisé",
+    "mnemonic": "et puis, et puis diye sürekli devam ede ede aşırı yorulmuş",
+    "translation": "exhausted",
+    "image": ""
+  },
+  {
+    "word": "exhausted",
+    "mnemonic": "et puis, et puis diye sürekli devam ede ede aşırı yorulmuş",
+    "translation": "épuisé",
+    "image": ""
+  },
+  {
+    "word": "vu ses bonnes notes, ... / vu que tu es là",
+    "mnemonic": "",
+    "translation": "considering her good grades / considering that you are there",
+    "image": ""
+  },
+  {
+    "word": "considering her good grades / considering that you are there",
+    "mnemonic": "",
+    "translation": "vu ses bonnes notes, ... / vu que tu es là",
+    "image": ""
+  },
+  {
+    "word": "ça se voit (que...)",
+    "mnemonic": "",
+    "translation": "it's obvious",
+    "image": ""
+  },
+  {
+    "word": "it's obvious",
+    "mnemonic": "",
+    "translation": "ça se voit (que...)",
+    "image": ""
+  },
+  {
+    "word": "attirer l'attention",
+    "mnemonic": "",
+    "translation": "dikkat çekmek",
+    "image": ""
+  },
+  {
+    "word": "dikkat çekmek",
+    "mnemonic": "",
+    "translation": "attirer l'attention",
+    "image": ""
+  },
+  {
+    "word": "seni kullandı, he took advantage of you",
+    "mnemonic": "profit kar yapmak demek senden kar yaptı gibi",
+    "translation": "il a profité de toi",
+    "image": ""
+  },
+  {
+    "word": "il a profité de toi",
+    "mnemonic": "profit kar yapmak demek senden kar yaptı gibi",
+    "translation": "seni kullandı, he took advantage of you",
+    "image": ""
+  },
+  {
+    "word": "éprouver",
+    "mnemonic": "",
+    "translation": "to have feelings for someone (bi tık formal)",
+    "image": ""
+  },
+  {
+    "word": "to have feelings for someone (bi tık formal)",
+    "mnemonic": "",
+    "translation": "éprouver",
+    "image": ""
+  },
+  {
+    "word": "anlayışlı, understanding (kişi)",
+    "mnemonic": "",
+    "translation": "compréhensif, compréhensive",
+    "image": ""
+  },
+  {
+    "word": "compréhensif, compréhensive",
+    "mnemonic": "",
+    "translation": "anlayışlı, understanding (kişi)",
+    "image": ""
+  },
+  {
+    "word": "il en fait partie (faire partie)",
+    "mnemonic": "",
+    "translation": "he is one of them (he is a part of it)",
+    "image": ""
+  },
+  {
+    "word": "he is one of them (he is a part of it)",
+    "mnemonic": "",
+    "translation": "il en fait partie (faire partie)",
+    "image": ""
+  },
+  {
+    "word": "easygoing",
+    "mnemonic": "",
+    "translation": "facile à vivre",
+    "image": ""
+  },
+  {
+    "word": "facile à vivre",
+    "mnemonic": "",
+    "translation": "easygoing",
+    "image": ""
+  },
+  {
+    "word": "réconforter",
+    "mnemonic": "",
+    "translation": "to comfort (someone)",
+    "image": ""
+  },
+  {
+    "word": "to comfort (someone)",
+    "mnemonic": "",
+    "translation": "réconforter",
+    "image": ""
+  },
+  {
+    "word": "réconforter",
+    "mnemonic": "",
+    "translation": "to comfort (someone)",
+    "image": ""
+  },
+  {
+    "word": "to comfort (someone)",
+    "mnemonic": "",
+    "translation": "réconforter",
+    "image": ""
+  },
+  {
+    "word": "mépriser",
+    "mnemonic": "",
+    "translation": "küçük görmek, yukardan bakmak (to scorn)",
+    "image": ""
+  },
+  {
+    "word": "küçük görmek, yukardan bakmak (to scorn)",
+    "mnemonic": "",
+    "translation": "mépriser",
+    "image": ""
+  },
+  {
+    "word": "umursamaz, gamsız, carefree",
+    "mnemonic": "",
+    "translation": "insouciant",
+    "image": ""
+  },
+  {
+    "word": "insouciant",
+    "mnemonic": "",
+    "translation": "umursamaz, gamsız, carefree",
+    "image": ""
+  },
+  {
+    "word": "consoler",
+    "mnemonic": "",
+    "translation": "to console (teselli etmek)",
+    "image": ""
+  },
+  {
+    "word": "to console (teselli etmek)",
+    "mnemonic": "",
+    "translation": "consoler",
+    "image": ""
+  },
+  {
+    "word": "flashlight",
+    "mnemonic": "",
+    "translation": "flashlight",
+    "image": ""
+  },
+  {
+    "word": "flashlight",
+    "mnemonic": "",
+    "translation": "flashlight",
+    "image": ""
+  },
+  {
+    "word": "to check",
+    "mnemonic": "",
+    "translation": "checker (çeke) (bazen infinitive olmayanı da kullanılıyo, mesela je vais check)",
+    "image": ""
+  },
+  {
+    "word": "safe",
+    "mnemonic": "",
+    "translation": "safe",
+    "image": ""
+  },
+  {
+    "word": "amusant",
+    "mnemonic": "",
+    "translation": "fun",
+    "image": ""
+  },
+  {
+    "word": "fun",
+    "mnemonic": "",
+    "translation": "amusant",
+    "image": ""
+  },
+  {
+    "word": "to chase",
+    "mnemonic": "",
+    "translation": "chasser",
+    "image": ""
+  },
+  {
+    "word": "chasser",
+    "mnemonic": "",
+    "translation": "to chase",
+    "image": ""
+  },
+  {
+    "word": "compter",
+    "mnemonic": "",
+    "translation": "to plan/to intend",
+    "image": ""
+  },
+  {
+    "word": "to plan/to intend",
+    "mnemonic": "",
+    "translation": "compter",
+    "image": ""
+  },
+  {
+    "word": "je m'y prends",
+    "mnemonic": "",
+    "translation": "i'm taking care of it/i'm handling it/hallediyorum/ je m'en occupe",
+    "image": ""
+  },
+  {
+    "word": "i'm taking care of it/i'm handling it/hallediyorum/ je m'en occupe",
+    "mnemonic": "",
+    "translation": "je m'y prends",
+    "image": ""
+  },
+  {
+    "word": "il me prend pour une fille",
+    "mnemonic": "tiktok'ta uzun saçlı çocuğu kız sanıyolardı",
+    "translation": "he thinks i'm a girl",
+    "image": ""
+  },
+  {
+    "word": "he thinks i'm a girl",
+    "mnemonic": "tiktok'ta uzun saçlı çocuğu kız sanıyolardı",
+    "translation": "il me prend pour une fille",
+    "image": ""
+  },
+  {
+    "word": "le prix que vous avez en tête",
+    "mnemonic": "",
+    "translation": "kafanızdaki fiyat",
+    "image": ""
+  },
+  {
+    "word": "kafanızdaki fiyat",
+    "mnemonic": "",
+    "translation": "le prix que vous avez en tête",
+    "image": ""
+  },
+  {
+    "word": "dead end",
+    "mnemonic": "çantanın kıçı yani dead end, devamı yok",
+    "translation": "cul-de-sac",
+    "image": ""
+  },
+  {
+    "word": "cul-de-sac",
+    "mnemonic": "çantanın kıçı yani dead end, devamı yok",
+    "translation": "dead end",
+    "image": ""
+  },
+  {
+    "word": "le gun",
+    "mnemonic": "",
+    "translation": "gun",
+    "image": ""
+  },
+  {
+    "word": "gun",
+    "mnemonic": "",
+    "translation": "le gun",
+    "image": ""
+  },
+  {
+    "word": "to drop / düşürmek / bırakmak",
+    "mnemonic": "",
+    "translation": "dropper / faire tomber (yanlışlıkla) / laisser tomber (bilerek)",
+    "image": ""
+  },
+  {
+    "word": "dropper / faire tomber (yanlışlıkla) / laisser tomber (bilerek)",
+    "mnemonic": "",
+    "translation": "to drop / düşürmek / bırakmak",
+    "image": ""
+  },
+  {
+    "word": "renoncer à...",
+    "mnemonic": "",
+    "translation": "to give up on...",
+    "image": ""
+  },
+  {
+    "word": "to give up on...",
+    "mnemonic": "",
+    "translation": "renoncer à...",
+    "image": ""
+  },
+  {
+    "word": "renoncer à...",
+    "mnemonic": "",
+    "translation": "to give up on...",
+    "image": ""
+  },
+  {
+    "word": "to give up on...",
+    "mnemonic": "",
+    "translation": "renoncer à...",
+    "image": ""
+  },
+  {
+    "word": "le point de vue, la vision des choses",
+    "mnemonic": "",
+    "translation": "point of view",
+    "image": ""
+  },
+  {
+    "word": "point of view",
+    "mnemonic": "",
+    "translation": "le point de vue, la vision des choses",
+    "image": ""
+  },
+  {
+    "word": "Ayant étudié toute la nuit, elle était épuisée.",
+    "mnemonic": "",
+    "translation": "Having studied (Since she studied (formal)) all night, she was tired",
+    "image": ""
+  },
+  {
+    "word": "Having studied (Since she studied (formal)) all night, she was tired",
+    "mnemonic": "",
+    "translation": "Ayant étudié toute la nuit, elle était épuisée.",
+    "image": ""
+  },
+  {
+    "word": "Baghera'dan şüpheleniyorum",
+    "mnemonic": "",
+    "translation": "Je me méfie de Baghera / Je soupçonne Baghera",
+    "image": ""
+  },
+  {
+    "word": "Senden deli gibi şüphem var",
+    "mnemonic": "",
+    "translation": "J'ai un doute sur toi de fou",
+    "image": ""
+  },
+  {
+    "word": "Baghera'dan şüphelerimiz var",
+    "mnemonic": "",
+    "translation": "On a les soupçons sur Baghera",
+    "image": ""
+  },
+  {
+    "word": "Baghera çok şüpheli",
+    "mnemonic": "",
+    "translation": "Baghera est trop suspecte",
+    "image": ""
+  },
+  {
+    "word": "je suis safe de fou",
+    "mnemonic": "",
+    "translation": "Deli gibi safe'im",
+    "image": ""
+  },
+  {
+    "word": "Deli gibi safe'im",
+    "mnemonic": "",
+    "translation": "je suis safe de fou",
+    "image": ""
+  },
+  {
+    "word": "game",
+    "mnemonic": "",
+    "translation": "game",
+    "image": ""
+  },
+  {
+    "word": "to stop",
+    "mnemonic": "adam motordan düşünce kız stop stop demişti, squeeze'nin vidyosunu adı stopper le train",
+    "translation": "stop, stopper",
+    "image": ""
+  },
+  {
+    "word": "round",
+    "mnemonic": "squeezie trende deuxieme round dedi",
+    "translation": "round (rund diye okudu)",
+    "image": ""
+  },
+  {
+    "word": "full",
+    "mnemonic": "resimde var",
+    "translation": "full",
+    "image": "full.PNG"
+  },
+  {
+    "word": "no luck (lak diye değil luk gibi okudu fransız versiyonu yani)",
+    "mnemonic": "",
+    "translation": "no luck (lak diye değil luk gibi okudu fransız versiyonu yani)",
+    "image": "luck.PNG"
+  },
+  {
+    "word": "uncomfortable",
+    "mnemonic": "",
+    "translation": "mal à l'aise",
+    "image": ""
+  },
+  {
+    "word": "mal à l'aise",
+    "mnemonic": "",
+    "translation": "uncomfortable",
+    "image": ""
+  },
+  {
+    "word": "se lasser de",
+    "mnemonic": "",
+    "translation": "-den bıkmak",
+    "image": ""
+  },
+  {
+    "word": "-den bıkmak",
+    "mnemonic": "",
+    "translation": "se lasser de",
+    "image": ""
+  },
+  {
+    "word": "concevoir",
+    "mnemonic": "",
+    "translation": "to design",
+    "image": ""
+  },
+  {
+    "word": "to design",
+    "mnemonic": "",
+    "translation": "concevoir",
+    "image": ""
+  },
+  {
+    "word": "la gestion",
+    "mnemonic": "",
+    "translation": "the management",
+    "image": ""
+  },
+  {
+    "word": "the management",
+    "mnemonic": "",
+    "translation": "la gestion",
+    "image": ""
+  },
+  {
+    "word": "Je comprends à quel point c'est important.",
+    "mnemonic": "",
+    "translation": "i understand to what extent this is important / bunun ne kadar önemli olduğunu anlıyorum",
+    "image": ""
+  },
+  {
+    "word": "i understand to what extent this is important / bunun ne kadar önemli olduğunu anlıyorum",
+    "mnemonic": "",
+    "translation": "Je comprends à quel point c'est important.",
+    "image": ""
+  },
+  {
+    "word": "skipper",
+    "mnemonic": "",
+    "translation": "to skip",
+    "image": ""
+  },
+  {
+    "word": "ça se trouve",
+    "mnemonic": "",
+    "translation": "maybe / it turns out",
+    "image": ""
+  },
+  {
+    "word": "maybe / it turns out",
+    "mnemonic": "",
+    "translation": "ça se trouve",
+    "image": ""
+  },
+  {
+    "word": "my dates / to date",
+    "mnemonic": "",
+    "translation": "mes dates / dater (normal deyt diye okunuyo)",
+    "image": "dates.PNG"
+  },
+  {
+    "word": "il a répondu au premier degré",
+    "mnemonic": "",
+    "translation": "ciddi şekilde cevap verdi (mecaz değil)",
+    "image": ""
+  },
+  {
+    "word": "ciddi şekilde cevap verdi (mecaz değil)",
+    "mnemonic": "",
+    "translation": "il a répondu au premier degré",
+    "image": ""
+  },
+  {
+    "word": "carrément",
+    "mnemonic": "",
+    "translation": "absolutely / definitely",
+    "image": ""
+  },
+  {
+    "word": "absolutely / definitely",
+    "mnemonic": "",
+    "translation": "carrément",
+    "image": ""
+  },
+  {
+    "word": "c'est arrivé",
+    "mnemonic": "",
+    "translation": "it happened",
+    "image": ""
+  },
+  {
+    "word": "it happened",
+    "mnemonic": "",
+    "translation": "c'est arrivé",
+    "image": ""
+  },
+  {
+    "word": "je suis vexé / j'ai vexé (quelqu'un)",
+    "mnemonic": "",
+    "translation": "i am offended / i offended (someone)",
+    "image": ""
+  },
+  {
+    "word": "i am offended / i offended (someone)",
+    "mnemonic": "",
+    "translation": "je suis vexé / j'ai vexé (quelqu'un)",
+    "image": ""
+  },
+  {
+    "word": "radin / radine",
+    "mnemonic": "",
+    "translation": "cimri",
+    "image": "radin.PNG"
+  },
+  {
+    "word": "cimri",
+    "mnemonic": "",
+    "translation": "radin / radine",
+    "image": "radin.PNG"
+  },
+  {
+    "word": "grade (informal sanırım)",
+    "mnemonic": "",
+    "translation": "pis (informal sanırım)",
+    "image": "grade.PNG"
+  },
+  {
+    "word": "pis (informal sanırım)",
+    "mnemonic": "",
+    "translation": "grade (informal sanırım)",
+    "image": "grade.PNG"
+  },
+  {
+    "word": "beauf",
+    "mnemonic": "",
+    "translation": "elegant'ın zıttı, dağ ayısı",
+    "image": "beauf.PNG"
+  },
+  {
+    "word": "elegant'ın zıttı, dağ ayısı",
+    "mnemonic": "",
+    "translation": "beauf",
+    "image": "beauf.PNG"
+  },
+  {
+    "word": "first",
+    "mnemonic": "",
+    "translation": "en premier",
+    "image": "en premier.PNG"
+  },
+  {
+    "word": "en premier",
+    "mnemonic": "",
+    "translation": "first",
+    "image": "en premier.PNG"
+  },
+  {
+    "word": "it took me a lot of time",
+    "mnemonic": "",
+    "translation": "j'ai mis beaucoup de temps",
+    "image": ""
+  },
+  {
+    "word": "j'ai mis beaucoup de temps",
+    "mnemonic": "",
+    "translation": "it took me a lot of time",
+    "image": ""
+  },
+  {
+    "word": "il a mis un mois à répondre",
+    "mnemonic": "",
+    "translation": "it took him a month to respond",
+    "image": ""
+  },
+  {
+    "word": "it took him a month to respond",
+    "mnemonic": "",
+    "translation": "il a mis un mois à répondre",
+    "image": ""
+  },
+  {
+    "word": "job offer",
+    "mnemonic": "",
+    "translation": "offre d'emploi / proposition d'emploi",
+    "image": ""
+  },
+  {
+    "word": "offre d'emploi / proposition d'emploi",
+    "mnemonic": "",
+    "translation": "job offer",
+    "image": ""
+  },
+  {
+    "word": "s'étouffer",
+    "mnemonic": "",
+    "translation": "boğulmak",
+    "image": "s'étouffer.PNG"
+  },
+  {
+    "word": "boğulmak",
+    "mnemonic": "",
+    "translation": "s'étouffer",
+    "image": "s'étouffer.PNG"
+  },
+  {
+    "word": "se régaler",
+    "mnemonic": "",
+    "translation": "çok eğlenmek",
+    "image": "se régaler.PNG"
+  },
+  {
+    "word": "çok eğlenmek",
+    "mnemonic": "",
+    "translation": "se régaler",
+    "image": "se régaler.PNG"
+  },
+  {
+    "word": "retire ta veste",
+    "mnemonic": "",
+    "translation": "ceketini çıkra",
+    "image": "retire ta veste.PNG"
+  },
+  {
+    "word": "ceketini çıkra",
+    "mnemonic": "",
+    "translation": "retire ta veste",
+    "image": "retire ta veste.PNG"
+  },
+  {
+    "word": "retenir (je retiens)",
+    "mnemonic": "",
+    "translation": "to remember (i remember)",
+    "image": "retenir.PNG"
+  },
+  {
+    "word": "to remember (i remember)",
+    "mnemonic": "",
+    "translation": "retenir (je retiens)",
+    "image": "retenir.PNG"
+  },
+  {
+    "word": "fidèle / infidèle",
+    "mnemonic": "",
+    "translation": "faithful / unfaithful",
+    "image": "fidèle.PNG"
+  },
+  {
+    "word": "faithful / unfaithful",
+    "mnemonic": "",
+    "translation": "fidèle / infidèle",
+    "image": "fidèle.PNG"
+  },
+  {
+    "word": "tu nous as embrouillé le cerveau, je t'ai embrouillé",
+    "mnemonic": "",
+    "translation": "you confused our brain, i confused you",
+    "image": "embrouiller.PNG"
+  },
+  {
+    "word": "you confused our brain, i confused you",
+    "mnemonic": "",
+    "translation": "tu nous as embrouillé le cerveau, je t'ai embrouillé",
+    "image": "embrouiller.PNG"
+  },
+  {
+    "word": "depuis tout à l'heure",
+    "mnemonic": "",
+    "translation": "birkaç dakikadır / bir süredir",
+    "image": ""
+  },
+  {
+    "word": "birkaç dakikadır / bir süredir",
+    "mnemonic": "",
+    "translation": "depuis tout à l'heure",
+    "image": ""
+  },
+  {
+    "word": "Ahmet'in intikamını aldım / Ahmet'ten intikam aldım",
+    "mnemonic": "",
+    "translation": "I avenged Ahmet (avengers kendine yapılanların intikamını alıyo) ve J’ai vengé Ahmet / I took revenge on Ahmet ve Je me suis vengé d’Ahmet",
+    "image": ""
+  },
+  {
+    "word": "pousser la barbe",
+    "mnemonic": "",
+    "translation": "sakalın uzaması",
+    "image": ""
+  },
+  {
+    "word": "sakalın uzaması",
+    "mnemonic": "",
+    "translation": "pousser la barbe",
+    "image": ""
+  },
+  {
+    "word": "il m'a mis en garde",
+    "mnemonic": "",
+    "translation": "beni uyardı",
+    "image": ""
+  },
+  {
+    "word": "beni uyardı",
+    "mnemonic": "",
+    "translation": "il m'a mis en garde",
+    "image": ""
   }
+
 ]
