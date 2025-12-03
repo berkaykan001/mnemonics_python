@@ -12124,6 +12124,126 @@
     "mnemonic": "",
     "translation": "il m'a mis en garde",
     "image": ""
+  },
+  {
+    "word": "pour de vrai?",
+    "mnemonic": "",
+    "translation": "for real?",
+    "image": ""
+  },
+  {
+    "word": "for real?",
+    "mnemonic": "",
+    "translation": "pour de vrai?",
+    "image": ""
+  },
+  {
+    "word": "dénoncer",
+    "mnemonic": "amine squeezie'nin ilişkisini ifşa etmişti",
+    "translation": "ifşa etmek",
+    "image": ""
+  },
+  {
+    "word": "ifşa etmek",
+    "mnemonic": "amine squeezie'nin ilişkisini ifşa etmişti",
+    "translation": "dénoncer",
+    "image": ""
+  },
+  {
+    "word": "on se met sur la gueule",
+    "mnemonic": "amine squeezie'nin ilişkisini ifşa ettikten sonra squeezie bunu dedi",
+    "translation": "we're fighting/arguing each other",
+    "image": "on se met sur la gueule.PNG"
+  },
+  {
+    "word": "we're fighting/arguing each other",
+    "mnemonic": "amine squeezie'nin ilişkisini ifşa ettikten sonra squeezie bunu dedi",
+    "translation": "on se met sur la gueule",
+    "image": "on se met sur la gueule.PNG"
+  },
+  {
+    "word": "J'ai fait une greffe de cheveux",
+    "mnemonic": "",
+    "translation": "saç ektirdim",
+    "image": "greffe.PNG"
+  },
+  {
+    "word": "saç ektirdim",
+    "mnemonic": "",
+    "translation": "J'ai fait une greffe de cheveux",
+    "image": "greffe.PNG"
+  },
+  {
+    "word": "à la base",
+    "mnemonic": "base basically gibi",
+    "translation": "originally / basically",
+    "image": "à la base.PNG"
+  },
+  {
+    "word": "originally / basically",
+    "mnemonic": "base basically gibi",
+    "translation": "à la base",
+    "image": "à la base.PNG"
+  },
+  {
+    "word": "fâcher (Elle s’est fâchée contre moi, tu vas le fâcher, je suis fâché avec lui)",
+    "mnemonic": "",
+    "translation": "to anger (She got angry at me, you will anger him, i'm angry with him)",
+    "image": "fâcher.PNG"
+  },
+  {
+    "word": "to anger (She got angry at me, you will anger him, i'm angry with him)",
+    "mnemonic": "",
+    "translation": "fâcher (Elle s’est fâchée contre moi, tu vas le fâcher, je suis fâché avec lui)",
+    "image": "fâcher.PNG"
+  },
+  {
+    "word": "roter",
+    "mnemonic": "pudge'ın ikinci skillinin adı rot'tu, yeşil yeşil geğiriyodu gibi düşün",
+    "translation": "geğirmek",
+    "image": "roter.PNG"
+  },
+  {
+    "word": "geğirmek",
+    "mnemonic": "pudge'ın ikinci skillinin adı rot'tu, yeşil yeşil geğiriyodu gibi düşün",
+    "translation": "roter",
+    "image": "roter.PNG"
+  },
+  {
+    "word": "susceptible",
+    "mnemonic": "",
+    "translation": "likely, eğilimli, alıngan",
+    "image": "susceptible.PNG"
+  },
+  {
+    "word": "likely, eğilimli, alıngan",
+    "mnemonic": "",
+    "translation": "susceptible",
+    "image": "susceptible.PNG"
+  },
+  {
+    "word": "Elle est en train de m’avoir, elle m'a eu (avoir quelqu'un)",
+    "mnemonic": "",
+    "translation": "beni kandırıyor, beni kandırdı",
+    "image": "avoir ama kandırmak.PNG"
+  },
+  {
+    "word": "beni kandırıyor, beni kandırdı",
+    "mnemonic": "",
+    "translation": "Elle est en train de m’avoir, elle m'a eu (avoir quelqu'un)",
+    "image": "avoir ama kandırmak.PNG"
+  },
+  {
+    "word": "un daron / une daronne",
+    "mnemonic": "",
+    "translation": "a dad / a mom (slang)",
+    "image": "mon daron.PNG"
+  },
+  {
+    "word": "a dad / a mom (slang)",
+    "mnemonic": "",
+    "translation": "un daron / une daronne",
+    "image": "mon daron.PNG"
   }
 
 ]
