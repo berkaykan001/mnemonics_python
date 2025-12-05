@@ -12745,11 +12745,11 @@
   },
   "let him talk": {
     "interval_days": 1,
-    "last_reviewed": "1970-01-01",
+    "last_reviewed": "2025-12-05",
     "difficulty_level": 1,
     "times_correct": 0,
-    "times_wrong": 0,
-    "ease_factor": 2.0
+    "times_wrong": 1,
+    "ease_factor": 1.8
   },
   "il chie dans son froc": {
     "interval_days": 1,
@@ -16516,6 +16516,2174 @@
     "last_reviewed": "2025-12-05",
     "difficulty_level": 1,
     "times_correct": 1,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "ADN": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "DNA": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Brin d'ADN": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "DNA strand": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "S\u00e9quen\u00e7age": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "sequencing": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Synth\u00e8se": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "synthesis": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Nucl\u00e9otides": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "nucleotides": {
+    "interval_days": 6,
+    "last_reviewed": "2025-12-05",
+    "difficulty_level": 1,
+    "times_correct": 1,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Bio-imprimante": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "bio-printer": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Encre biologique": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "biological ink": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Stockage de donn\u00e9es ADN": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "DNA data storage": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Support de stockage": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "storage media": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Lecture": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "read": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "\u00c9criture": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "write": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Biotechnologie": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "biotechnology": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Laboratoire": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "laboratory": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Biologiste": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "biologist": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Microfluidique": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "microfluidics": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Fluidique": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "fluidics": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Flux": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "flow": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Pompe": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "pump": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Vanne": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "valve": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Canal": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "channel": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Conduit": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Pression": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "pressure": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "D\u00e9bit": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "flow rate": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Volume": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "volume": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Injection": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "injection": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Circuit fluidique": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "fluidic circuit": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Liquide": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "liquid": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "\u00c9lectronique": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "electronics": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Micrologiciel": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "firmware": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Firmware": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Signal": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "signal": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Capteur": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "sensor": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Carte \u00e9lectronique": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "electronic board": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Mat\u00e9riel": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "hardware": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Instrumentation": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "instrumentation": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Mesure": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "measurement": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Tension": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "voltage": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Courant": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "current": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Logiciel": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "software": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Script": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "script": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Code source": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "source code": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Programmation": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "programming": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "D\u00e9bogage": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "debugging": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Bug": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "bug": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Bogue": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Version": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "version/release": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Pipeline d'int\u00e9gration continue": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "CI pipeline": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Image logicielle": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "software image": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Interop\u00e9rabilit\u00e9": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "interoperability": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Ex\u00e9cuter": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "to run": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Syst\u00e8me d'exploitation": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "operating system": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Test": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "test": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Essai": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Banc de test": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "test bench": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Banc d'essai": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Campagne de tests": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "test campaign": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Tests de bout en bout": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "end-to-end testing": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Validation": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "validation": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "V\u00e9rification": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "verification": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Test de non-r\u00e9gression": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "regression testing": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Automatisation des tests": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "test automation": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Ex\u00e9cution de tests": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "test execution": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Cas de test": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "test case": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Couverture de test": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "test coverage": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Test fonctionnel": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "functional testing": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Test d'int\u00e9gration": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "integration test": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Test syst\u00e8me": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "system test": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Assurance qualit\u00e9": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "quality assurance": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Cahier des charges": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "specification": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Sp\u00e9cification": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Conformit\u00e9": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "compliance": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Tra\u00e7abilit\u00e9": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "traceability": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Rapport de test": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "test report": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Documentation": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "documentation": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Anomalie": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "defect/anomaly": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "D\u00e9faut": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "defect": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Seuil": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "threshold": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Limite": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "limit": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Rendement": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "yield": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "\u00c9cart": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "discrepancy": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "M\u00e9canique": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "mechanics": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Composant m\u00e9canique": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "mechanical component": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Assemblage": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "assembly": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Robustesse": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "robustness": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "D\u00e9faillance m\u00e9canique": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "mechanical failure": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Module": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "module": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "\u00c9quipement": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "equipment": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Rack": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "rack": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Syst\u00e8me": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "system": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Imprimante": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "printer": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Jet d'encre": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "inkjet": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Cartouche": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "cartridge": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Buse": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "nozzle": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Impression": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "printing": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "\u00c9quipe pluridisciplinaire": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "multidisciplinary team": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Chef de produit": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Product Manager": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Collaboration": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "collaboration": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "R\u00e9union": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "meeting": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Jalons": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "milestones": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Livrables": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "deliverables": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Processus": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "process": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "M\u00e9thodologie": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "methodology": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Am\u00e9lioration continue": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "continuous improvement": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Industrialisation": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "industrialization": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Centre de donn\u00e9es": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "data center": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Serveur": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "server": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Stockage": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "storage": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Stockage \u00e0 froid": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "cold storage": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Donn\u00e9es": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "data": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Exaoctets": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "exabytes": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Dur\u00e9e de r\u00e9tention": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "retention lifetime": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Capacit\u00e9": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "capacity": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Performance": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "performance": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Fiabilit\u00e9": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "reliability": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Reproductibilit\u00e9": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "reproducibility": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Mettre en \u0153uvre": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "implement": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "R\u00e9soudre un probl\u00e8me": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "solve a problem": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Identifier": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "identify": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "D\u00e9tecter": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "detect": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Signaler": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "report": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Escalader": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "escalate": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Suivre": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "monitor/track": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Analyser": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "analyze": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Optimiser": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "optimize": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Garantir": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "ensure": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Fournisseur": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "supplier": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Partenaire externe": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "external partner": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Site du fournisseur": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "supplier site": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "D\u00e9ploiement": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "deployment": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Pr\u00e9sentation": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "presentation": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Diapositive": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "slide": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "\u00c9tude de cas": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "case study": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Strat\u00e9gie": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "strategy": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "D\u00e9marche": {
+    "interval_days": 1,
+    "last_reviewed": "2025-12-05",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 1,
+    "ease_factor": 1.8
+  },
+  "approach": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "P\u00e9rim\u00e8tre": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "scope": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Port\u00e9e": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "\u00c9tape": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "step": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Objectif": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "objective": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Acteurs cl\u00e9s": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "key stakeholders": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
     "times_wrong": 0,
     "ease_factor": 2.0
   }

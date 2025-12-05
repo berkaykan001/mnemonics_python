@@ -14298,20 +14298,1966 @@
     "mnemonic": "",
     "translation": "monsieur, ne cherche pas à me confondre",
     "image": "",
-    "starred": true
+    "starred": false
   },
   {
     "word": "il culpabilise",
     "mnemonic": "",
     "translation": "he feels guilty / vicdan azabı çekiyor",
     "image": "culpabiliser.png",
-    "starred": true
+    "starred": false
   },
   {
     "word": "he feels guilty / vicdan azabı çekiyor",
     "mnemonic": "",
     "translation": "il culpabilise",
     "image": "culpabiliser.png",
+    "starred": false
+  },
+  {
+    "word": "ADN",
+    "mnemonic": "",
+    "translation": "DNA",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "DNA",
+    "mnemonic": "",
+    "translation": "ADN",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Brin d'ADN",
+    "mnemonic": "",
+    "translation": "DNA strand",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "DNA strand",
+    "mnemonic": "",
+    "translation": "Brin d'ADN",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Séquençage",
+    "mnemonic": "",
+    "translation": "sequencing",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "sequencing",
+    "mnemonic": "",
+    "translation": "Séquençage",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Synthèse",
+    "mnemonic": "",
+    "translation": "synthesis",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "synthesis",
+    "mnemonic": "",
+    "translation": "Synthèse",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Nucléotides",
+    "mnemonic": "",
+    "translation": "nucleotides",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "nucleotides",
+    "mnemonic": "",
+    "translation": "Nucléotides",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Bio-imprimante",
+    "mnemonic": "",
+    "translation": "bio-printer",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "bio-printer",
+    "mnemonic": "",
+    "translation": "Bio-imprimante",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Encre biologique",
+    "mnemonic": "",
+    "translation": "biological ink",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "biological ink",
+    "mnemonic": "",
+    "translation": "Encre biologique",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Stockage de données ADN",
+    "mnemonic": "",
+    "translation": "DNA data storage",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "DNA data storage",
+    "mnemonic": "",
+    "translation": "Stockage de données ADN",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Support de stockage",
+    "mnemonic": "",
+    "translation": "storage media",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "storage media",
+    "mnemonic": "",
+    "translation": "Support de stockage",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Lecture",
+    "mnemonic": "",
+    "translation": "read",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "read",
+    "mnemonic": "",
+    "translation": "Lecture",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Écriture",
+    "mnemonic": "",
+    "translation": "write",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "write",
+    "mnemonic": "",
+    "translation": "Écriture",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Biotechnologie",
+    "mnemonic": "",
+    "translation": "biotechnology",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "biotechnology",
+    "mnemonic": "",
+    "translation": "Biotechnologie",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Laboratoire",
+    "mnemonic": "",
+    "translation": "laboratory",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "laboratory",
+    "mnemonic": "",
+    "translation": "Laboratoire",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Biologiste",
+    "mnemonic": "",
+    "translation": "biologist",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "biologist",
+    "mnemonic": "",
+    "translation": "Biologiste",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Microfluidique",
+    "mnemonic": "",
+    "translation": "microfluidics",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "microfluidics",
+    "mnemonic": "",
+    "translation": "Microfluidique",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Fluidique",
+    "mnemonic": "",
+    "translation": "fluidics",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "fluidics",
+    "mnemonic": "",
+    "translation": "Fluidique",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Flux",
+    "mnemonic": "",
+    "translation": "flow",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "flow",
+    "mnemonic": "",
+    "translation": "Flux",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Pompe",
+    "mnemonic": "",
+    "translation": "pump",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "pump",
+    "mnemonic": "",
+    "translation": "Pompe",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Vanne",
+    "mnemonic": "",
+    "translation": "valve",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "valve",
+    "mnemonic": "",
+    "translation": "Vanne",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Canal",
+    "mnemonic": "",
+    "translation": "channel",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "channel",
+    "mnemonic": "",
+    "translation": "Canal",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Conduit",
+    "mnemonic": "",
+    "translation": "channel",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "channel",
+    "mnemonic": "",
+    "translation": "Conduit",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Pression",
+    "mnemonic": "",
+    "translation": "pressure",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "pressure",
+    "mnemonic": "",
+    "translation": "Pression",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Débit",
+    "mnemonic": "",
+    "translation": "flow rate",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "flow rate",
+    "mnemonic": "",
+    "translation": "Débit",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Volume",
+    "mnemonic": "",
+    "translation": "volume",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "volume",
+    "mnemonic": "",
+    "translation": "Volume",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Injection",
+    "mnemonic": "",
+    "translation": "injection",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "injection",
+    "mnemonic": "",
+    "translation": "Injection",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Circuit fluidique",
+    "mnemonic": "",
+    "translation": "fluidic circuit",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "fluidic circuit",
+    "mnemonic": "",
+    "translation": "Circuit fluidique",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Liquide",
+    "mnemonic": "",
+    "translation": "liquid",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "liquid",
+    "mnemonic": "",
+    "translation": "Liquide",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Électronique",
+    "mnemonic": "",
+    "translation": "electronics",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "electronics",
+    "mnemonic": "",
+    "translation": "Électronique",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Micrologiciel",
+    "mnemonic": "",
+    "translation": "firmware",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "firmware",
+    "mnemonic": "",
+    "translation": "Micrologiciel",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Firmware",
+    "mnemonic": "",
+    "translation": "firmware",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "firmware",
+    "mnemonic": "",
+    "translation": "Firmware",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Signal",
+    "mnemonic": "",
+    "translation": "signal",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "signal",
+    "mnemonic": "",
+    "translation": "Signal",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Capteur",
+    "mnemonic": "",
+    "translation": "sensor",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "sensor",
+    "mnemonic": "",
+    "translation": "Capteur",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Carte électronique",
+    "mnemonic": "",
+    "translation": "electronic board",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "electronic board",
+    "mnemonic": "",
+    "translation": "Carte électronique",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Matériel",
+    "mnemonic": "",
+    "translation": "hardware",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "hardware",
+    "mnemonic": "",
+    "translation": "Matériel",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Instrumentation",
+    "mnemonic": "",
+    "translation": "instrumentation",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "instrumentation",
+    "mnemonic": "",
+    "translation": "Instrumentation",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Mesure",
+    "mnemonic": "",
+    "translation": "measurement",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "measurement",
+    "mnemonic": "",
+    "translation": "Mesure",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Tension",
+    "mnemonic": "",
+    "translation": "voltage",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "voltage",
+    "mnemonic": "",
+    "translation": "Tension",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Courant",
+    "mnemonic": "",
+    "translation": "current",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "current",
+    "mnemonic": "",
+    "translation": "Courant",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Logiciel",
+    "mnemonic": "",
+    "translation": "software",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "software",
+    "mnemonic": "",
+    "translation": "Logiciel",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Script",
+    "mnemonic": "",
+    "translation": "script",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "script",
+    "mnemonic": "",
+    "translation": "Script",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Code source",
+    "mnemonic": "",
+    "translation": "source code",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "source code",
+    "mnemonic": "",
+    "translation": "Code source",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Programmation",
+    "mnemonic": "",
+    "translation": "programming",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "programming",
+    "mnemonic": "",
+    "translation": "Programmation",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Débogage",
+    "mnemonic": "",
+    "translation": "debugging",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "debugging",
+    "mnemonic": "",
+    "translation": "Débogage",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Bug",
+    "mnemonic": "",
+    "translation": "bug",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "bug",
+    "mnemonic": "",
+    "translation": "Bug",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Bogue",
+    "mnemonic": "",
+    "translation": "bug",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "bug",
+    "mnemonic": "",
+    "translation": "Bogue",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Version",
+    "mnemonic": "",
+    "translation": "version/release",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "version/release",
+    "mnemonic": "",
+    "translation": "Version",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Pipeline d'intégration continue",
+    "mnemonic": "",
+    "translation": "CI pipeline",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "CI pipeline",
+    "mnemonic": "",
+    "translation": "Pipeline d'intégration continue",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Image logicielle",
+    "mnemonic": "",
+    "translation": "software image",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "software image",
+    "mnemonic": "",
+    "translation": "Image logicielle",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Interopérabilité",
+    "mnemonic": "",
+    "translation": "interoperability",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "interoperability",
+    "mnemonic": "",
+    "translation": "Interopérabilité",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Exécuter",
+    "mnemonic": "",
+    "translation": "to run",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "to run",
+    "mnemonic": "",
+    "translation": "Exécuter",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Système d'exploitation",
+    "mnemonic": "",
+    "translation": "operating system",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "operating system",
+    "mnemonic": "",
+    "translation": "Système d'exploitation",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Test",
+    "mnemonic": "",
+    "translation": "test",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "test",
+    "mnemonic": "",
+    "translation": "Test",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Essai",
+    "mnemonic": "",
+    "translation": "test",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "test",
+    "mnemonic": "",
+    "translation": "Essai",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Banc de test",
+    "mnemonic": "",
+    "translation": "test bench",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "test bench",
+    "mnemonic": "",
+    "translation": "Banc de test",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Banc d'essai",
+    "mnemonic": "",
+    "translation": "test bench",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "test bench",
+    "mnemonic": "",
+    "translation": "Banc d'essai",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Campagne de tests",
+    "mnemonic": "",
+    "translation": "test campaign",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "test campaign",
+    "mnemonic": "",
+    "translation": "Campagne de tests",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Tests de bout en bout",
+    "mnemonic": "",
+    "translation": "end-to-end testing",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "end-to-end testing",
+    "mnemonic": "",
+    "translation": "Tests de bout en bout",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Validation",
+    "mnemonic": "",
+    "translation": "validation",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "validation",
+    "mnemonic": "",
+    "translation": "Validation",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Vérification",
+    "mnemonic": "",
+    "translation": "verification",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "verification",
+    "mnemonic": "",
+    "translation": "Vérification",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Test de non-régression",
+    "mnemonic": "",
+    "translation": "regression testing",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "regression testing",
+    "mnemonic": "",
+    "translation": "Test de non-régression",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Automatisation des tests",
+    "mnemonic": "",
+    "translation": "test automation",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "test automation",
+    "mnemonic": "",
+    "translation": "Automatisation des tests",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Exécution de tests",
+    "mnemonic": "",
+    "translation": "test execution",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "test execution",
+    "mnemonic": "",
+    "translation": "Exécution de tests",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Cas de test",
+    "mnemonic": "",
+    "translation": "test case",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "test case",
+    "mnemonic": "",
+    "translation": "Cas de test",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Couverture de test",
+    "mnemonic": "",
+    "translation": "test coverage",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "test coverage",
+    "mnemonic": "",
+    "translation": "Couverture de test",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Test fonctionnel",
+    "mnemonic": "",
+    "translation": "functional testing",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "functional testing",
+    "mnemonic": "",
+    "translation": "Test fonctionnel",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Test d'intégration",
+    "mnemonic": "",
+    "translation": "integration test",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "integration test",
+    "mnemonic": "",
+    "translation": "Test d'intégration",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Test système",
+    "mnemonic": "",
+    "translation": "system test",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "system test",
+    "mnemonic": "",
+    "translation": "Test système",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Assurance qualité",
+    "mnemonic": "",
+    "translation": "quality assurance",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "quality assurance",
+    "mnemonic": "",
+    "translation": "Assurance qualité",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Cahier des charges",
+    "mnemonic": "",
+    "translation": "specification",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "specification",
+    "mnemonic": "",
+    "translation": "Cahier des charges",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Spécification",
+    "mnemonic": "",
+    "translation": "specification",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "specification",
+    "mnemonic": "",
+    "translation": "Spécification",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Conformité",
+    "mnemonic": "",
+    "translation": "compliance",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "compliance",
+    "mnemonic": "",
+    "translation": "Conformité",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Traçabilité",
+    "mnemonic": "",
+    "translation": "traceability",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "traceability",
+    "mnemonic": "",
+    "translation": "Traçabilité",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Rapport de test",
+    "mnemonic": "",
+    "translation": "test report",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "test report",
+    "mnemonic": "",
+    "translation": "Rapport de test",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Documentation",
+    "mnemonic": "",
+    "translation": "documentation",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "documentation",
+    "mnemonic": "",
+    "translation": "Documentation",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Anomalie",
+    "mnemonic": "",
+    "translation": "defect/anomaly",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "defect/anomaly",
+    "mnemonic": "",
+    "translation": "Anomalie",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Défaut",
+    "mnemonic": "",
+    "translation": "defect",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "defect",
+    "mnemonic": "",
+    "translation": "Défaut",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Seuil",
+    "mnemonic": "",
+    "translation": "threshold",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "threshold",
+    "mnemonic": "",
+    "translation": "Seuil",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Limite",
+    "mnemonic": "",
+    "translation": "limit",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "limit",
+    "mnemonic": "",
+    "translation": "Limite",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Rendement",
+    "mnemonic": "",
+    "translation": "yield",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "yield",
+    "mnemonic": "",
+    "translation": "Rendement",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Écart",
+    "mnemonic": "",
+    "translation": "discrepancy",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "discrepancy",
+    "mnemonic": "",
+    "translation": "Écart",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Mécanique",
+    "mnemonic": "",
+    "translation": "mechanics",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "mechanics",
+    "mnemonic": "",
+    "translation": "Mécanique",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Composant mécanique",
+    "mnemonic": "",
+    "translation": "mechanical component",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "mechanical component",
+    "mnemonic": "",
+    "translation": "Composant mécanique",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Assemblage",
+    "mnemonic": "",
+    "translation": "assembly",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "assembly",
+    "mnemonic": "",
+    "translation": "Assemblage",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Robustesse",
+    "mnemonic": "",
+    "translation": "robustness",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "robustness",
+    "mnemonic": "",
+    "translation": "Robustesse",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Défaillance mécanique",
+    "mnemonic": "",
+    "translation": "mechanical failure",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "mechanical failure",
+    "mnemonic": "",
+    "translation": "Défaillance mécanique",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Module",
+    "mnemonic": "",
+    "translation": "module",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "module",
+    "mnemonic": "",
+    "translation": "Module",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Équipement",
+    "mnemonic": "",
+    "translation": "equipment",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "equipment",
+    "mnemonic": "",
+    "translation": "Équipement",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Rack",
+    "mnemonic": "",
+    "translation": "rack",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "rack",
+    "mnemonic": "",
+    "translation": "Rack",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Système",
+    "mnemonic": "",
+    "translation": "system",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "system",
+    "mnemonic": "",
+    "translation": "Système",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Imprimante",
+    "mnemonic": "",
+    "translation": "printer",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "printer",
+    "mnemonic": "",
+    "translation": "Imprimante",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Jet d'encre",
+    "mnemonic": "",
+    "translation": "inkjet",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "inkjet",
+    "mnemonic": "",
+    "translation": "Jet d'encre",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Cartouche",
+    "mnemonic": "",
+    "translation": "cartridge",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "cartridge",
+    "mnemonic": "",
+    "translation": "Cartouche",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Buse",
+    "mnemonic": "",
+    "translation": "nozzle",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "nozzle",
+    "mnemonic": "",
+    "translation": "Buse",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Impression",
+    "mnemonic": "",
+    "translation": "printing",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "printing",
+    "mnemonic": "",
+    "translation": "Impression",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Équipe pluridisciplinaire",
+    "mnemonic": "",
+    "translation": "multidisciplinary team",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "multidisciplinary team",
+    "mnemonic": "",
+    "translation": "Équipe pluridisciplinaire",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Chef de produit",
+    "mnemonic": "",
+    "translation": "Product Manager",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Product Manager",
+    "mnemonic": "",
+    "translation": "Chef de produit",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Collaboration",
+    "mnemonic": "",
+    "translation": "collaboration",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "collaboration",
+    "mnemonic": "",
+    "translation": "Collaboration",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Réunion",
+    "mnemonic": "",
+    "translation": "meeting",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "meeting",
+    "mnemonic": "",
+    "translation": "Réunion",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Jalons",
+    "mnemonic": "",
+    "translation": "milestones",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "milestones",
+    "mnemonic": "",
+    "translation": "Jalons",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Livrables",
+    "mnemonic": "",
+    "translation": "deliverables",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "deliverables",
+    "mnemonic": "",
+    "translation": "Livrables",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Processus",
+    "mnemonic": "",
+    "translation": "process",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "process",
+    "mnemonic": "",
+    "translation": "Processus",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Méthodologie",
+    "mnemonic": "",
+    "translation": "methodology",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "methodology",
+    "mnemonic": "",
+    "translation": "Méthodologie",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Amélioration continue",
+    "mnemonic": "",
+    "translation": "continuous improvement",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "continuous improvement",
+    "mnemonic": "",
+    "translation": "Amélioration continue",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Industrialisation",
+    "mnemonic": "",
+    "translation": "industrialization",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "industrialization",
+    "mnemonic": "",
+    "translation": "Industrialisation",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Centre de données",
+    "mnemonic": "",
+    "translation": "data center",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "data center",
+    "mnemonic": "",
+    "translation": "Centre de données",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Serveur",
+    "mnemonic": "",
+    "translation": "server",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "server",
+    "mnemonic": "",
+    "translation": "Serveur",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Stockage",
+    "mnemonic": "",
+    "translation": "storage",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "storage",
+    "mnemonic": "",
+    "translation": "Stockage",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Stockage à froid",
+    "mnemonic": "",
+    "translation": "cold storage",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "cold storage",
+    "mnemonic": "",
+    "translation": "Stockage à froid",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Données",
+    "mnemonic": "",
+    "translation": "data",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "data",
+    "mnemonic": "",
+    "translation": "Données",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Exaoctets",
+    "mnemonic": "",
+    "translation": "exabytes",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "exabytes",
+    "mnemonic": "",
+    "translation": "Exaoctets",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Durée de rétention",
+    "mnemonic": "",
+    "translation": "retention lifetime",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "retention lifetime",
+    "mnemonic": "",
+    "translation": "Durée de rétention",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Capacité",
+    "mnemonic": "",
+    "translation": "capacity",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "capacity",
+    "mnemonic": "",
+    "translation": "Capacité",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Performance",
+    "mnemonic": "",
+    "translation": "performance",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "performance",
+    "mnemonic": "",
+    "translation": "Performance",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Fiabilité",
+    "mnemonic": "",
+    "translation": "reliability",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "reliability",
+    "mnemonic": "",
+    "translation": "Fiabilité",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Reproductibilité",
+    "mnemonic": "",
+    "translation": "reproducibility",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "reproducibility",
+    "mnemonic": "",
+    "translation": "Reproductibilité",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Mettre en œuvre",
+    "mnemonic": "",
+    "translation": "implement",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "implement",
+    "mnemonic": "",
+    "translation": "Mettre en œuvre",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Résoudre un problème",
+    "mnemonic": "",
+    "translation": "solve a problem",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "solve a problem",
+    "mnemonic": "",
+    "translation": "Résoudre un problème",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Identifier",
+    "mnemonic": "",
+    "translation": "identify",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "identify",
+    "mnemonic": "",
+    "translation": "Identifier",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Détecter",
+    "mnemonic": "",
+    "translation": "detect",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "detect",
+    "mnemonic": "",
+    "translation": "Détecter",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Signaler",
+    "mnemonic": "",
+    "translation": "report",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "report",
+    "mnemonic": "",
+    "translation": "Signaler",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Escalader",
+    "mnemonic": "",
+    "translation": "escalate",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "escalate",
+    "mnemonic": "",
+    "translation": "Escalader",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Suivre",
+    "mnemonic": "",
+    "translation": "monitor/track",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "monitor/track",
+    "mnemonic": "",
+    "translation": "Suivre",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Analyser",
+    "mnemonic": "",
+    "translation": "analyze",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "analyze",
+    "mnemonic": "",
+    "translation": "Analyser",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Optimiser",
+    "mnemonic": "",
+    "translation": "optimize",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "optimize",
+    "mnemonic": "",
+    "translation": "Optimiser",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Garantir",
+    "mnemonic": "",
+    "translation": "ensure",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "ensure",
+    "mnemonic": "",
+    "translation": "Garantir",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Fournisseur",
+    "mnemonic": "",
+    "translation": "supplier",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "supplier",
+    "mnemonic": "",
+    "translation": "Fournisseur",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Partenaire externe",
+    "mnemonic": "",
+    "translation": "external partner",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "external partner",
+    "mnemonic": "",
+    "translation": "Partenaire externe",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Site du fournisseur",
+    "mnemonic": "",
+    "translation": "supplier site",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "supplier site",
+    "mnemonic": "",
+    "translation": "Site du fournisseur",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Déploiement",
+    "mnemonic": "",
+    "translation": "deployment",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "deployment",
+    "mnemonic": "",
+    "translation": "Déploiement",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Présentation",
+    "mnemonic": "",
+    "translation": "presentation",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "presentation",
+    "mnemonic": "",
+    "translation": "Présentation",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Diapositive",
+    "mnemonic": "",
+    "translation": "slide",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "slide",
+    "mnemonic": "",
+    "translation": "Diapositive",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Étude de cas",
+    "mnemonic": "",
+    "translation": "case study",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "case study",
+    "mnemonic": "",
+    "translation": "Étude de cas",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Stratégie",
+    "mnemonic": "",
+    "translation": "strategy",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "strategy",
+    "mnemonic": "",
+    "translation": "Stratégie",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Démarche",
+    "mnemonic": "",
+    "translation": "approach",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "approach",
+    "mnemonic": "",
+    "translation": "Démarche",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Périmètre",
+    "mnemonic": "",
+    "translation": "scope",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "scope",
+    "mnemonic": "",
+    "translation": "Périmètre",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Portée",
+    "mnemonic": "",
+    "translation": "scope",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "scope",
+    "mnemonic": "",
+    "translation": "Portée",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Étape",
+    "mnemonic": "",
+    "translation": "step",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "step",
+    "mnemonic": "",
+    "translation": "Étape",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Objectif",
+    "mnemonic": "",
+    "translation": "objective",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "objective",
+    "mnemonic": "",
+    "translation": "Objectif",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "Acteurs clés",
+    "mnemonic": "",
+    "translation": "key stakeholders",
+    "image": "",
+    "starred": true
+  },
+  {
+    "word": "key stakeholders",
+    "mnemonic": "",
+    "translation": "Acteurs clés",
+    "image": "",
     "starred": true
   }
 ]

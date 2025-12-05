@@ -3,7 +3,9 @@
     "allow": [
       "Bash(python migrate_progress.py:*)",
       "Bash(python reset_progress.py:*)",
-      "Bash(python add_starred_field.py:*)"
+      "Bash(python add_starred_field.py:*)",
+      "Bash(python add_technical_words.py:*)",
+      "Bash(python:*)"
     ],
     "deny": [],
     "ask": []
