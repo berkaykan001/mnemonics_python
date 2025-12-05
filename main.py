@@ -21,6 +21,7 @@ class MnemonicApp:
         self.reveal_stage = 0
         self.vocab_data = []
         self.progress_data = {}
+        self.starred_filter_active = False
         
         # Load vocabulary and progress data
         if not self.load_data():
@@ -94,6 +95,25 @@ class MnemonicApp:
         
         # Now use scrollable_frame instead of main_frame for all widgets
         main_frame = scrollable_frame  # Replace this line and continue with existing code
+
+        # Filter control frame at top
+        filter_frame = tk.Frame(main_frame, bg="#f0f0f0")
+        filter_frame.pack(pady=10, fill="x")
+
+        # Starred filter toggle button
+        self.starred_button = tk.Button(
+            filter_frame,
+            text="★ Show Only Starred",
+            command=self.toggle_starred_filter,
+            font=("Arial", 10),
+            bg="#95a5a6",
+            fg="white",
+            padx=20,
+            pady=8,
+            relief="raised",
+            bd=2
+        )
+        self.starred_button.pack()
 
         # Word label (always visible) - larger and more prominent
         self.word_label = tk.Label(
@@ -258,26 +278,34 @@ class MnemonicApp:
         """Select the next word using spaced repetition algorithm"""
         if not self.vocab_data:
             return None
-            
+
+        # Filter vocabulary based on starred filter
+        filtered_vocab = self.vocab_data
+        if self.starred_filter_active:
+            filtered_vocab = [word_data for word_data in self.vocab_data if word_data.get("starred", False)]
+
+        if not filtered_vocab:
+            return None
+
         today = datetime.now().date()
         word_priorities = []
-        
-        for word_data in self.vocab_data:
+
+        for word_data in filtered_vocab:
             word = word_data["word"]
             progress = self.progress_data[word]
-            
+
             last_reviewed = datetime.fromisoformat(progress["last_reviewed"]).date()
             next_review = last_reviewed + timedelta(days=progress["interval_days"])
             days_overdue = (today - next_review).days
-            
+
             priority = (
                 days_overdue * 10 +
                 progress["times_wrong"] * 5 +
                 random.uniform(-2, 2)
             )
-            
+
             word_priorities.append((priority, word_data))
-        
+
         word_priorities.sort(key=lambda x: x[0], reverse=True)
         return word_priorities[0][1]
     
@@ -337,7 +365,42 @@ class MnemonicApp:
                 json.dump(self.progress_data, f, indent=2)
         except Exception as e:
             messagebox.showerror("Error", f"Failed to save progress: {str(e)}")
-    
+
+    def toggle_starred_filter(self):
+        """Toggle the starred filter on/off"""
+        self.starred_filter_active = not self.starred_filter_active
+
+        # Update button appearance based on filter state
+        if self.starred_filter_active:
+            self.starred_button.config(
+                text="★ Starred Filter ON",
+                bg="#f39c12",
+                relief="sunken"
+            )
+            # Count starred words
+            starred_count = sum(1 for word_data in self.vocab_data if word_data.get("starred", False))
+            if starred_count == 0:
+                messagebox.showwarning(
+                    "No Starred Words",
+                    "You haven't starred any words yet!\n\nTo star words, you'll need to manually edit vocabulary.json and set 'starred': true for the words you want."
+                )
+                self.starred_filter_active = False
+                self.starred_button.config(
+                    text="★ Show Only Starred",
+                    bg="#95a5a6",
+                    relief="raised"
+                )
+                return
+        else:
+            self.starred_button.config(
+                text="★ Show Only Starred",
+                bg="#95a5a6",
+                relief="raised"
+            )
+
+        # Reload the next word with the new filter
+        self.load_next_word()
+
     def correct_answer(self):
         """Handle correct answer"""
         self.update_progress(correct=True)

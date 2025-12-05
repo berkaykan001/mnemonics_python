@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(python migrate_progress.py:*)",
-      "Bash(python reset_progress.py:*)"
+      "Bash(python reset_progress.py:*)",
+      "Bash(python add_starred_field.py:*)"
     ],
     "deny": [],
     "ask": []

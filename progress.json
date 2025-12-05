@@ -16158,5 +16158,365 @@
     "times_correct": 0,
     "times_wrong": 0,
     "ease_factor": 2.0
+  },
+  "confondre (tu m'as confondu avec quelqu'un d'autre)": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "biriyle kar\u0131\u015ft\u0131rmak (sen beni kar\u0131\u015ft\u0131rd\u0131n)": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "s'\u00e9touffer": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "bo\u011fulmak": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "se r\u00e9galer": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "\u00e7ok e\u011flenmek": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "retire ta veste": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "ceketini \u00e7\u0131kra": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "retenir (je retiens)": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "to remember (i remember)": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "fid\u00e8le / infid\u00e8le": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "faithful / unfaithful": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "tu nous as embrouill\u00e9 le cerveau, je t'ai embrouill\u00e9": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "you confused our brain, i confused you": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "depuis tout \u00e0 l'heure": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "birka\u00e7 dakikad\u0131r / bir s\u00fcredir": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Ahmet'in intikam\u0131n\u0131 ald\u0131m / Ahmet'ten intikam ald\u0131m": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "pousser la barbe": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "sakal\u0131n uzamas\u0131": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "il m'a mis en garde": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "beni uyard\u0131": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "pour de vrai?": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "for real?": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "d\u00e9noncer": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "if\u015fa etmek": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "on se met sur la gueule": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "we're fighting/arguing each other": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "J'ai fait une greffe de cheveux": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "sa\u00e7 ektirdim": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "\u00e0 la base": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "originally / basically": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "f\u00e2cher (Elle s\u2019est f\u00e2ch\u00e9e contre moi, tu vas le f\u00e2cher, je suis f\u00e2ch\u00e9 avec lui)": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "to anger (She got angry at me, you will anger him, i'm angry with him)": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "roter": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "ge\u011firmek": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "susceptible": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "likely, e\u011filimli, al\u0131ngan": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Elle est en train de m\u2019avoir, elle m'a eu (avoir quelqu'un)": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "beni kand\u0131r\u0131yor, beni kand\u0131rd\u0131": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "un daron / une daronne": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "a dad / a mom (slang)": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "monsieur, ne cherche pas \u00e0 me confondre": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "sir, don't try to confuse me": {
+    "interval_days": 6,
+    "last_reviewed": "2025-12-05",
+    "difficulty_level": 1,
+    "times_correct": 1,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "il culpabilise": {
+    "interval_days": 6,
+    "last_reviewed": "2025-12-05",
+    "difficulty_level": 1,
+    "times_correct": 1,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "he feels guilty / vicdan azab\u0131 \u00e7ekiyor": {
+    "interval_days": 6,
+    "last_reviewed": "2025-12-05",
+    "difficulty_level": 1,
+    "times_correct": 1,
+    "times_wrong": 0,
+    "ease_factor": 2.0
   }
 }
