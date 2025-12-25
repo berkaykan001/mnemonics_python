@@ -1204,7 +1204,7 @@
     "starred": false
   },
   {
-    "word": "il pète les plombs",
+    "word": "il pète les plombs (un plumb) / il pete un câble",
     "mnemonic": "",
     "translation": "he is angry",
     "image": "images\\il pète les plombs.PNG",
@@ -6559,9 +6559,9 @@
     "starred": false
   },
   {
-    "word": "he is angry",
+    "word": "he is angry / he is losing it",
     "mnemonic": "",
-    "translation": "il pète les plombs",
+    "translation": "il pète les plombs (un plumb) / il pete un câble",
     "image": "images\\il pète les plombs.PNG",
     "starred": false
   },
@@ -10811,14 +10811,14 @@
     "word": "divertissement",
     "mnemonic": "diverse insanların eğlendiğini düşün (resim orgy partisine benzedi)",
     "translation": "entertainment",
-    "image": "divertissement.jpg",
+    "image": "images\\divertissement.jpg",
     "starred": false
   },
   {
     "word": "entertainment",
     "mnemonic": "diverse insanların eğlendiğini düşün (resim orgy partisine benzedi)",
     "translation": "divertissement",
-    "image": "divertissement.jpg",
+    "image": "images\\divertissement.jpg",
     "starred": false
   },
   {
@@ -11070,14 +11070,14 @@
     "word": "je suis emu",
     "mnemonic": "ben emoyum gibi söyleniyo. Emolar duygusal olarak etkilenir hep.",
     "translation": "duygusal olarak etkilenmek (b ve t ile başlayan değil)",
-    "image": "je suis emu.PNG",
+    "image": "images\\je suis emu.PNG",
     "starred": false
   },
   {
     "word": "duygusal olarak etkilenmek (b ve t ile başlayan değil)",
     "mnemonic": "ben emoyum gibi söyleniyo. Emolar duygusal olarak etkilenir hep.",
     "translation": "je suis emu",
-    "image": "je suis emu.PNG",
+    "image": "images\\je suis emu.PNG",
     "starred": false
   },
   {
@@ -11098,42 +11098,42 @@
     "word": "se taper",
     "mnemonic": "gömdüğün şeyin aşırı lezzetli olduğunu bu yüzden kendine vura vura yediğini düşün",
     "translation": "argo yemek, gömmek gibi düşün",
-    "image": "se taper.PNG",
+    "image": "images\\se taper.PNG",
     "starred": false
   },
   {
     "word": "argo yemek, gömmek gibi düşün",
     "mnemonic": "gömdüğün şeyin aşırı lezzetli olduğunu bu yüzden kendine vura vura yediğini düşün",
     "translation": "se taper",
-    "image": "se taper.PNG",
+    "image": "images\\se taper.PNG",
     "starred": false
   },
   {
     "word": "mettre en place",
     "mnemonic": "place yani meydana bişey koyup düzenek kurduğunu düşün",
     "translation": "set up (ayarlamak kurmak) Shaq düştüğü zaman you set me up diyodu, o anlamda",
-    "image": "mettre en place.jpg",
+    "image": "images\\mettre en place.jpg",
     "starred": false
   },
   {
     "word": "set up (ayarlamak kurmak) Shaq düştüğü zaman you set me up diyodu, o anlamda",
     "mnemonic": "place yani meydana bişey koyup düzenek kurduğunu düşün",
     "translation": "mettre en place",
-    "image": "mettre en place.jpg",
+    "image": "images\\mettre en place.jpg",
     "starred": false
   },
   {
     "word": "agaçant/agaçante",
     "mnemonic": "agalar birbiriyle annoying olurlar",
     "translation": "annoying",
-    "image": "agaçant.PNG",
+    "image": "images\\agaçant.PNG",
     "starred": false
   },
   {
     "word": "annoying",
     "mnemonic": "agalar birbiriyle annoying olurlar",
     "translation": "agaçant/agaçante",
-    "image": "agaçant.PNG",
+    "image": "images\\agaçant.PNG",
     "starred": false
   },
   {
@@ -11252,56 +11252,56 @@
     "word": "cramer",
     "mnemonic": "yanan yeri kremlediğini düşün",
     "translation": "to burn (slang)",
-    "image": "cramer.PNG",
+    "image": "images\\cramer.PNG",
     "starred": false
   },
   {
     "word": "to burn (slang)",
     "mnemonic": "yanan yeri kremlediğini düşün",
     "translation": "cramer",
-    "image": "cramer.PNG",
+    "image": "images\\cramer.PNG",
     "starred": false
   },
   {
     "word": "rougir les oreilles",
     "mnemonic": "fransızlar yüzsüz olduğu için yüzleri değil kulakları kızarar",
     "translation": "yüzünü kızartmak (utandırmak - to blush)",
-    "image": "rougir les oreilles.PNG",
+    "image": "images\\rougir les oreilles.PNG",
     "starred": false
   },
   {
     "word": "yüzünü kızartmak (utandırmak - to blush)",
     "mnemonic": "fransızlar yüzsüz olduğu için yüzleri değil kulakları kızarar",
     "translation": "rougir les oreilles",
-    "image": "rougir les oreilles.PNG",
+    "image": "images\\rougir les oreilles.PNG",
     "starred": false
   },
   {
     "word": "taquiner",
     "mnemonic": "can chaplin'in 'şaka taquiniyom ha' dediğini düşün",
     "translation": "to tease (takılmak)",
-    "image": "taquiner.PNG",
+    "image": "images\\taquiner.PNG",
     "starred": false
   },
   {
     "word": "to tease (takılmak)",
     "mnemonic": "can chaplin'in 'şaka taquiniyom ha' dediğini düşün",
     "translation": "taquiner",
-    "image": "taquiner.PNG",
+    "image": "images\\taquiner.PNG",
     "starred": false
   },
   {
     "word": "viser",
     "mnemonic": "birinin vizeyle nişan aldığını düşün",
     "translation": "to aim",
-    "image": "viser.PNG",
+    "image": "images\\viser.PNG",
     "starred": false
   },
   {
     "word": "to aim",
     "mnemonic": "birinin vizeyle nişan aldığını düşün",
     "translation": "viser",
-    "image": "viser.PNG",
+    "image": "images\\viser.PNG",
     "starred": false
   },
   {
@@ -11364,42 +11364,42 @@
     "word": "sueur",
     "mnemonic": "roll on 'sür', terlemişsin",
     "translation": "ter",
-    "image": "sueur.PNG",
+    "image": "images\\sueur.PNG",
     "starred": false
   },
   {
     "word": "ter",
     "mnemonic": "roll on 'sür', terlemişsin",
     "translation": "sueur",
-    "image": "sueur.PNG",
+    "image": "images\\sueur.PNG",
     "starred": false
   },
   {
     "word": "cracher",
     "mnemonic": "crash derken boğazdan söylüyon ya, yanlışlıkla tükürdüğünü düşün",
     "translation": "to spit",
-    "image": "cracher.PNG",
+    "image": "images\\cracher.PNG",
     "starred": false
   },
   {
     "word": "to spit",
     "mnemonic": "crash derken boğazdan söylüyon ya, yanlışlıkla tükürdüğünü düşün",
     "translation": "cracher",
-    "image": "cracher.PNG",
+    "image": "images\\cracher.PNG",
     "starred": false
   },
   {
     "word": "défoncer",
     "mnemonic": "khabib conor'a diyo ki 'seni smesh edicem defans yourself' conor'da diyo ki 'defons ey?'",
     "translation": "to smash (informal)",
-    "image": "défoncer.PNG",
+    "image": "images\\défoncer.PNG",
     "starred": false
   },
   {
     "word": "to smash",
     "mnemonic": "khabib conor'a diyo ki 'seni smesh edicem defans yourself' conor'da diyo ki 'defons ey?'",
     "translation": "défoncer (informal)",
-    "image": "défoncer.PNG",
+    "image": "images\\défoncer.PNG",
     "starred": false
   },
   {
@@ -11420,42 +11420,42 @@
     "word": "Elle s'est prise les pieds dans le tapis",
     "mnemonic": "ayağını halıya takıldırttı. Bu bi hatadır",
     "translation": "she made a mistake/blunder",
-    "image": "Elle s'est prise les pieds dans le tapis.PNG",
+    "image": "images\\Elle s'est prise les pieds dans le tapis.PNG",
     "starred": false
   },
   {
     "word": "she made a mistake/blunder",
     "mnemonic": "ayağını halıya takıldırttı. Bu bi hatadır",
     "translation": "Elle s'est prise les pieds dans le tapis",
-    "image": "Elle s'est prise les pieds dans le tapis.PNG",
+    "image": "images\\Elle s'est prise les pieds dans le tapis.PNG",
     "starred": false
   },
   {
     "word": "Elle se prend les pieds dans le tapis.",
     "mnemonic": "ayağını halıya takıldırttı. Bu bi hatadır",
     "translation": "she is making a mistake/blunder",
-    "image": "Elle s'est prise les pieds dans le tapis.PNG",
+    "image": "images\\Elle s'est prise les pieds dans le tapis.PNG",
     "starred": false
   },
   {
     "word": "she is making a mistake/blunder",
     "mnemonic": "ayağını halıya takıldırttı. Bu bi hatadır",
     "translation": "Elle se prend les pieds dans le tapis.",
-    "image": "Elle s'est prise les pieds dans le tapis.PNG",
+    "image": "images\\Elle s'est prise les pieds dans le tapis.PNG",
     "starred": false
   },
   {
     "word": "Elle se prend les pieds dans le tapis.",
     "mnemonic": "ayağını halıya takıldırttı. Bu bi hatadır",
     "translation": "she is making a mistake/blunder",
-    "image": "Elle s'est prise les pieds dans le tapis.PNG",
+    "image": "images\\Elle s'est prise les pieds dans le tapis.PNG",
     "starred": false
   },
   {
     "word": "she is making a mistake/blunder",
     "mnemonic": "ayağını halıya takıldırttı. Bu bi hatadır",
     "translation": "Elle se prend les pieds dans le tapis.",
-    "image": "Elle s'est prise les pieds dans le tapis.PNG",
+    "image": "images\\Elle s'est prise les pieds dans le tapis.PNG",
     "starred": false
   },
   {
@@ -11560,28 +11560,28 @@
     "word": "malin",
     "mnemonic": "MALİ zeki ve informal bi adam",
     "translation": "zeki (hafif informal)",
-    "image": "malin.PNG",
+    "image": "images\\malin.PNG",
     "starred": false
   },
   {
     "word": "zeki (hafif informal)",
     "mnemonic": "MALİ zeki ve informal bi adam",
     "translation": "malin",
-    "image": "malin.PNG",
+    "image": "images\\malin.PNG",
     "starred": false
   },
   {
     "word": "déchanter",
     "mnemonic": "bok gibi şarkı söyleyip milleti hayal kırıklığına uğrattığını düşün",
     "translation": "hayal kırıklığına uğramak",
-    "image": "déchanter.PNG",
+    "image": "images\\déchanter.PNG",
     "starred": false
   },
   {
     "word": "hayal kırıklığına uğramak",
     "mnemonic": "bok gibi şarkı söyleyip milleti hayal kırıklığına uğrattığını düşün",
     "translation": "déchanter",
-    "image": "déchanter.PNG",
+    "image": "images\\déchanter.PNG",
     "starred": false
   },
   {
@@ -11630,28 +11630,28 @@
     "word": "parier",
     "mnemonic": "parier 'para ye' gibi okunuyo ordan aklına gelsin",
     "translation": "to bet",
-    "image": "parier.PNG",
+    "image": "images\\parier.PNG",
     "starred": false
   },
   {
     "word": "to bet",
     "mnemonic": "parier 'para ye' gibi okunuyo ordan aklına gelsin.",
     "translation": "parier",
-    "image": "parier.PNG",
+    "image": "images\\parier.PNG",
     "starred": false
   },
   {
     "word": "draguer",
     "mnemonic": "yürüdüğün kızı date olarak drag yarışlarına götürdüğünü düşün",
     "translation": "bi kişiye yürümek",
-    "image": "draguer.PNG",
+    "image": "images\\draguer.PNG",
     "starred": false
   },
   {
     "word": "bi kişiye yürümek",
     "mnemonic": "yürüdüğün kızı date olarak drag yarışlarına götürdüğünü düşün",
     "translation": "draguer",
-    "image": "draguer.PNG",
+    "image": "images\\draguer.PNG",
     "starred": false
   },
   {
@@ -11672,14 +11672,14 @@
     "word": "exiger (c'est exigé)",
     "mnemonic": "-J'ye ihtiyaç duyan bi adam düşün",
     "translation": "to require (it's required)",
-    "image": "exiger.png",
+    "image": "images\\exiger.png",
     "starred": false
   },
   {
     "word": "to require (it's required)",
     "mnemonic": "-J'ye ihtiyaç duyan bi adam düşün",
     "translation": "exiger (c'est exigé)",
-    "image": "exiger.png",
+    "image": "images\\exiger.png",
     "starred": false
   },
   {
@@ -11935,17 +11935,17 @@
     "starred": false
   },
   {
-    "word": "c'est lié à toi",
+    "word": "c'est lié à toi / il y a un lien avec toi",
     "mnemonic": "",
     "translation": "it's related to you",
-    "image": "",
+    "image": "images\\un lien avec moi.png",
     "starred": false
   },
   {
     "word": "it's related to you",
     "mnemonic": "",
-    "translation": "c'est lié à toi",
-    "image": "",
+    "translation": "c'est lié à toi / il y a un lien avec toi",
+    "image": "images\\un lien avec moi.png",
     "starred": false
   },
   {
@@ -13309,12 +13309,12 @@
   {
     "word": "ça se voit (que...)",
     "mnemonic": "",
-    "translation": "it's obvious",
+    "translation": "we can tell / belli oluyo",
     "image": "",
     "starred": false
   },
   {
-    "word": "it's obvious",
+    "word": "we can tell / belli oluyo",
     "mnemonic": "",
     "translation": "ça se voit (que...)",
     "image": "",
@@ -13751,14 +13751,14 @@
     "word": "full",
     "mnemonic": "resimde var",
     "translation": "full",
-    "image": "full.PNG",
+    "image": "images\\full.PNG",
     "starred": false
   },
   {
     "word": "no luck (lak diye değil luk gibi okudu fransız versiyonu yani)",
     "mnemonic": "",
     "translation": "no luck (lak diye değil luk gibi okudu fransız versiyonu yani)",
-    "image": "luck.PNG",
+    "image": "images\\luck.PNG",
     "starred": false
   },
   {
@@ -13856,7 +13856,7 @@
     "word": "my dates / to date",
     "mnemonic": "",
     "translation": "mes dates / dater (normal deyt diye okunuyo)",
-    "image": "dates.PNG",
+    "image": "images\\dates.PNG",
     "starred": false
   },
   {
@@ -13919,56 +13919,56 @@
     "word": "radin / radine",
     "mnemonic": "",
     "translation": "cimri",
-    "image": "radin.PNG",
+    "image": "images\\radin.PNG",
     "starred": false
   },
   {
     "word": "cimri",
     "mnemonic": "",
     "translation": "radin / radine",
-    "image": "radin.PNG",
+    "image": "images\\radin.PNG",
     "starred": false
   },
   {
     "word": "grade (informal sanırım)",
     "mnemonic": "",
     "translation": "pis (informal sanırım)",
-    "image": "grade.PNG",
+    "image": "images\\grade.PNG",
     "starred": false
   },
   {
     "word": "pis (informal sanırım)",
     "mnemonic": "",
     "translation": "grade (informal sanırım)",
-    "image": "grade.PNG",
+    "image": "images\\grade.PNG",
     "starred": false
   },
   {
     "word": "beauf",
     "mnemonic": "",
     "translation": "elegant'ın zıttı, dağ ayısı",
-    "image": "beauf.PNG",
+    "image": "images\\beauf.PNG",
     "starred": false
   },
   {
     "word": "elegant'ın zıttı, dağ ayısı",
     "mnemonic": "",
     "translation": "beauf",
-    "image": "beauf.PNG",
+    "image": "images\\beauf.PNG",
     "starred": false
   },
   {
     "word": "first",
     "mnemonic": "",
     "translation": "en premier",
-    "image": "en premier.PNG",
+    "image": "images\\en premier.PNG",
     "starred": false
   },
   {
     "word": "en premier",
     "mnemonic": "",
     "translation": "first",
-    "image": "en premier.PNG",
+    "image": "images\\en premier.PNG",
     "starred": false
   },
   {
@@ -14017,84 +14017,84 @@
     "word": "s'étouffer",
     "mnemonic": "",
     "translation": "boğulmak",
-    "image": "s'étouffer.PNG",
+    "image": "images\\s'étouffer.PNG",
     "starred": false
   },
   {
     "word": "boğulmak",
     "mnemonic": "",
     "translation": "s'étouffer",
-    "image": "s'étouffer.PNG",
+    "image": "images\\s'étouffer.PNG",
     "starred": false
   },
   {
     "word": "se régaler",
     "mnemonic": "",
     "translation": "çok eğlenmek",
-    "image": "se régaler.PNG",
+    "image": "images\\se régaler.PNG",
     "starred": false
   },
   {
     "word": "çok eğlenmek",
     "mnemonic": "",
     "translation": "se régaler",
-    "image": "se régaler.PNG",
+    "image": "images\\se régaler.PNG",
     "starred": false
   },
   {
     "word": "retire ta veste",
     "mnemonic": "",
     "translation": "ceketini çıkra",
-    "image": "retire ta veste.PNG",
+    "image": "images\\retire ta veste.PNG",
     "starred": false
   },
   {
     "word": "ceketini çıkra",
     "mnemonic": "",
     "translation": "retire ta veste",
-    "image": "retire ta veste.PNG",
+    "image": "images\\retire ta veste.PNG",
     "starred": false
   },
   {
     "word": "retenir (je retiens)",
     "mnemonic": "",
     "translation": "to remember (i remember)",
-    "image": "retenir.PNG",
+    "image": "images\\retenir.PNG",
     "starred": false
   },
   {
     "word": "to remember (i remember)",
     "mnemonic": "",
     "translation": "retenir (je retiens)",
-    "image": "retenir.PNG",
+    "image": "images\\retenir.PNG",
     "starred": false
   },
   {
     "word": "fidèle / infidèle",
     "mnemonic": "",
     "translation": "faithful / unfaithful",
-    "image": "fidèle.PNG",
+    "image": "images\\fidèle.PNG",
     "starred": false
   },
   {
     "word": "faithful / unfaithful",
     "mnemonic": "",
     "translation": "fidèle / infidèle",
-    "image": "fidèle.PNG",
+    "image": "images\\fidèle.PNG",
     "starred": false
   },
   {
     "word": "tu nous as embrouillé le cerveau, je t'ai embrouillé",
     "mnemonic": "",
     "translation": "you confused our brain, i confused you",
-    "image": "embrouiller.PNG",
+    "image": "images\\embrouiller.PNG",
     "starred": false
   },
   {
     "word": "you confused our brain, i confused you",
     "mnemonic": "",
     "translation": "tu nous as embrouillé le cerveau, je t'ai embrouillé",
-    "image": "embrouiller.PNG",
+    "image": "images\\embrouiller.PNG",
     "starred": false
   },
   {
@@ -14178,112 +14178,112 @@
     "word": "on se met sur la gueule",
     "mnemonic": "amine squeezie'nin ilişkisini ifşa ettikten sonra squeezie bunu dedi",
     "translation": "we're fighting/arguing each other",
-    "image": "on se met sur la gueule.PNG",
+    "image": "images\\on se met sur la gueule.PNG",
     "starred": false
   },
   {
     "word": "we're fighting/arguing each other",
     "mnemonic": "amine squeezie'nin ilişkisini ifşa ettikten sonra squeezie bunu dedi",
     "translation": "on se met sur la gueule",
-    "image": "on se met sur la gueule.PNG",
+    "image": "images\\on se met sur la gueule.PNG",
     "starred": false
   },
   {
     "word": "J'ai fait une greffe de cheveux",
     "mnemonic": "",
     "translation": "saç ektirdim",
-    "image": "greffe.PNG",
+    "image": "images\\greffe.PNG",
     "starred": false
   },
   {
     "word": "saç ektirdim",
     "mnemonic": "",
     "translation": "J'ai fait une greffe de cheveux",
-    "image": "greffe.PNG",
+    "image": "images\\greffe.PNG",
     "starred": false
   },
   {
     "word": "à la base",
     "mnemonic": "base basically gibi",
     "translation": "originally / basically",
-    "image": "à la base.PNG",
+    "image": "images\\à la base.PNG",
     "starred": false
   },
   {
     "word": "originally / basically",
     "mnemonic": "base basically gibi",
     "translation": "à la base",
-    "image": "à la base.PNG",
+    "image": "images\\à la base.PNG",
     "starred": false
   },
   {
     "word": "fâcher (Elle s’est fâchée contre moi, tu vas le fâcher, je suis fâché avec lui)",
     "mnemonic": "",
     "translation": "to anger (She got angry at me, you will anger him, i'm angry with him)",
-    "image": "fâcher.PNG",
+    "image": "images\\fâcher.PNG",
     "starred": false
   },
   {
     "word": "to anger (She got angry at me, you will anger him, i'm angry with him)",
     "mnemonic": "",
     "translation": "fâcher (Elle s’est fâchée contre moi, tu vas le fâcher, je suis fâché avec lui)",
-    "image": "fâcher.PNG",
+    "image": "images\\fâcher.PNG",
     "starred": false
   },
   {
     "word": "roter",
     "mnemonic": "pudge'ın ikinci skillinin adı rot'tu, yeşil yeşil geğiriyodu gibi düşün",
     "translation": "geğirmek",
-    "image": "roter.PNG",
+    "image": "images\\roter.PNG",
     "starred": false
   },
   {
     "word": "geğirmek",
     "mnemonic": "pudge'ın ikinci skillinin adı rot'tu, yeşil yeşil geğiriyodu gibi düşün",
     "translation": "roter",
-    "image": "roter.PNG",
+    "image": "images\\roter.PNG",
     "starred": false
   },
   {
     "word": "susceptible",
     "mnemonic": "",
     "translation": "likely, eğilimli, alıngan",
-    "image": "susceptible.PNG",
+    "image": "images\\susceptible.PNG",
     "starred": false
   },
   {
     "word": "likely, eğilimli, alıngan",
     "mnemonic": "",
     "translation": "susceptible",
-    "image": "susceptible.PNG",
+    "image": "images\\susceptible.PNG",
     "starred": false
   },
   {
     "word": "Elle est en train de m’avoir, elle m'a eu (avoir quelqu'un)",
     "mnemonic": "",
     "translation": "beni kandırıyor, beni kandırdı",
-    "image": "avoir ama kandırmak.PNG",
+    "image": "images\\avoir ama kandırmak.PNG",
     "starred": false
   },
   {
     "word": "beni kandırıyor, beni kandırdı",
     "mnemonic": "",
     "translation": "Elle est en train de m’avoir, elle m'a eu (avoir quelqu'un)",
-    "image": "avoir ama kandırmak.PNG",
+    "image": "images\\avoir ama kandırmak.PNG",
     "starred": false
   },
   {
     "word": "un daron / une daronne",
     "mnemonic": "",
     "translation": "a dad / a mom (slang)",
-    "image": "mon daron.PNG",
+    "image": "images\\mon daron.PNG",
     "starred": false
   },
   {
     "word": "a dad / a mom (slang)",
     "mnemonic": "",
     "translation": "un daron / une daronne",
-    "image": "mon daron.PNG",
+    "image": "images\\mon daron.PNG",
     "starred": false
   },
   {
@@ -14304,14 +14304,14 @@
     "word": "il culpabilise",
     "mnemonic": "",
     "translation": "he feels guilty / vicdan azabı çekiyor",
-    "image": "culpabiliser.png",
+    "image": "images\\culpabiliser.png",
     "starred": false
   },
   {
     "word": "he feels guilty / vicdan azabı çekiyor",
     "mnemonic": "",
     "translation": "il culpabilise",
-    "image": "culpabiliser.png",
+    "image": "images\\culpabiliser.png",
     "starred": false
   },
   {
@@ -16259,5 +16259,572 @@
     "translation": "Acteurs clés",
     "image": "",
     "starred": true
+  },
+  {
+    "word": "il était en mode (il était genre) 'viens là fils de pute' / c'est en mode",
+    "mnemonic": "",
+    "translation": "he was like 'come here son of a bitch' / it's like",
+    "image": "images\\c'est un mode.png",
+    "starred": false
+  },
+  {
+    "word": "he was like 'come here son of a bitch' / it's like",
+    "mnemonic": "",
+    "translation": "il était en mode (il était genre) 'viens là fils de pute' / c'est en mode",
+    "image": "images\\c'est un mode.png",
+    "starred": false
+  },
+  {
+    "word": "ils sont dans la vanne",
+    "mnemonic": "",
+    "translation": "they're joking/messing around (informal)",
+    "image": "images\\ils sont dans la vanne.png",
+    "starred": false
+  },
+  {
+    "word": "they're joking/messing around (informal)",
+    "mnemonic": "",
+    "translation": "ils sont dans la vanne",
+    "image": "images\\ils sont dans la vanne.png",
+    "starred": false
+  },
+  {
+    "word": "récompanse",
+    "mnemonic": "",
+    "translation": "reward",
+    "image": "images\\récompanse.png",
+    "starred": false
+  },
+  {
+    "word": "reward",
+    "mnemonic": "",
+    "translation": "récompanse",
+    "image": "images\\récompanse.png",
+    "starred": false
+  },
+  {
+    "word": "tiens tiens tiens",
+    "mnemonic": "",
+    "translation": "well well well",
+    "image": "images\\tiens tiens tiens.png",
+    "starred": false
+  },
+  {
+    "word": "well well well",
+    "mnemonic": "",
+    "translation": "tiens tiens tiens",
+    "image": "images\\tiens tiens tiens.png",
+    "starred": false
+  },
+  {
+    "word": "pétard",
+    "mnemonic": "pêter gibi, ot içip osurduğunu düşün",
+    "translation": "ot / weed",
+    "image": "images\\pétard.png",
+    "starred": false
+  },
+  {
+    "word": "ot / weed",
+    "mnemonic": "pêter gibi, ot içip osurduğunu düşün",
+    "translation": "pétard",
+    "image": "images\\pétard.png",
+    "starred": false
+  },
+  {
+    "word": "pétard",
+    "mnemonic": "pêter gibi, ot içip osurduğunu düşün",
+    "translation": "ot / weed",
+    "image": "images\\pétard.png",
+    "starred": false
+  },
+  {
+    "word": "ot / weed",
+    "mnemonic": "pêter gibi, ot içip osurduğunu düşün",
+    "translation": "pétard",
+    "image": "images\\pétard.png",
+    "starred": false
+  },
+  {
+    "word": "cerner / tu m'as cerné",
+    "mnemonic": "cerveau'dan aklına gelsin, çözmek zeka işi",
+    "translation": "çözmek / beni çözdün (informal)",
+    "image": "images\\cerner.png",
+    "starred": false
+  },
+  {
+    "word": "çözmek / beni çözdün (informal)",
+    "mnemonic": "cerveau'dan aklına gelsin, çözmek zeka işi",
+    "translation": "cerner / tu m'as cerné",
+    "image": "images\\cerner.png",
+    "starred": false
+  },
+  {
+    "word": "fainéant",
+    "mnemonic": "",
+    "translation": "lazy (bi tık daha rare ve formal)",
+    "image": "images\\fainéant.png",
+    "starred": false
+  },
+  {
+    "word": "lazy (bi tık daha rare ve formal)",
+    "mnemonic": "",
+    "translation": "fainéant",
+    "image": "images\\fainéant.png",
+    "starred": false
+  },
+  {
+    "word": "haleine (alen diye okunuyo)",
+    "mnemonic": "",
+    "translation": "ağız kokusu",
+    "image": "images\\haleine.png",
+    "starred": false
+  },
+  {
+    "word": "ağız kokusu",
+    "mnemonic": "",
+    "translation": "haleine (alen diye okunuyo)",
+    "image": "images\\haleine.png",
+    "starred": false
+  },
+  {
+    "word": "le contenu",
+    "mnemonic": "",
+    "translation": "the content / içerik",
+    "image": "images\\contenu.png",
+    "starred": false
+  },
+  {
+    "word": "the content / içerik",
+    "mnemonic": "",
+    "translation": "le contenu",
+    "image": "images\\contenu.png",
+    "starred": false
+  },
+  {
+    "word": "i am sorry (bit more formal)",
+    "mnemonic": "",
+    "translation": "je suis navré",
+    "image": "images\\je suis navré.png",
+    "starred": false
+  },
+  {
+    "word": "je suis navré",
+    "mnemonic": "",
+    "translation": "i am sorry (bit more formal)",
+    "image": "images\\je suis navré.png",
+    "starred": false
+  },
+  {
+    "word": "keum (küm diye okunuyo)",
+    "mnemonic": "",
+    "translation": "mec (verlan)",
+    "image": "images\\keum.png",
+    "starred": false
+  },
+  {
+    "word": "mec (verlan)",
+    "mnemonic": "",
+    "translation": "keum (küm diye okunuyo)",
+    "image": "images\\keum.png",
+    "starred": false
+  },
+  {
+    "word": "trou de cul / trou de balle",
+    "mnemonic": "",
+    "translation": "asshole",
+    "image": "images\\trou de balle.png",
+    "starred": false
+  },
+  {
+    "word": "asshole",
+    "mnemonic": "",
+    "translation": "trou de cul / trou de balle",
+    "image": "images\\trou de balle.png",
+    "starred": false
+  },
+  {
+    "word": "you didnt see that coming",
+    "mnemonic": "",
+    "translation": "tu l'as pas vu venir celle-là",
+    "image": "images\\you didnt see that coming.png",
+    "starred": false
+  },
+  {
+    "word": "tu l'as pas vu venir celle-là",
+    "mnemonic": "",
+    "translation": "trou de cul / trou de balle",
+    "image": "images\\you didnt see that coming.png",
+    "starred": false
+  },
+  {
+    "word": "for god's sake / please",
+    "mnemonic": "",
+    "translation": "par pitié",
+    "image": "images\\par pitié.png",
+    "starred": false
+  },
+  {
+    "word": "par pitié",
+    "mnemonic": "",
+    "translation": "for god's sake / please",
+    "image": "images\\par pitié.png",
+    "starred": false
+  },
+  {
+    "word": "06 61 26 61 71",
+    "mnemonic": "",
+    "translation": "zéro six, soixante et un, vingt-six, soixante et un, soixante et onze",
+    "image": "",
+    "starred": false
+  },
+  {
+    "word": "ça se voit pas du tout",
+    "mnemonic": "",
+    "translation": "hiç belli olmuyo, we cant tell at all",
+    "image": "images\\ça se voit pas du tout.png",
+    "starred": false
+  },
+  {
+    "word": "hiç belli olmuyo, we cant tell at all",
+    "mnemonic": "",
+    "translation": "ça se voit pas du tout",
+    "image": "images\\ça se voit pas du tout.png",
+    "starred": false
+  },
+  {
+    "word": "un truc comme ça",
+    "mnemonic": "",
+    "translation": "something like that",
+    "image": "images\\ça se voit pas du tout.png",
+    "starred": false
+  },
+  {
+    "word": "something like that",
+    "mnemonic": "",
+    "translation": "un truc comme ça",
+    "image": "images\\un truc comme ça.png",
+    "starred": false
+  },
+  {
+    "word": "relacher",
+    "mnemonic": "",
+    "translation": "to release (osurmak anlamında salmak olarak da kullanılıyo)",
+    "image": "images\\relacher.png",
+    "starred": false
+  },
+  {
+    "word": "to release (osurmak anlamında salmak olarak da kullanılıyo)",
+    "mnemonic": "",
+    "translation": "relacher",
+    "image": "images\\relacher.png",
+    "starred": false
+  },
+  {
+    "word": "sudation-transpiration / suer-transpirer / la sueur",
+    "mnemonic": "",
+    "translation": "sweating / to sweat / sweat",
+    "image": "images\\sudation.png",
+    "starred": false
+  },
+  {
+    "word": "sweating / to sweat / sweat",
+    "mnemonic": "",
+    "translation": "sudation-transpiration / suer-transpirer / la sueur",
+    "image": "images\\sudation.png",
+    "starred": false
+  },
+  {
+    "word": "tu me prends pour un con?",
+    "mnemonic": "",
+    "translation": "you think i'm stupid?",
+    "image": "images\\tu me prends pour un con.png",
+    "starred": false
+  },
+  {
+    "word": "you think i'm stupid?",
+    "mnemonic": "",
+    "translation": "tu me prends pour un con?",
+    "image": "images\\tu me prends pour un con.png",
+    "starred": false
+  },
+  {
+    "word": "avoir du buzz / buzzer",
+    "mnemonic": "",
+    "translation": "to be popular / to go viral",
+    "image": "images\\buzz.png",
+    "starred": false
+  },
+  {
+    "word": "to be popular / to go viral",
+    "mnemonic": "",
+    "translation": "avoir du buzz / buzzer",
+    "image": "images\\buzz.png",
+    "starred": false
+  },
+  {
+    "word": "j'ai embrassé ta mère sur la bouche",
+    "mnemonic": "",
+    "translation": "ananı ağzından öptüm",
+    "image": "images\\embrassé sur la bouche.png",
+    "starred": false
+  },
+  {
+    "word": "ananı ağzından öptüm",
+    "mnemonic": "",
+    "translation": "j'ai embrassé ta mère sur la bouche",
+    "image": "images\\embrassé sur la bouche.png",
+    "starred": false
+  },
+  {
+    "word": "prétendre / faire semblant",
+    "mnemonic": "",
+    "translation": "to pretend",
+    "image": "images\\prétendre.png",
+    "starred": false
+  },
+  {
+    "word": "to pretend",
+    "mnemonic": "",
+    "translation": "prétendre / faire semblant",
+    "image": "images\\prétendre.png",
+    "starred": false
+  },
+  {
+    "word": "hatırladığım kadarıyla hayır",
+    "mnemonic": "",
+    "translation": "pas que je me souvienne",
+    "image": "images\\pas que je me souvienne.png",
+    "starred": false
+  },
+  {
+    "word": "pas que je me souvienne",
+    "mnemonic": "",
+    "translation": "hatırladığım kadarıyla hayır",
+    "image": "images\\pas que je me souvienne.png",
+    "starred": false
+  },
+  {
+    "word": "samanlıkta iğne aramak",
+    "mnemonic": "",
+    "translation": "chercher une aiguille dans une botte de foin (kısaca: 'chercher l'aiguille') / looking for a needle in a haystack",
+    "image": "images\\samanlıkta iğne aramak.png",
+    "starred": false
+  },
+  {
+    "word": "chercher une aiguille dans une botte de foin (kısaca: 'chercher l'aiguille') / looking for a needle in a haystack",
+    "mnemonic": "",
+    "translation": "samanlıkta iğne aramak",
+    "image": "images\\samanlıkta iğne aramak.png",
+    "starred": false
+  },
+  {
+    "word": "instincte de survie",
+    "mnemonic": "",
+    "translation": "survival instinct",
+    "image": "images\\instincte de survie.png",
+    "starred": false
+  },
+  {
+    "word": "survival instinct",
+    "mnemonic": "",
+    "translation": "instincte de survie",
+    "image": "images\\instincte de survie.png",
+    "starred": false
+  },
+  {
+    "word": "le repassage / repasser",
+    "mnemonic": "",
+    "translation": "ironing / to iron",
+    "image": "images\\repassage.png",
+    "starred": false
+  },
+  {
+    "word": "ironing / to iron",
+    "mnemonic": "",
+    "translation": "le repassage / repasser",
+    "image": "images\\repassage.png",
+    "starred": false
+  },
+  {
+    "word": "i'm not a fan of your job",
+    "mnemonic": "",
+    "translation": "je ne suis pas fan de ton travail",
+    "image": "images\\i'm not a fan of your job.png",
+    "starred": false
+  },
+  {
+    "word": "je ne suis pas fan de ton travail",
+    "mnemonic": "",
+    "translation": "i'm not a fan of your job",
+    "image": "images\\i'm not a fan of your job.png",
+    "starred": false
+  },
+  {
+    "word": "il a floppé",
+    "mnemonic": "",
+    "translation": "it was a failure (for him) (slang)",
+    "image": "images\\flopper.png",
+    "starred": false
+  },
+  {
+    "word": "it was a failure (for him) (slang)",
+    "mnemonic": "",
+    "translation": "il a floppé",
+    "image": "images\\flopper.png",
+    "starred": false
+  },
+  {
+    "word": "la calvitie",
+    "mnemonic": "",
+    "translation": "baldness",
+    "image": "images\\la calvitie.png",
+    "starred": false
+  },
+  {
+    "word": "baldness",
+    "mnemonic": "",
+    "translation": "la calvitie",
+    "image": "images\\la calvitie.png",
+    "starred": false
+  },
+  {
+    "word": "tu dis la vé",
+    "mnemonic": "",
+    "translation": "you're telling the truth (informal)",
+    "image": "images\\la vé.png",
+    "starred": false
+  },
+  {
+    "word": "you're telling the truth (informal)",
+    "mnemonic": "",
+    "translation": "tu dis la vé",
+    "image": "images\\la vé.png",
+    "starred": false
+  },
+  {
+    "word": "c'est plié",
+    "mnemonic": "",
+    "translation": "iş halloldu / işlem tamam",
+    "image": "images\\c'est plié.png",
+    "starred": false
+  },
+  {
+    "word": "iş halloldu / işlem tamam",
+    "mnemonic": "",
+    "translation": "c'est plié",
+    "image": "images\\c'est plié.png",
+    "starred": false
+  },
+  {
+    "word": "des chicos",
+    "mnemonic": "",
+    "translation": "teeth (informal)",
+    "image": "images\\les chicos.png",
+    "starred": false
+  },
+  {
+    "word": "teeth (informal)",
+    "mnemonic": "",
+    "translation": "les chicos",
+    "image": "images\\les chicos.png",
+    "starred": false
+  },
+  {
+    "word": "dent pourrie",
+    "mnemonic": "",
+    "translation": "çürük diş",
+    "image": "images\\les chicos.png",
+    "starred": false
+  },
+  {
+    "word": "çürük diş",
+    "mnemonic": "",
+    "translation": "dent pourrie",
+    "image": "images\\les chicos.png",
+    "starred": false
+  },
+  {
+    "word": "la chausson / la claquette / la pantoufle",
+    "mnemonic": "",
+    "translation": "terlik / slippers",
+    "image": "images\\terlik.png",
+    "starred": false
+  },
+  {
+    "word": "terlik / slippers",
+    "mnemonic": "",
+    "translation": "la chausson / la claquette / la pantoufle",
+    "image": "images\\terlik.png",
+    "starred": false
+  },
+  {
+    "word": "on t'a cramé",
+    "mnemonic": "",
+    "translation": "we caught you (informal)",
+    "image": "images\\on t'a cramé.png",
+    "starred": false
+  },
+  {
+    "word": "we caught you (informal)",
+    "mnemonic": "",
+    "translation": "on t'a cramé",
+    "image": "images\\on t'a cramé.png",
+    "starred": false
+  },
+  {
+    "word": "les mains moites",
+    "mnemonic": "",
+    "translation": "sweaty hands",
+    "image": "images\\sweaty hands.png",
+    "starred": false
+  },
+  {
+    "word": "sweaty hands",
+    "mnemonic": "",
+    "translation": "les mains moites",
+    "image": "images\\sweaty hands.png",
+    "starred": false
+  },
+  {
+    "word": "enterrer",
+    "mnemonic": "terre'den aklına gelsin. Hatta fransızcasını ilk görünce gömmek olduğunu tahmin etmiştin",
+    "translation": "to bury",
+    "image": "images\\enterrer.png",
+    "starred": false
+  },
+  {
+    "word": "to bury",
+    "mnemonic": "terre'den aklına gelsin. Hatta fransızcasını ilk görünce gömmek olduğunu tahmin etmiştin",
+    "translation": "enterrer",
+    "image": "images\\enterrer.png",
+    "starred": false
+  },
+  {
+    "word": "discrètement",
+    "mnemonic": "",
+    "translation": "sessizce, gizlice",
+    "image": "images\\discrètement.png",
+    "starred": false
+  },
+  {
+    "word": "sessizce, gizlice",
+    "mnemonic": "",
+    "translation": "discrètement",
+    "image": "images\\discrètement.png",
+    "starred": false
+  },
+  {
+    "word": "quand on s'adresse à lui / s'adresser à / je m'adresse à toi",
+    "mnemonic": "",
+    "translation": "when we talk to him / to talk to someone / i'm talking to you",
+    "image": "images\\s'adresser à.png",
+    "starred": false
+  },
+  {
+    "word": "when we talk to him / to talk to someone / i'm talking to you",
+    "mnemonic": "",
+    "translation": "quand on s'adresse à lui / s'adresser à / je m'adresse à toi",
+    "image": "images\\s'adresser à.png",
+    "starred": false
   }
 ]
