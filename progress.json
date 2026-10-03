@@ -857,11 +857,11 @@
   },
   "il vaut mieux que tu partes": {
     "interval_days": 1,
-    "last_reviewed": "1970-01-01",
+    "last_reviewed": "2026-10-03",
     "difficulty_level": 1,
     "times_correct": 0,
-    "times_wrong": 0,
-    "ease_factor": 2.0
+    "times_wrong": 1,
+    "ease_factor": 1.8
   },
   "je ne comprends rien \u00e0 ce film": {
     "interval_days": 6,
@@ -1152,10 +1152,10 @@
     "ease_factor": 2.0
   },
   "fuguer": {
-    "interval_days": 1,
-    "last_reviewed": "1970-01-01",
+    "interval_days": 6,
+    "last_reviewed": "2026-10-03",
     "difficulty_level": 1,
-    "times_correct": 0,
+    "times_correct": 1,
     "times_wrong": 0,
     "ease_factor": 2.0
   },
@@ -10536,10 +10536,10 @@
     "ease_factor": 2.0
   },
   "he is successful": {
-    "interval_days": 1,
-    "last_reviewed": "1970-01-01",
+    "interval_days": 6,
+    "last_reviewed": "2026-10-03",
     "difficulty_level": 1,
-    "times_correct": 0,
+    "times_correct": 1,
     "times_wrong": 0,
     "ease_factor": 2.0
   },
@@ -14961,11 +14961,11 @@
   },
   "la touffe": {
     "interval_days": 1,
-    "last_reviewed": "1970-01-01",
+    "last_reviewed": "2026-10-03",
     "difficulty_level": 1,
     "times_correct": 0,
-    "times_wrong": 0,
-    "ease_factor": 2.0
+    "times_wrong": 1,
+    "ease_factor": 1.8
   },
   "pubic hair (vulgar)": {
     "interval_days": 1,
@@ -19113,11 +19113,11 @@
   },
   "survival instinct": {
     "interval_days": 1,
-    "last_reviewed": "1970-01-01",
+    "last_reviewed": "2026-10-03",
     "difficulty_level": 1,
     "times_correct": 0,
-    "times_wrong": 0,
-    "ease_factor": 2.0
+    "times_wrong": 1,
+    "ease_factor": 1.8
   },
   "c'est li\u00e9 \u00e0 toi / il y a un lien avec toi": {
     "interval_days": 6,
@@ -19316,6 +19316,246 @@
     "last_reviewed": "2025-12-24",
     "difficulty_level": 1,
     "times_correct": 1,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "related to that, about that": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "il \u00e9tait en mode (il \u00e9tait genre) 'viens l\u00e0 fils de pute' / c'est en mode": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "discr\u00e8tement": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "sessizce, gizlice": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "quand on s'adresse \u00e0 lui / s'adresser \u00e0 / je m'adresse \u00e0 toi": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "when we talk to him / to talk to someone / i'm talking to you": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "est-ce que c'est un rapport avec mes yeux?": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "is it related to my eyes?": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Trop gras": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "Too greasy": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "J'\u00e9tais \u00e0 \u00e7a": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "I was this close": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "comme par hasard": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "what a coincidence": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "j'ai mis la vid\u00e9o en pause": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "I paused the video": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "l'\u00e2me": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "soul": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "l'\u00e2ne": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "donkey": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "dis toi que": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "keep in mind that / remember that": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "bouder": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "surat asmak": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "se creuser la t\u00eate": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "think hard": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "\u00e7a se tente": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "denemeye de\u011fer": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "soulever": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
+    "times_wrong": 0,
+    "ease_factor": 2.0
+  },
+  "to raise": {
+    "interval_days": 1,
+    "last_reviewed": "1970-01-01",
+    "difficulty_level": 1,
+    "times_correct": 0,
     "times_wrong": 0,
     "ease_factor": 2.0
   }
