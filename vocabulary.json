@@ -11825,12 +11825,12 @@
   {
     "word": "en rapport avec ça",
     "mnemonic": "",
-    "translation": "related to that",
+    "translation": "related to that, about that",
     "image": "",
     "starred": false
   },
   {
-    "word": "related to that",
+    "word": "related to that, about that",
     "mnemonic": "",
     "translation": "en rapport avec ça",
     "image": "",
@@ -16825,6 +16825,188 @@
     "mnemonic": "",
     "translation": "quand on s'adresse à lui / s'adresser à / je m'adresse à toi",
     "image": "images\\s'adresser à.png",
+    "starred": false
+  },
+  {
+    "word": "est-ce que c'est un rapport avec mes yeux?",
+    "mnemonic": "",
+    "translation": "is it related to my eyes?",
+    "image": "images\\c'est un rapport.png",
+    "starred": false
+  },
+  {
+    "word": "is it related to my eyes?",
+    "mnemonic": "",
+    "translation": "est-ce que c'est un rapport avec mes yeux?",
+    "image": "images\\c'est un rapport.png",
+    "starred": false
+  },
+  {
+    "word": "Trop gras",
+    "mnemonic": "",
+    "translation": "Too greasy",
+    "image": "",
+    "starred": false
+  },
+  {
+    "word": "Too greasy",
+    "mnemonic": "",
+    "translation": "Trop gras",
+    "image": "",
+    "starred": false
+  },
+  {
+    "word": "J'étais à ça",
+    "mnemonic": "",
+    "translation": "I was this close",
+    "image": "j'étais à ça.png",
+    "starred": false
+  },
+  {
+    "word": "I was this close",
+    "mnemonic": "",
+    "translation": "J'étais à ça",
+    "image": "j'étais à ça.png",
+    "starred": false
+  },
+  {
+    "word": "comme par hasard",
+    "mnemonic": "",
+    "translation": "what a coincidence",
+    "image": "comme par hasard.png",
+    "starred": false
+  },
+  {
+    "word": "what a coincidence",
+    "mnemonic": "",
+    "translation": "comme par hasard",
+    "image": "comme par hasard.png",
+    "starred": false
+  },
+  {
+    "word": "j'ai mis la vidéo en pause",
+    "mnemonic": "",
+    "translation": "I paused the video",
+    "image": "j'ai mis la vidéo en pause.png",
+    "starred": false
+  },
+  {
+    "word": "I paused the video",
+    "mnemonic": "",
+    "translation": "j'ai mis la vidéo en pause",
+    "image": "j'ai mis la vidéo en pause.png",
+    "starred": false
+  },
+  {
+    "word": "j'ai mis la vidéo en pause",
+    "mnemonic": "",
+    "translation": "I paused the video",
+    "image": "j'ai mis la vidéo en pause.png",
+    "starred": false
+  },
+  {
+    "word": "I paused the video",
+    "mnemonic": "",
+    "translation": "j'ai mis la vidéo en pause",
+    "image": "j'ai mis la vidéo en pause.png",
+    "starred": false
+  },
+  {
+    "word": "l'âme",
+    "mnemonic": "amcıktan aklına gelsin. ruhun amı varmış gibi",
+    "translation": "soul",
+    "image": "l'âme.png",
+    "starred": false
+  },
+  {
+    "word": "soul",
+    "mnemonic": "",
+    "translation": "l'âme",
+    "image": "l'âme.png",
+    "starred": false
+  },
+  {
+    "word": "l'âne",
+    "mnemonic": "zizidane",
+    "translation": "donkey",
+    "image": "l'âne.png",
+    "starred": false
+  },
+  {
+    "word": "donkey",
+    "mnemonic": "zizidane",
+    "translation": "l'âne",
+    "image": "l'âne.png",
+    "starred": false
+  },
+  {
+    "word": "dis toi que",
+    "mnemonic": "eva demişti ki 'ayrıca dis toi que yüzüm hala şişik",
+    "translation": "keep in mind that / remember that",
+    "image": "",
+    "starred": false
+  },
+  {
+    "word": "keep in mind that / remember that",
+    "mnemonic": "eva demişti ki 'ayrıca dis toi que yüzüm hala şişik",
+    "translation": "dis toi que",
+    "image": "",
+    "starred": false
+  },
+  {
+    "word": "bouder",
+    "mnemonic": "",
+    "translation": "surat asmak",
+    "image": "",
+    "starred": false
+  },
+  {
+    "word": "surat asmak",
+    "mnemonic": "",
+    "translation": "bouder",
+    "image": "",
+    "starred": false
+  },
+  {
+    "word": "se creuser la tête",
+    "mnemonic": "",
+    "translation": "think hard",
+    "image": "se creuser la tete.png",
+    "starred": false
+  },
+  {
+    "word": "think hard",
+    "mnemonic": "",
+    "translation": "se creuser la tête",
+    "image": "se creuser la tete.png",
+    "starred": false
+  },
+  {
+    "word": "ça se tente",
+    "mnemonic": "",
+    "translation": "denemeye değer",
+    "image": "",
+    "starred": false
+  },
+  {
+    "word": "denemeye değer",
+    "mnemonic": "",
+    "translation": "ça se tente",
+    "image": "",
+    "starred": false
+  },
+  {
+    "word": "soulever",
+    "mnemonic": "",
+    "translation": "to raise",
+    "image": "soulever.jpg",
+    "starred": false
+  },
+  {
+    "word": "to raise",
+    "mnemonic": "",
+    "translation": "soulever",
+    "image": "soulever.jpg",
     "starred": false
   }
 ]
